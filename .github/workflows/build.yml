@@ -50,15 +50,6 @@ jobs:
           cd ./tmp/sing-box || exit 1
           zip -r ../../publish/sing-box.zip *
 
-      - name: Release and upload assets
-        uses: svenstaro/upload-release-action@v2
-        with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          release_name: ${{ env.RELEASE_NAME }}
-          tag: ${{ env.TAG_NAME }}
-          file_glob: true
-          file: ./publish/*
-
       - name: Git push assets to "release" branch
         run: |
           rm -rf ./publish/sing-box.zip
