@@ -2,7 +2,7 @@ name: build.yml
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 3,9,15,21 * * *"
+    - cron: "30 3 * * *"
   push:
     branches:
       - master
@@ -34,31 +34,30 @@ jobs:
 
       - name: Collect files
         run: |
-          mkdir -p ./publish
-          curl -sSL $GEOIP_URL > ./publish/geoip.dat
-          curl -sSL $GEOIP_URL.sha256sum > ./publish/geoip.dat.sha256sum
+          mkdir -p /tmp/publish
+          curl -sSL $GEOIP_URL > /tmp/publish/geoip.dat
+          curl -sSL $GEOIP_URL.sha256sum > /tmp/publish/geoip.dat.sha256sum
 
-          curl -sSL $GEOSITE_URL > ./publish/geosite.dat
-          curl -sSL $GEOSITE_URL.sha256sum > ./publish/geosite.dat.sha256sum
+          curl -sSL $GEOSITE_URL > /tmp/publish/geosite.dat
+          curl -sSL $GEOSITE_URL.sha256sum > /tmp/publish/geosite.dat.sha256sum
 
       - name: Generate sing-box srs
         run: |
           go build -C geodat2srs ./
-          ./geodat2srs/geodat2srs geoip -i ./publish/geoip.dat -o ./tmp/sing-box/rule-set-geoip/
-          ./geodat2srs/geodat2srs geosite -i ./publish/geosite.dat -o ./tmp/sing-box/rule-set-geosite/
-          cd ./tmp/sing-box || exit 1
-          zip -r ../../publish/sing-box.zip *
+          ./geodat2srs/geodat2srs geoip -i /tmp/publish/geoip.dat -o ./tmp/publish/sing-box/rule-set-geoip/
+          ./geodat2srs/geodat2srs geosite -i /tmp/publish/geosite.dat -o ./tmp/publish/sing-box/rule-set-geosite/
+
+      - name: Checkout release branch
+        run: |
+          git fetch origin release
+          git checkout -B release origin/release
 
       - name: Git push assets to "release" branch
         run: |
-          rm -rf ./publish/sing-box.zip
-          mv ./tmp/sing-box ./publish/sing-box
-          cd publish || exit 1
-          git init
+          cp -r /tmp/publish/* .
+          rm -rf /tmp/publish
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b release
           git add .
-          git commit -m "${{ env.RELEASE_NAME }}"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin release
+          git commit -m "Update sing-box srs files on ${{ env.RELEASE_NAME }}" || echo "No changes to commit"
+          git push origin release

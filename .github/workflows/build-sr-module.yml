@@ -2,7 +2,7 @@ name: build.yml
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 3,9,15,21 * * *"
+    - cron: "30 3 * * *"
   push:
     branches:
       - master
@@ -13,12 +13,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout master branch
         uses: actions/checkout@v3
 
       - name: Set variables
         run: |
-          echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
 
           echo "DIRECT_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct-list.txt" >> $GITHUB_ENV
           echo "PROXY_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt" >> $GITHUB_ENV
@@ -40,18 +40,21 @@ jobs:
 
       - name: Move generated files to publish directory
         run: |
-          mkdir -p ./publish/shadowrocket
-          mv ./shadowrocket/*.module ./publish/shadowrocket/ 2>/dev/null || true
-          mv ./shadowrocket/*.txt ./publish/ 2>/dev/null || true
+          mkdir -p /tmp/publish/shadowrocket
+          mv ./shadowrocket/*.module /tmp/publish/shadowrocket/ 2>/dev/null || true
+          mv ./shadowrocket/*.txt /tmp/publish/ 2>/dev/null || true
+
+      - name: Checkout release branch
+        run: |
+          git fetch origin release
+          git checkout -B release origin/release
 
       - name: Git push assets to "release" branch
         run: |
-          cd publish || exit 1
-          git init
+          cp -r /tmp/publish/* .
+          rm -rf /tmp/publish
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -b release
           git add .
-          git commit -m "${{ env.RELEASE_NAME }}"
-          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-          git push -f -u origin release
+          git commit -m "Update shadowrocket modules on ${{ env.RELEASE_NAME }}" || echo "No changes to commit"
+          git push origin release
