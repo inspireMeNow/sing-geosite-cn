@@ -1,0 +1,54 @@
+name: build.yml
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 3,9,15,21 * * *"
+  push:
+    branches:
+      - master
+    paths-ignore:
+      - "**/README.md"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set variables
+        run: |
+          echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+
+          echo "DIRECT_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct-list.txt" >> $GITHUB_ENV
+          echo "PROXY_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt" >> $GITHUB_ENV
+          echo "REJECT_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/reject-list.txt" >> $GITHUB_ENV
+        shell: bash
+
+      - name: Collect files
+        run: |
+          curl -sSL $DIRECT_LIST_URL > ./shadowrocket/direct-list.txt
+          curl -sSL $PROXY_LIST_URL > ./shadowrocket/proxy-list.txt
+          curl -sSL $REJECT_LIST_URL > ./shadowrocket/reject-list.txt
+
+      - name: Generate shadowrocket modules
+        run: |
+          cd shadowrocket || exit 1
+          python convert.py -i direct-list.txt -o sr-direct.module -s DIRECT
+          python convert.py -i proxy-list.txt -o sr-proxy.module -s PROXY
+          python convert.py -i reject-list.txt -o sr-reject.module -s REJECT
+
+      - name: Move generated files to publish directory
+        run: |
+          mkdir -p ./publish/shadowrocket
+          mv ./shadowrocket/*.module ./publish/shadowrocket/ 2>/dev/null || true
+          mv ./shadowrocket/*.txt ./publish/ 2>/dev/null || true
+
+      - name: Git push assets to "release" branch
+        run: |
+          cd publish || exit 1
+          git init
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b release
+          git add .
+          git commit -m "${{ env.RELEASE_NAME }}"
+          git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          git push -f -u origin release
