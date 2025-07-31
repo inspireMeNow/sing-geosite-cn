@@ -55,6 +55,6 @@ jobs:
           rm -rf /tmp/publish
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add shadowrocket/ *.txt
           git commit -m "Update shadowrocket modules on ${{ env.RELEASE_NAME }}" || echo "No changes to commit"
           git push origin release

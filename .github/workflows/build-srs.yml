@@ -18,7 +18,7 @@ jobs:
 
       - name: Set variables
         run: |
-          echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
+          echo "RELEASE_NAME=$(date +%Y%m%d%H%M)" >> $GITHUB_ENV
 
           echo "GEOIP_URL=https://github.com/Loyalsoldier/v2ray-rules-dat/raw/refs/heads/release/geoip.dat" >> $GITHUB_ENV
           echo "GEOSITE_URL=https://github.com/Loyalsoldier/v2ray-rules-dat/raw/refs/heads/release/geosite.dat" >> $GITHUB_ENV
@@ -49,6 +49,9 @@ jobs:
           go build -C geodat2srs ./
           ./geodat2srs/geodat2srs geoip -i ./publish/geoip.dat -o ./tmp/sing-box/rule-set-geoip/
           ./geodat2srs/geodat2srs geosite -i ./publish/geosite.dat -o ./tmp/sing-box/rule-set-geosite/
+
+      - name: Move generated files to publish directory
+        run: |
           mv ./publish /tmp/publish
           mv ./tmp/sing-box /tmp/publish/sing-box
 
@@ -63,6 +66,6 @@ jobs:
           rm -rf /tmp/publish
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add sing-box/ geoip.dat* geosite.dat*
           git commit -m "Update sing-box srs files on ${{ env.RELEASE_NAME }}" || echo "No changes to commit"
           git push origin release
