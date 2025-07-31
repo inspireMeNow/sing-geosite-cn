@@ -13,6 +13,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Set variables
         run: |
           echo "RELEASE_NAME=Released on $(date +%Y%m%d%H%M)" >> $GITHUB_ENV
@@ -30,7 +33,7 @@ jobs:
 
       - name: Generate shadowrocket modules
         run: |
-          cd shadowrocket || exit 1
+          cd ./shadowrocket || exit 1
           python convert.py -i direct-list.txt -o sr-direct.module -s DIRECT
           python convert.py -i proxy-list.txt -o sr-proxy.module -s PROXY
           python convert.py -i reject-list.txt -o sr-reject.module -s REJECT
