@@ -26,7 +26,7 @@ jobs:
           echo "APPLE_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/apple-cn.txt" >> $GITHUB_ENV
           echo "GOOGLE_CN_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/google-cn.txt" >> $GITHUB_ENV
           echo "CHINA_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/china-list.txt" >> $GITHUB_ENV
-          echo "GFW_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw-list.txt" >> $GITHUB_ENV
+          echo "GFW_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw.txt" >> $GITHUB_ENV
         shell: bash
 
       - name: Collect files
