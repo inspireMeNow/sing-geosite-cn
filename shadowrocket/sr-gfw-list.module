@@ -1,0 +1,8 @@
+#!name=Domain List Module
+#!desc=Domain routing rules with PROXY strategy
+#!author=Auto Generated
+#!homepage=
+#!icon=
+
+[Rule]
+DOMAIN-SUFFIX,404: Not Found,PROXY
