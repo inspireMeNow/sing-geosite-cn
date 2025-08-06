@@ -26,6 +26,7 @@ jobs:
           echo "APPLE_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/apple-cn.txt" >> $GITHUB_ENV
           echo "GOOGLE_CN_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/google-cn.txt" >> $GITHUB_ENV
           echo "CHINA_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/china-list.txt" >> $GITHUB_ENV
+          echo "GFW_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/gfw-list.txt" >> $GITHUB_ENV
         shell: bash
 
       - name: Collect files
@@ -36,6 +37,7 @@ jobs:
           curl -sSL $APPLE_LIST_URL > ./shadowrocket/apple-cn.txt
           curl -sSL $GOOGLE_CN_LIST_URL > ./shadowrocket/google-cn.txt
           curl -sSL $CHINA_LIST_URL > ./shadowrocket/china-list.txt
+          curl -sSL $GFW_LIST_URL > ./shadowrocket/gfw-list.txt
 
       - name: Generate shadowrocket modules
         run: |
@@ -46,6 +48,7 @@ jobs:
           python convert.py -i apple-cn.txt -o sr-apple-cn.module -s DIRECT
           python convert.py -i google-cn.txt -o sr-google-cn.module -s DIRECT
           python convert.py -i china-list.txt -o sr-china-list.module -s DIRECT
+          python convert.py -i gfw-list.txt -o sr-gfw-list.module -s PROXY
 
       - name: Move generated files to publish directory
         run: |
