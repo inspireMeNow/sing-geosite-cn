@@ -23,6 +23,9 @@ jobs:
           echo "DIRECT_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/direct-list.txt" >> $GITHUB_ENV
           echo "PROXY_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/proxy-list.txt" >> $GITHUB_ENV
           echo "REJECT_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/reject-list.txt" >> $GITHUB_ENV
+          echo "APPLE_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/apple-cn.txt" >> $GITHUB_ENV
+          echo "GOOGLE_CN_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/google-cn.txt" >> $GITHUB_ENV
+          echo "CHINA_LIST_URL=https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/refs/heads/release/china-list.txt" >> $GITHUB_ENV
         shell: bash
 
       - name: Collect files
@@ -30,6 +33,9 @@ jobs:
           curl -sSL $DIRECT_LIST_URL > ./shadowrocket/direct-list.txt
           curl -sSL $PROXY_LIST_URL > ./shadowrocket/proxy-list.txt
           curl -sSL $REJECT_LIST_URL > ./shadowrocket/reject-list.txt
+          curl -sSL $APPLE_LIST_URL > ./shadowrocket/apple-cn.txt
+          curl -sSL $GOOGLE_CN_LIST_URL > ./shadowrocket/google-cn.txt
+          curl -sSL $CHINA_LIST_URL > ./shadowrocket/china-list.txt
 
       - name: Generate shadowrocket modules
         run: |
@@ -37,6 +43,9 @@ jobs:
           python convert.py -i direct-list.txt -o sr-direct.module -s DIRECT
           python convert.py -i proxy-list.txt -o sr-proxy.module -s PROXY
           python convert.py -i reject-list.txt -o sr-reject.module -s REJECT
+          python convert.py -i apple-cn.txt -o sr-apple-cn.module -s DIRECT
+          python convert.py -i google-cn.txt -o sr-google-cn.module -s DIRECT
+          python convert.py -i china-list.txt -o sr-china-list.module -s DIRECT
 
       - name: Move generated files to publish directory
         run: |
