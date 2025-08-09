@@ -555,6 +555,7 @@ DOMAIN-SUFFIX,bitchute.com,PROXY
 DOMAIN-SUFFIX,bitcointalk.org,PROXY
 DOMAIN-SUFFIX,bitcoinworld.com,PROXY
 DOMAIN-SUFFIX,bitfinex.com,PROXY
+DOMAIN-SUFFIX,bitget.com,PROXY
 DOMAIN-SUFFIX,bithumb.com,PROXY
 DOMAIN-SUFFIX,bitmex.com,PROXY
 DOMAIN-SUFFIX,bitshare.com,PROXY
@@ -1050,6 +1051,7 @@ DOMAIN-SUFFIX,clipconverter.cc,PROXY
 DOMAIN-SUFFIX,clipfish.de,PROXY
 DOMAIN-SUFFIX,cloud.dify.ai,PROXY
 DOMAIN-SUFFIX,cloud.mail.ru,PROXY
+DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudfunctions.net,PROXY
 DOMAIN-SUFFIX,club1069.com,PROXY
@@ -5177,6 +5179,7 @@ DOMAIN-SUFFIX,unseen.is,PROXY
 DOMAIN-SUFFIX,unstable.icu,PROXY
 DOMAIN-SUFFIX,unwire.hk,PROXY
 DOMAIN-SUFFIX,uocn.org,PROXY
+DOMAIN-SUFFIX,upbit.com,PROXY
 DOMAIN-SUFFIX,updates.tdesktop.com,PROXY
 DOMAIN-SUFFIX,upghsbc.com,PROXY
 DOMAIN-SUFFIX,upholdjustice.org,PROXY
@@ -5598,7 +5601,6 @@ DOMAIN-SUFFIX,www.monlamit.org,PROXY
 DOMAIN-SUFFIX,www.moztw.org,PROXY
 DOMAIN-SUFFIX,www.msn.com,PROXY
 DOMAIN-SUFFIX,www.nbc.com,PROXY
-DOMAIN-SUFFIX,www.nodeloc.com,PROXY
 DOMAIN-SUFFIX,www.owind.com,PROXY
 DOMAIN-SUFFIX,www.oxid.it,PROXY
 DOMAIN-SUFFIX,www.powerpointninja.com,PROXY
