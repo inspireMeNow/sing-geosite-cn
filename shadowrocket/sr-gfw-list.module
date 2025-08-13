@@ -544,6 +544,7 @@ DOMAIN-SUFFIX,bild.de,PROXY
 DOMAIN-SUFFIX,biliworld.com,PROXY
 DOMAIN-SUFFIX,billypan.com,PROXY
 DOMAIN-SUFFIX,binance.com,PROXY
+DOMAIN-SUFFIX,binance.org,PROXY
 DOMAIN-SUFFIX,binancezh.cc,PROXY
 DOMAIN-SUFFIX,binux.me,PROXY
 DOMAIN-SUFFIX,bird.so,PROXY
@@ -2671,6 +2672,7 @@ DOMAIN-SUFFIX,indiatoday.in,PROXY
 DOMAIN-SUFFIX,indiemerch.com,PROXY
 DOMAIN-SUFFIX,inews-api.tvb.com,PROXY
 DOMAIN-SUFFIX,info-graf.fr,PROXY
+DOMAIN-SUFFIX,infura.io,PROXY
 DOMAIN-SUFFIX,inherit.live,PROXY
 DOMAIN-SUFFIX,initiativesforchina.org,PROXY
 DOMAIN-SUFFIX,inkbunny.net,PROXY
@@ -3095,6 +3097,7 @@ DOMAIN-SUFFIX,lsmwebcast.com,PROXY
 DOMAIN-SUFFIX,lsxszzg.com,PROXY
 DOMAIN-SUFFIX,ltn.com.tw,PROXY
 DOMAIN-SUFFIX,luckydesigner.space,PROXY
+DOMAIN-SUFFIX,luckymobile.ca,PROXY
 DOMAIN-SUFFIX,ludepress.com,PROXY
 DOMAIN-SUFFIX,luke54.com,PROXY
 DOMAIN-SUFFIX,luke54.org,PROXY
@@ -3217,6 +3220,7 @@ DOMAIN-SUFFIX,mesotw.com,PROXY
 DOMAIN-SUFFIX,messenger.com,PROXY
 DOMAIN-SUFFIX,meta.com,PROXY
 DOMAIN-SUFFIX,metafilter.com,PROXY
+DOMAIN-SUFFIX,metamask.io,PROXY
 DOMAIN-SUFFIX,metart.com,PROXY
 DOMAIN-SUFFIX,metarthunter.com,PROXY
 DOMAIN-SUFFIX,meteorshowersonline.com,PROXY
