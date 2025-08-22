@@ -11377,6 +11377,7 @@ DOMAIN-SUFFIX,git-scm.com,PROXY
 DOMAIN-SUFFIX,git.io,PROXY
 DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
+DOMAIN-SUFFIX,github.ai,PROXY
 DOMAIN-SUFFIX,github.blog,PROXY
 DOMAIN-SUFFIX,github.com,PROXY
 DOMAIN-SUFFIX,github.community,PROXY
@@ -14741,6 +14742,7 @@ DOMAIN-SUFFIX,itemdb.com,PROXY
 DOMAIN-SUFFIX,itemfix.com,PROXY
 DOMAIN-SUFFIX,itfromtheinside.com,PROXY
 DOMAIN-SUFFIX,ithelp.ithome.com.tw,PROXY
+DOMAIN-SUFFIX,itiger.com,PROXY
 DOMAIN-SUFFIX,itlearningspace-scot.ac.uk,PROXY
 DOMAIN-SUFFIX,itnel.com,PROXY
 DOMAIN-SUFFIX,itnow.ac.uk,PROXY
