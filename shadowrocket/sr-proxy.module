@@ -18782,6 +18782,7 @@ DOMAIN-SUFFIX,navisworks.net,PROXY
 DOMAIN-SUFFIX,navyfamily.navy.mil,PROXY
 DOMAIN-SUFFIX,navyreserve.navy.mil,PROXY
 DOMAIN-SUFFIX,naweeklytimes.com,PROXY
+DOMAIN-SUFFIX,naydex.net,PROXY
 DOMAIN-SUFFIX,nazarene.ac.uk,PROXY
 DOMAIN-SUFFIX,nbabot.net,PROXY
 DOMAIN-SUFFIX,nbc.co,PROXY
@@ -24312,6 +24313,7 @@ DOMAIN-SUFFIX,sneakerskick.com,PROXY
 DOMAIN-SUFFIX,sneakme.net,PROXY
 DOMAIN-SUFFIX,snjulebu.com,PROXY
 DOMAIN-SUFFIX,snk-corp.co.jp,PROXY
+DOMAIN-SUFFIX,snk-corp.info,PROXY
 DOMAIN-SUFFIX,snkplaymore.info,PROXY
 DOMAIN-SUFFIX,snow.me,PROXY
 DOMAIN-SUFFIX,snowcorp.com,PROXY
@@ -26690,6 +26692,8 @@ DOMAIN-SUFFIX,tubevintageporn.com,PROXY
 DOMAIN-SUFFIX,tubewolf.com,PROXY
 DOMAIN-SUFFIX,tubexclips.com,PROXY
 DOMAIN-SUFFIX,tubi.io,PROXY
+DOMAIN-SUFFIX,tubi.tv,PROXY
+DOMAIN-SUFFIX,tubi.video,PROXY
 DOMAIN-SUFFIX,tubinge.com,PROXY
 DOMAIN-SUFFIX,tubitv.com,PROXY
 DOMAIN-SUFFIX,tubsexer.com,PROXY
@@ -29941,6 +29945,7 @@ DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
+DOMAIN-SUFFIX,yandex.cloud,PROXY
 DOMAIN-SUFFIX,yandex.co.il,PROXY
 DOMAIN-SUFFIX,yandex.com,PROXY
 DOMAIN-SUFFIX,yandex.com.am,PROXY
