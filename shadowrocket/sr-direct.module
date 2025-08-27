@@ -25655,7 +25655,6 @@ DOMAIN-SUFFIX,copcsc.org,DIRECT
 DOMAIN-SUFFIX,copl.com.hk,DIRECT
 DOMAIN-SUFFIX,copperalliance.asia,DIRECT
 DOMAIN-SUFFIX,copperhome.net,DIRECT
-DOMAIN-SUFFIX,copy-manga.com,DIRECT
 DOMAIN-SUFFIX,copyedu.com,DIRECT
 DOMAIN-SUFFIX,copyfuture.com,DIRECT
 DOMAIN-SUFFIX,copyswisswatches.com,DIRECT
@@ -29152,6 +29151,7 @@ DOMAIN-SUFFIX,delixi.com,DIRECT
 DOMAIN-SUFFIX,delixidrive.com,DIRECT
 DOMAIN-SUFFIX,deliyun.com,DIRECT
 DOMAIN-SUFFIX,dell-alw.com,DIRECT
+DOMAIN-SUFFIX,dell-brand.com,DIRECT
 DOMAIN-SUFFIX,dell027.com,DIRECT
 DOMAIN-SUFFIX,dellecs.com,DIRECT
 DOMAIN-SUFFIX,dellemc-solution.com,DIRECT
@@ -37217,6 +37217,7 @@ DOMAIN-SUFFIX,funcrea.com,DIRECT
 DOMAIN-SUFFIX,functionads.com,DIRECT
 DOMAIN-SUFFIX,functionaltextilesshanghai.com,DIRECT
 DOMAIN-SUFFIX,functioncool.com,DIRECT
+DOMAIN-SUFFIX,functiongraph.run,DIRECT
 DOMAIN-SUFFIX,fund001.com,DIRECT
 DOMAIN-SUFFIX,fundebug.com,DIRECT
 DOMAIN-SUFFIX,fundebug.net,DIRECT
@@ -67830,9 +67831,7 @@ DOMAIN-SUFFIX,manfen.net,DIRECT
 DOMAIN-SUFFIX,manfen5.com,DIRECT
 DOMAIN-SUFFIX,manfred-auto.com,DIRECT
 DOMAIN-SUFFIX,manfrottoclub.com,DIRECT
-DOMAIN-SUFFIX,mangacopy.com,DIRECT
 DOMAIN-SUFFIX,mangafuna.xyz,DIRECT
-DOMAIN-SUFFIX,mangafunb.fun,DIRECT
 DOMAIN-SUFFIX,manganesenanhai.com,DIRECT
 DOMAIN-SUFFIX,mangg.com,DIRECT
 DOMAIN-SUFFIX,mangguo.com,DIRECT
@@ -77337,6 +77336,7 @@ DOMAIN-SUFFIX,plateno.cc,DIRECT
 DOMAIN-SUFFIX,plateno.com,DIRECT
 DOMAIN-SUFFIX,platenogroup.com,DIRECT
 DOMAIN-SUFFIX,platform-cn.com,DIRECT
+DOMAIN-SUFFIX,platform.dell.com,DIRECT
 DOMAIN-SUFFIX,platinum-traveller.com,DIRECT
 DOMAIN-SUFFIX,platinumchina.com,DIRECT
 DOMAIN-SUFFIX,play-analytics.com,DIRECT
@@ -82254,6 +82254,7 @@ DOMAIN-SUFFIX,roaing.com,DIRECT
 DOMAIN-SUFFIX,robam.com,DIRECT
 DOMAIN-SUFFIX,robei.com,DIRECT
 DOMAIN-SUFFIX,roboeyeai.com,DIRECT
+DOMAIN-SUFFIX,robomaster.com,DIRECT
 DOMAIN-SUFFIX,roboo.com,DIRECT
 DOMAIN-SUFFIX,robook.com,DIRECT
 DOMAIN-SUFFIX,robopeak.net,DIRECT
@@ -103019,7 +103020,6 @@ DOMAIN-SUFFIX,www.adobe.com,DIRECT
 DOMAIN-SUFFIX,www.amd.com,DIRECT
 DOMAIN-SUFFIX,www.cg,DIRECT
 DOMAIN-SUFFIX,www.com.my,DIRECT
-DOMAIN-SUFFIX,www.dell-brand.com,DIRECT
 DOMAIN-SUFFIX,www.dell.com,DIRECT
 DOMAIN-SUFFIX,www.djivideos.com,DIRECT
 DOMAIN-SUFFIX,www.gov.mo,DIRECT
@@ -118948,6 +118948,7 @@ DOMAIN,adcdownload.apple.com,DIRECT
 DOMAIN,adcdownload.apple.com.akadns.net,DIRECT
 DOMAIN,admob-cn.com,DIRECT
 DOMAIN,adservice.google.com,DIRECT
+DOMAIN,afcs.dell.com,DIRECT
 DOMAIN,ai.zhaomi.cn,DIRECT
 DOMAIN,alibaba.cdn.steampipe.steamcontent.com,DIRECT
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,DIRECT
@@ -119028,6 +119029,7 @@ DOMAIN,clickserver.googleads.com,DIRECT
 DOMAIN,client-api.itunes.apple.com,DIRECT
 DOMAIN,clientflow.apple.com,DIRECT
 DOMAIN,clientflow.apple.com.akadns.net,DIRECT
+DOMAIN,clientperipherals.dell.com,DIRECT
 DOMAIN,clientservices.googleapis.com,DIRECT
 DOMAIN,cma.itunes.apple.com,DIRECT
 DOMAIN,cn-smp-paymentservices.apple.com,DIRECT
@@ -119051,8 +119053,10 @@ DOMAIN,cstat.apple.com,DIRECT
 DOMAIN,cstat.cdn-apple.com,DIRECT
 DOMAIN,ctldl.windowsupdate.com,DIRECT
 DOMAIN,cueme-api.quark.cn,DIRECT
+DOMAIN,customization-cdn.dell.com,DIRECT
 DOMAIN,dartsearch-cn.net,DIRECT
 DOMAIN,dd-cdn.origin-apple.com.akadns.net,DIRECT
+DOMAIN,dds.dell.com,DIRECT
 DOMAIN,dejavu.apple.com,DIRECT
 DOMAIN,devblogs.microsoft.com,DIRECT
 DOMAIN,developer.microsoft.com,DIRECT
@@ -119060,6 +119064,7 @@ DOMAIN,devimages-cdn.apple.com,DIRECT
 DOMAIN,devstreaming-cdn.apple.com,DIRECT
 DOMAIN,dg-meta.video.google.com,DIRECT
 DOMAIN,discussionschinese.apple.com,DIRECT
+DOMAIN,dl.dell.com,DIRECT
 DOMAIN,dl.google.com,DIRECT
 DOMAIN,dl.l.google.com,DIRECT
 DOMAIN,docs.microsoft.com,DIRECT
@@ -119072,20 +119077,30 @@ DOMAIN,download.qatp1.net,DIRECT
 DOMAIN,download.tensorflow.google.com,DIRECT
 DOMAIN,download.visualstudio.microsoft.com,DIRECT
 DOMAIN,downloaddispatch.itunes.apple.com,DIRECT
+DOMAIN,ea2cn-dev-outlet.dell.com,DIRECT
+DOMAIN,ea2cn-prod-outlet.dell.com,DIRECT
+DOMAIN,ea2cn-staging-outlet.dell.com,DIRECT
 DOMAIN,emmapplecodevice.googleapis.com,DIRECT
 DOMAIN,emoi-cncdn.bing.com,DIRECT
 DOMAIN,experiments.apple.com,DIRECT
 DOMAIN,f.c2r.ts.cdn.office.net,DIRECT
+DOMAIN,fcs.dell.com,DIRECT
 DOMAIN,fides-pol.apple.com,DIRECT
 DOMAIN,firebase-settings.crashlytics.com,DIRECT
 DOMAIN,fontfiles.googleapis.com,DIRECT
 DOMAIN,fonts.googleapis.com,DIRECT
 DOMAIN,fonts.gstatic.com,DIRECT
 DOMAIN,fs.microsoft.com,DIRECT
+DOMAIN,fta.dell.com,DIRECT
+DOMAIN,ftaapj.dell.com,DIRECT
+DOMAIN,ftaemea.dell.com,DIRECT
+DOMAIN,ftasitapj.dell.com,DIRECT
 DOMAIN,g0.gstatic.com,DIRECT
 DOMAIN,g1.gstatic.com,DIRECT
 DOMAIN,g2.gstatic.com,DIRECT
 DOMAIN,g3.gstatic.com,DIRECT
+DOMAIN,gbxgateway-dev.dell.com,DIRECT
+DOMAIN,gbxgateway.dell.com,DIRECT
 DOMAIN,geetest.datasink.sensorsdata.cn,DIRECT
 DOMAIN,go.corp.google.com,DIRECT
 DOMAIN,gog-cdn-fastly.gog.com,DIRECT
@@ -119142,6 +119157,7 @@ DOMAIN,guzzoni.smoot.apple.com,DIRECT
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com,DIRECT
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com,DIRECT
 DOMAIN,hospital.pku.edu.cn,DIRECT
+DOMAIN,i.dell.com,DIRECT
 DOMAIN,i.pki.goog,DIRECT
 DOMAIN,icloud-cdn.icloud.com.akadns.net,DIRECT
 DOMAIN,icloud.cdn-apple.com,DIRECT
@@ -119206,6 +119222,7 @@ DOMAIN,msgruser.dlservice.microsoft.com,DIRECT
 DOMAIN,music.apple.com,DIRECT
 DOMAIN,myapp.itunes.apple.com,DIRECT
 DOMAIN,myvs.download.prss.microsoft.com,DIRECT
+DOMAIN,nexus.dell.com,DIRECT
 DOMAIN,np-edge.itunes.apple.com,DIRECT
 DOMAIN,ntp.aliyun.com,DIRECT
 DOMAIN,ntp.tencent.com,DIRECT
@@ -119234,6 +119251,7 @@ DOMAIN,oscdn.apple.com,DIRECT
 DOMAIN,oscdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,osxapps.itunes.apple.com,DIRECT
 DOMAIN,osxapps.itunes.g.aaplimg.com,DIRECT
+DOMAIN,p.cdn.persaas.dell.com,DIRECT
 DOMAIN,p1-juejin.byteimg.com,DIRECT
 DOMAIN,p2-juejin.byteimg.com,DIRECT
 DOMAIN,p3-juejin.byteimg.com,DIRECT
@@ -119297,6 +119315,7 @@ DOMAIN,s5.mzstatic.com,DIRECT
 DOMAIN,safebrowsing-cache.google.com,DIRECT
 DOMAIN,safebrowsing.googleapis.com,DIRECT
 DOMAIN,scanservice1.qcpp1.net,DIRECT
+DOMAIN,scene7-cdn.dell.com,DIRECT
 DOMAIN,sdx.microsoft.com,DIRECT
 DOMAIN,se-edge.itunes.apple.com,DIRECT
 DOMAIN,se2.itunes.apple.com,DIRECT
@@ -119310,9 +119329,13 @@ DOMAIN,sf-api-token-service.itunes.apple.com,DIRECT
 DOMAIN,sh-pod2-smp-device.apple.com,DIRECT
 DOMAIN,shazam-insights.cdn-apple.com,DIRECT
 DOMAIN,shell.cdn.office.net,DIRECT
+DOMAIN,si.cdn.dell.com,DIRECT
 DOMAIN,silverlight.dlservice.microsoft.com,DIRECT
 DOMAIN,slupdate.dlservice.microsoft.com,DIRECT
+DOMAIN,sm.dell.com,DIRECT
 DOMAIN,smp-device-content.apple.com,DIRECT
+DOMAIN,snp.cdn.dell.com,DIRECT
+DOMAIN,snpi.dell.com,DIRECT
 DOMAIN,software.download.prss.microsoft.com,DIRECT
 DOMAIN,sp.itunes.apple.com,DIRECT
 DOMAIN,ss.bjmu.edu.cn,DIRECT
@@ -119344,6 +119367,7 @@ DOMAIN,sup.corp.google.com,DIRECT
 DOMAIN,sup.l.google.com,DIRECT
 DOMAIN,support-china.apple-support.akadns.net,DIRECT
 DOMAIN,support.apple.com,DIRECT
+DOMAIN,supportassist.dell.com,DIRECT
 DOMAIN,surface.downloads.prss.microsoft.com,DIRECT
 DOMAIN,swallow-apple-com.v.aaplimg.com,DIRECT
 DOMAIN,swallow.apple.com,DIRECT
@@ -119390,11 +119414,13 @@ DOMAIN,weatherkit.apple.com,DIRECT
 DOMAIN,wl.dlservice.microsoft.com,DIRECT
 DOMAIN,wscont1.apps.microsoft.com,DIRECT
 DOMAIN,wscont2.apps.microsoft.com,DIRECT
+DOMAIN,www-csb.dell.com,DIRECT
 DOMAIN,www-google-analytics.l.google.com,DIRECT
 DOMAIN,www-googletagmanager.l.google.com,DIRECT
 DOMAIN,www.amd.com,DIRECT
 DOMAIN,www.apple.com,DIRECT
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
+DOMAIN,www.dell.com,DIRECT
 DOMAIN,www.destinationurl.com,DIRECT
 DOMAIN,www.entrust.cn,DIRECT
 DOMAIN,www.gstatic.com,DIRECT
