@@ -1609,6 +1609,7 @@ DOMAIN-SUFFIX,amazonaws.org,PROXY
 DOMAIN-SUFFIX,amazonaws.tv,PROXY
 DOMAIN-SUFFIX,amazonbusiness.org,PROXY
 DOMAIN-SUFFIX,amazonbusinessblog.com,PROXY
+DOMAIN-SUFFIX,amazoncognito.com,PROXY
 DOMAIN-SUFFIX,amazondevicesupport.com,PROXY
 DOMAIN-SUFFIX,amazonfctours.com,PROXY
 DOMAIN-SUFFIX,amazonianblog.com,PROXY
@@ -2893,6 +2894,8 @@ DOMAIN-SUFFIX,awlc.ac.uk,PROXY
 DOMAIN-SUFFIX,aws,PROXY
 DOMAIN-SUFFIX,aws-iot-hackathon.com,PROXY
 DOMAIN-SUFFIX,aws.com,PROXY
+DOMAIN-SUFFIX,awsapprunner.com,PROXY
+DOMAIN-SUFFIX,awsapps.com,PROXY
 DOMAIN-SUFFIX,awsautopilot.com,PROXY
 DOMAIN-SUFFIX,awsautoscaling.com,PROXY
 DOMAIN-SUFFIX,awsbraket.com,PROXY
