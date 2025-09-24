@@ -1905,6 +1905,7 @@ DOMAIN-SUFFIX,aphe.ac.uk,PROXY
 DOMAIN-SUFFIX,api-extractor.com,PROXY
 DOMAIN-SUFFIX,api.ai,PROXY
 DOMAIN-SUFFIX,api.news,PROXY
+DOMAIN-SUFFIX,api.palworldgame.com,PROXY
 DOMAIN-SUFFIX,apiary.io,PROXY
 DOMAIN-SUFFIX,apibay.org,PROXY
 DOMAIN-SUFFIX,apigee.com,PROXY
@@ -20276,6 +20277,7 @@ DOMAIN-SUFFIX,ocry.com,PROXY
 DOMAIN-SUFFIX,ocsp-certum.com,PROXY
 DOMAIN-SUFFIX,ocsp-responder.com,PROXY
 DOMAIN-SUFFIX,october-review.org,PROXY
+DOMAIN-SUFFIX,octocaptcha.com,PROXY
 DOMAIN-SUFFIX,ocul.us,PROXY
 DOMAIN-SUFFIX,oculus-china.com,PROXY
 DOMAIN-SUFFIX,oculus.com,PROXY
