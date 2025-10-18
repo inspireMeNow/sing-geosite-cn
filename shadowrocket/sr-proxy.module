@@ -4667,6 +4667,7 @@ DOMAIN-SUFFIX,bnef.com,PROXY
 DOMAIN-SUFFIX,bnext.com.tw,PROXY
 DOMAIN-SUFFIX,bnn.co,PROXY
 DOMAIN-SUFFIX,bnrmetal.com,PROXY
+DOMAIN-SUFFIX,bntrace.com,PROXY
 DOMAIN-SUFFIX,bnu.ac.uk,PROXY
 DOMAIN-SUFFIX,boa.ac.uk,PROXY
 DOMAIN-SUFFIX,boardreader.com,PROXY
@@ -5896,6 +5897,7 @@ DOMAIN-SUFFIX,cepacol.com,PROXY
 DOMAIN-SUFFIX,ceramics-cadcam.com,PROXY
 DOMAIN-SUFFIX,cercia.ac.uk,PROXY
 DOMAIN-SUFFIX,cerdas.com,PROXY
+DOMAIN-SUFFIX,cerebras.ai,PROXY
 DOMAIN-SUFFIX,ceredigion.ac.uk,PROXY
 DOMAIN-SUFFIX,ceri.ac.uk,PROXY
 DOMAIN-SUFFIX,cerlim.ac.uk,PROXY
@@ -6396,6 +6398,8 @@ DOMAIN-SUFFIX,classicnike.com,PROXY
 DOMAIN-SUFFIX,classics.ac.uk,PROXY
 DOMAIN-SUFFIX,classymomsex.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,claude.com,PROXY
+DOMAIN-SUFFIX,claudemcpclient.com,PROXY
 DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 DOMAIN-SUFFIX,clb.org.hk,PROXY
 DOMAIN-SUFFIX,clc-london.ac.uk,PROXY
@@ -15109,6 +15113,7 @@ DOMAIN-SUFFIX,jasper.ai,PROXY
 DOMAIN-SUFFIX,jav-angel.net,PROXY
 DOMAIN-SUFFIX,jav-subtitles.com,PROXY
 DOMAIN-SUFFIX,jav-vr.net,PROXY
+DOMAIN-SUFFIX,jav.app,PROXY
 DOMAIN-SUFFIX,jav.com,PROXY
 DOMAIN-SUFFIX,jav.dog,PROXY
 DOMAIN-SUFFIX,jav.gallery,PROXY
@@ -17121,6 +17126,7 @@ DOMAIN-SUFFIX,marlab.ac.uk,PROXY
 DOMAIN-SUFFIX,marlin.ac.uk,PROXY
 DOMAIN-SUFFIX,marplecollege.ac.uk,PROXY
 DOMAIN-SUFFIX,marranazas.com,PROXY
+DOMAIN-SUFFIX,marscode.com,PROXY
 DOMAIN-SUFFIX,martau.com,PROXY
 DOMAIN-SUFFIX,martsangkagyuofficial.org,PROXY
 DOMAIN-SUFFIX,maruta.be,PROXY
@@ -19461,6 +19467,7 @@ DOMAIN-SUFFIX,nfsc.global,PROXY
 DOMAIN-SUFFIX,nfscdict.com,PROXY
 DOMAIN-SUFFIX,nfscofficial.com,PROXY
 DOMAIN-SUFFIX,nfsworld.com,PROXY
+DOMAIN-SUFFIX,nftstatic.com,PROXY
 DOMAIN-SUFFIX,nftstorage.link,PROXY
 DOMAIN-SUFFIX,nga.mil,PROXY
 DOMAIN-SUFFIX,ngc.ac.uk,PROXY
@@ -26712,6 +26719,7 @@ DOMAIN-SUFFIX,tracker.network,PROXY
 DOMAIN-SUFFIX,tracking-location.com,PROXY
 DOMAIN-SUFFIX,tradevip1.com,PROXY
 DOMAIN-SUFFIX,tradingview.com,PROXY
+DOMAIN-SUFFIX,trae.ai,PROXY
 DOMAIN-SUFFIX,traffcoll.ac.uk,PROXY
 DOMAIN-SUFFIX,trafficmanager.net,PROXY
 DOMAIN-SUFFIX,trafford.ac.uk,PROXY
@@ -31046,6 +31054,7 @@ DOMAIN,gamedownloads-rockstargames-com.akamaized.net,PROXY
 DOMAIN,gamer-cds.cdn.hinet.net,PROXY
 DOMAIN,gamer2-cds.cdn.hinet.net,PROXY
 DOMAIN,gigabyte2.azureedge.net,PROXY
+DOMAIN,github-api.arkoselabs.com,PROXY
 DOMAIN,github-cloud.s3.amazonaws.com,PROXY
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com,PROXY
 DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com,PROXY
@@ -31263,6 +31272,7 @@ DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net,PROXY
 DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net,PROXY
 DOMAIN,steambroadcast.akamaized.net,PROXY
 DOMAIN,steamcdn-a.akamaihd.net,PROXY
+DOMAIN,steamcloudsweden.blob.core.windows.net,PROXY
 DOMAIN,steamcommunity-a.akamaihd.net,PROXY
 DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net,PROXY
 DOMAIN,steammobile.akamaized.net,PROXY
@@ -31453,6 +31463,7 @@ DOMAIN,wwis-dubc1-vip98.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip99.adobe.com,PROXY
 DOMAIN,www-cdn.icloud.com.akadns.net,PROXY
 DOMAIN,yangzhi.app,PROXY
+DOMAIN,yt3.googleusercontent.com,PROXY
 DOMAIN,zeenews-fonts.s3.amazonaws.com,PROXY
 DOMAIN,ztedevices.com,PROXY
 DOMAIN-SUFFIX,13mei[5-7].buzz,PROXY
