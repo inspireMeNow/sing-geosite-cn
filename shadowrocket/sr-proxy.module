@@ -4753,6 +4753,7 @@ DOMAIN-SUFFIX,boomba.club,PROXY
 DOMAIN-SUFFIX,boombeach.com,PROXY
 DOMAIN-SUFFIX,boomerang.com,PROXY
 DOMAIN-SUFFIX,booru.org,PROXY
+DOMAIN-SUFFIX,boosty.to,PROXY
 DOMAIN-SUFFIX,booth.pm,PROXY
 DOMAIN-SUFFIX,bootstrapcdn.com,PROXY
 DOMAIN-SUFFIX,bootyliciousmag.com,PROXY
@@ -5798,6 +5799,7 @@ DOMAIN-SUFFIX,cdn-apple.com,PROXY
 DOMAIN-SUFFIX,cdn-images.mailchimp.com,PROXY
 DOMAIN-SUFFIX,cdn-telegram.org,PROXY
 DOMAIN-SUFFIX,cdn-terapeak.com,PROXY
+DOMAIN-SUFFIX,cdn-vk.ru,PROXY
 DOMAIN-SUFFIX,cdn.ac.uk,PROXY
 DOMAIN-SUFFIX,cdn.arstechnica.net,PROXY
 DOMAIN-SUFFIX,cdn.assets.lfpcontent.com,PROXY
@@ -7823,6 +7825,7 @@ DOMAIN-SUFFIX,dhlestudio.com.co,PROXY
 DOMAIN-SUFFIX,diabetes-healthnet.ac.uk,PROXY
 DOMAIN-SUFFIX,diablo3.com,PROXY
 DOMAIN-SUFFIX,diabloimmortal.com,PROXY
+DOMAIN-SUFFIX,diabrowser.com,PROXY
 DOMAIN-SUFFIX,dialga.com,PROXY
 DOMAIN-SUFFIX,dialogflow.com,PROXY
 DOMAIN-SUFFIX,diamantewebcam.com,PROXY
@@ -8231,6 +8234,7 @@ DOMAIN-SUFFIX,domesticabuserisk.ac.uk,PROXY
 DOMAIN-SUFFIX,domywife.com,PROXY
 DOMAIN-SUFFIX,don.ac.uk,PROXY
 DOMAIN-SUFFIX,donatecarsoh.org,PROXY
+DOMAIN-SUFFIX,donationalerts.com,PROXY
 DOMAIN-SUFFIX,doncaster.ac.uk,PROXY
 DOMAIN-SUFFIX,dongtaiwang.com,PROXY
 DOMAIN-SUFFIX,dongtaiwang.net,PROXY
@@ -12313,6 +12317,7 @@ DOMAIN-SUFFIX,guancha.org,PROXY
 DOMAIN-SUFFIX,guangming.com.my,PROXY
 DOMAIN-SUFFIX,guangming.org,PROXY
 DOMAIN-SUFFIX,guaranitermal.com,PROXY
+DOMAIN-SUFFIX,guardarian.com,PROXY
 DOMAIN-SUFFIX,guardianapis.com,PROXY
 DOMAIN-SUFFIX,guardianapps.co.uk,PROXY
 DOMAIN-SUFFIX,guardianproject.info,PROXY
@@ -17512,6 +17517,7 @@ DOMAIN-SUFFIX,melonbooks.co.jp,PROXY
 DOMAIN-SUFFIX,melonstube.com,PROXY
 DOMAIN-SUFFIX,meltoday.com,PROXY
 DOMAIN-SUFFIX,meme111.com,PROXY
+DOMAIN-SUFFIX,memealerts.com,PROXY
 DOMAIN-SUFFIX,memehk.com,PROXY
 DOMAIN-SUFFIX,memes.tw,PROXY
 DOMAIN-SUFFIX,memri.org,PROXY
@@ -20358,6 +20364,7 @@ DOMAIN-SUFFIX,ok.xxx,PROXY
 DOMAIN-SUFFIX,okaapps.com,PROXY
 DOMAIN-SUFFIX,okayfreedom.com,PROXY
 DOMAIN-SUFFIX,okazudouga.tokyo,PROXY
+DOMAIN-SUFFIX,okcdn.ru,PROXY
 DOMAIN-SUFFIX,okex.com,PROXY
 DOMAIN-SUFFIX,okinawabank.co.jp,PROXY
 DOMAIN-SUFFIX,okk.tw,PROXY
@@ -23371,10 +23378,15 @@ DOMAIN-SUFFIX,samsung,PROXY
 DOMAIN-SUFFIX,samsung.com,PROXY
 DOMAIN-SUFFIX,samsungapps.com,PROXY
 DOMAIN-SUFFIX,samsungcloud.com,PROXY
+DOMAIN-SUFFIX,samsungconsent.com,PROXY
 DOMAIN-SUFFIX,samsungdm.com,PROXY
 DOMAIN-SUFFIX,samsunggalaxyfriends.com,PROXY
+DOMAIN-SUFFIX,samsunghealth.com,PROXY
+DOMAIN-SUFFIX,samsungiotcloud.com,PROXY
 DOMAIN-SUFFIX,samsungknox.com,PROXY
+DOMAIN-SUFFIX,samsungosp.com,PROXY
 DOMAIN-SUFFIX,samsungqbe.com,PROXY
+DOMAIN-SUFFIX,samsungrs.com,PROXY
 DOMAIN-SUFFIX,sandisk.ae,PROXY
 DOMAIN-SUFFIX,sandisk.co.jp,PROXY
 DOMAIN-SUFFIX,sandisk.co.kr,PROXY
@@ -25225,6 +25237,7 @@ DOMAIN-SUFFIX,stcroixmosquitoproject.com,PROXY
 DOMAIN-SUFFIX,stdavidscollege.ac.uk,PROXY
 DOMAIN-SUFFIX,stdavidsdaygroup.ac.uk,PROXY
 DOMAIN-SUFFIX,stdoms.ac.uk,PROXY
+DOMAIN-SUFFIX,stealthex.io,PROXY
 DOMAIN-SUFFIX,steam-api.com,PROXY
 DOMAIN-SUFFIX,steam-chat.com,PROXY
 DOMAIN-SUFFIX,steam.apac.qtlglb.com,PROXY
@@ -27855,6 +27868,7 @@ DOMAIN-SUFFIX,vercel-status.com,PROXY
 DOMAIN-SUFFIX,vercel.app,PROXY
 DOMAIN-SUFFIX,vercel.blog,PROXY
 DOMAIN-SUFFIX,vercel.com,PROXY
+DOMAIN-SUFFIX,vercel.dev,PROXY
 DOMAIN-SUFFIX,vercel.events,PROXY
 DOMAIN-SUFFIX,vercel.live,PROXY
 DOMAIN-SUFFIX,vercel.pub,PROXY
@@ -28284,6 +28298,7 @@ DOMAIN-SUFFIX,vk.me,PROXY
 DOMAIN-SUFFIX,vk.ru,PROXY
 DOMAIN-SUFFIX,vk.team,PROXY
 DOMAIN-SUFFIX,vkcache.com,PROXY
+DOMAIN-SUFFIX,vkcloud-static.ru,PROXY
 DOMAIN-SUFFIX,vkgo.app,PROXY
 DOMAIN-SUFFIX,vklive.app,PROXY
 DOMAIN-SUFFIX,vkmessenger.app,PROXY
@@ -30963,7 +30978,7 @@ DOMAIN,client-teamviewer-com.trafficmanager.net,PROXY
 DOMAIN,clients1.google.com,PROXY
 DOMAIN,cloudsync-prod.s3.amazonaws.com,PROXY
 DOMAIN,community.oneplus.com,PROXY
-DOMAIN,courier-push-apple.com.akadns.net,PROXY
+DOMAIN,configuration-lb.ls-apple.com.akadns.net,PROXY
 DOMAIN,crl.microsoft.com,PROXY
 DOMAIN,crl.versign.net,PROXY
 DOMAIN,csis-prod.s3.amazonaws.com,PROXY
