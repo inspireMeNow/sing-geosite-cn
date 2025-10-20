@@ -116772,8 +116772,6 @@ DOMAIN,misc-assets.itunes.apple.com,DIRECT
 DOMAIN,ml.cdn-apple.com,DIRECT
 DOMAIN,monitoring.qpdp1.net,DIRECT
 DOMAIN,moocs.unipus.cn,DIRECT
-DOMAIN,msgr.dlservice.microsoft.com,DIRECT
-DOMAIN,msgruser.dlservice.microsoft.com,DIRECT
 DOMAIN,music.apple.com,DIRECT
 DOMAIN,myapp.itunes.apple.com,DIRECT
 DOMAIN,myvs.download.prss.microsoft.com,DIRECT
@@ -116838,7 +116836,6 @@ DOMAIN,proxyconfig.corp.google.com,DIRECT
 DOMAIN,publicassets.cdn-apple.com,DIRECT
 DOMAIN,qagpublic.qatp1.net,DIRECT
 DOMAIN,qgadmin.qcpp1.net,DIRECT
-DOMAIN,qh.dlservice.microsoft.com,DIRECT
 DOMAIN,qiao-cn.com,DIRECT
 DOMAIN,qpx.googleflights.net,DIRECT
 DOMAIN,qualysapi.qatp1.net,DIRECT
@@ -116885,8 +116882,6 @@ DOMAIN,sh-pod2-smp-device.apple.com,DIRECT
 DOMAIN,shazam-insights.cdn-apple.com,DIRECT
 DOMAIN,shell.cdn.office.net,DIRECT
 DOMAIN,si.cdn.dell.com,DIRECT
-DOMAIN,silverlight.dlservice.microsoft.com,DIRECT
-DOMAIN,slupdate.dlservice.microsoft.com,DIRECT
 DOMAIN,sm.dell.com,DIRECT
 DOMAIN,smp-device-content.apple.com,DIRECT
 DOMAIN,snp.cdn.dell.com,DIRECT
@@ -116966,7 +116961,6 @@ DOMAIN,weather-data.apple.com.akadns.net,DIRECT
 DOMAIN,weather-map.apple.com,DIRECT
 DOMAIN,weather-map2.apple.com,DIRECT
 DOMAIN,weatherkit.apple.com,DIRECT
-DOMAIN,wl.dlservice.microsoft.com,DIRECT
 DOMAIN,wscont1.apps.microsoft.com,DIRECT
 DOMAIN,wscont2.apps.microsoft.com,DIRECT
 DOMAIN,www-csb.dell.com,DIRECT
@@ -116986,7 +116980,6 @@ DOMAIN,www.recaptcha.net,DIRECT
 DOMAIN,www.support.apple.com,DIRECT
 DOMAIN,www.ztedevices.com,DIRECT
 DOMAIN,www4-static.gog-statics.com,DIRECT
-DOMAIN,xb.dlservice.microsoft.com,DIRECT
 DOMAIN,xn--flw351e.com,DIRECT
 DOMAIN,xp.apple.com,DIRECT
 DOMAIN,xz.pphimalayanrt.com,DIRECT
