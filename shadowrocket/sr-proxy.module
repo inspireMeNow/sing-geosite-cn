@@ -7807,6 +7807,7 @@ DOMAIN-SUFFIX,deviantart.net,PROXY
 DOMAIN-SUFFIX,deviantclip.com,PROXY
 DOMAIN-SUFFIX,device-manager.us,PROXY
 DOMAIN-SUFFIX,devilsfilm.com,PROXY
+DOMAIN-SUFFIX,devin.ai,PROXY
 DOMAIN-SUFFIX,devio.us,PROXY
 DOMAIN-SUFFIX,devm2m.com,PROXY
 DOMAIN-SUFFIX,devolution.ac.uk,PROXY
@@ -8197,6 +8198,7 @@ DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
 DOMAIN-SUFFIX,dockerizer.com,PROXY
 DOMAIN-SUFFIX,dockerstatic.com,PROXY
+DOMAIN-SUFFIX,dockerstatus.com,PROXY
 DOMAIN-SUFFIX,docleradn.com,PROXY
 DOMAIN-SUFFIX,doclercdn.com,PROXY
 DOMAIN-SUFFIX,docs.com,PROXY
@@ -15843,6 +15845,7 @@ DOMAIN-SUFFIX,kinkypeepz.com,PROXY
 DOMAIN-SUFFIX,kinmen.org.tw,PROXY
 DOMAIN-SUFFIX,kinmen.travel,PROXY
 DOMAIN-SUFFIX,kinokuniya.com,PROXY
+DOMAIN-SUFFIX,kinopoisk.ru,PROXY
 DOMAIN-SUFFIX,kir.jp,PROXY
 DOMAIN-SUFFIX,kir2kos.net,PROXY
 DOMAIN-SUFFIX,kirbysepicyarn.com,PROXY
@@ -25382,6 +25385,7 @@ DOMAIN-SUFFIX,stpadarns.ac.uk,PROXY
 DOMAIN-SUFFIX,straightouttasomewhere.com,PROXY
 DOMAIN-SUFFIX,straightpornstuds.com,PROXY
 DOMAIN-SUFFIX,straitstimes.com,PROXY
+DOMAIN-SUFFIX,straitsx.com,PROXY
 DOMAIN-SUFFIX,stran.ac.uk,PROXY
 DOMAIN-SUFFIX,stranabg.com,PROXY
 DOMAIN-SUFFIX,straplessdildo.com,PROXY
@@ -26278,6 +26282,7 @@ DOMAIN-SUFFIX,theopportunityproject.org,PROXY
 DOMAIN-SUFFIX,thepaypalshop.com,PROXY
 DOMAIN-SUFFIX,thepervs.com,PROXY
 DOMAIN-SUFFIX,thepiratebay.org,PROXY
+DOMAIN-SUFFIX,thepoizon.ru,PROXY
 DOMAIN-SUFFIX,theporn.cc,PROXY
 DOMAIN-SUFFIX,thepornarea.com,PROXY
 DOMAIN-SUFFIX,thepornbest.com,PROXY
@@ -28793,6 +28798,7 @@ DOMAIN-SUFFIX,warddogs.com,PROXY
 DOMAIN-SUFFIX,wariolandshakeit.com,PROXY
 DOMAIN-SUFFIX,wariowarediy.com,PROXY
 DOMAIN-SUFFIX,warkscol.ac.uk,PROXY
+DOMAIN-SUFFIX,warnerbrosgames.com,PROXY
 DOMAIN-SUFFIX,warp.plus,PROXY
 DOMAIN-SUFFIX,warr.ac.uk,PROXY
 DOMAIN-SUFFIX,warrington.ac.uk,PROXY
@@ -28839,9 +28845,12 @@ DOMAIN-SUFFIX,waverleyabbeycollege.ac.uk,PROXY
 DOMAIN-SUFFIX,waybig.com,PROXY
 DOMAIN-SUFFIX,waymo.com,PROXY
 DOMAIN-SUFFIX,waze.com,PROXY
+DOMAIN-SUFFIX,wbagora.com,PROXY
 DOMAIN-SUFFIX,wballiance.com,PROXY
 DOMAIN-SUFFIX,wbd.ms,PROXY
 DOMAIN-SUFFIX,wbdnbo.net,PROXY
+DOMAIN-SUFFIX,wbgames.com,PROXY
+DOMAIN-SUFFIX,wbinsights.com,PROXY
 DOMAIN-SUFFIX,wbrks.com,PROXY
 DOMAIN-SUFFIX,wbs.ac.uk,PROXY
 DOMAIN-SUFFIX,wbvm4s.com,PROXY
@@ -31037,11 +31046,13 @@ DOMAIN,d33wubrfki0l68.cloudfront.net,PROXY
 DOMAIN,d36nr0u3xmc4mm.cloudfront.net,PROXY
 DOMAIN,d3aqoihi2n8ty8.cloudfront.net,PROXY
 DOMAIN,d3c27h4odz752x.cloudfront.net,PROXY
+DOMAIN,d3r7nsslvs6aaf.cloudfront.net,PROXY
 DOMAIN,d3vd9lfkzbru3h.cloudfront.net,PROXY
 DOMAIN,d6d4ismr40iw.cloudfront.net,PROXY
 DOMAIN,d6tizftlrpuof.cloudfront.net,PROXY
 DOMAIN,databank.worldbank.org,PROXY
 DOMAIN,database.asahi.com,PROXY
+DOMAIN,datarouter.apps.netherrealm.com,PROXY
 DOMAIN,ddacn6pr5v0tl.cloudfront.net,PROXY
 DOMAIN,default.exp-tas.com,PROXY
 DOMAIN,dell.my.site.com,PROXY
@@ -31334,6 +31345,7 @@ DOMAIN,steamstore-a.akamaihd.net,PROXY
 DOMAIN,steamusercontent-a.akamaihd.net,PROXY
 DOMAIN,steamuserimages-a.akamaihd.net,PROXY
 DOMAIN,steamvideo-a.akamaihd.net,PROXY
+DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,PROXY
 DOMAIN,t21.nikkei.co.jp,PROXY
 DOMAIN,t21ipau.nikkei.co.jp,PROXY
 DOMAIN,teamviewer.com.cdn.cloudflare.net,PROXY
@@ -31406,6 +31418,7 @@ DOMAIN,vscode-sync.trafficmanager.net,PROXY
 DOMAIN,vscode.blob.core.windows.net,PROXY
 DOMAIN,vscode.search.windows.net,PROXY
 DOMAIN,vsmarketplacebadge.apphb.com,PROXY
+DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,PROXY
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
 DOMAIN,weblive-hamivideo.cdn.hinet.net,PROXY
 DOMAIN,wetv.qq.com,PROXY
