@@ -12407,6 +12407,7 @@ DOMAIN-SUFFIX,gyutte.site,PROXY
 DOMAIN-SUFFIX,gyutto.com,PROXY
 DOMAIN-SUFFIX,gzm.tv,PROXY
 DOMAIN-SUFFIX,gzone-anime.info,PROXY
+DOMAIN-SUFFIX,h-chan.me,PROXY
 DOMAIN-SUFFIX,h-china.org,PROXY
 DOMAIN-SUFFIX,h-doujinshi.xyz,PROXY
 DOMAIN-SUFFIX,h-flash.com,PROXY
@@ -12747,6 +12748,8 @@ DOMAIN-SUFFIX,henshaws.ac.uk,PROXY
 DOMAIN-SUFFIX,hentai-ani.me,PROXY
 DOMAIN-SUFFIX,hentai-archive.com,PROXY
 DOMAIN-SUFFIX,hentai-books.com,PROXY
+DOMAIN-SUFFIX,hentai-chan.com,PROXY
+DOMAIN-SUFFIX,hentai-chan.live,PROXY
 DOMAIN-SUFFIX,hentai-cosplays.com,PROXY
 DOMAIN-SUFFIX,hentai-covers.site,PROXY
 DOMAIN-SUFFIX,hentai-eroanime.net,PROXY
@@ -12792,6 +12795,8 @@ DOMAIN-SUFFIX,hentaibaka.one,PROXY
 DOMAIN-SUFFIX,hentaibar.com,PROXY
 DOMAIN-SUFFIX,hentaiblue.com,PROXY
 DOMAIN-SUFFIX,hentaibros.com,PROXY
+DOMAIN-SUFFIX,hentaichan.live,PROXY
+DOMAIN-SUFFIX,hentaichan.me,PROXY
 DOMAIN-SUFFIX,hentaicity.com,PROXY
 DOMAIN-SUFFIX,hentaicloud.com,PROXY
 DOMAIN-SUFFIX,hentaiclub.net,PROXY
@@ -14296,6 +14301,7 @@ DOMAIN-SUFFIX,imgcrl.org,PROXY
 DOMAIN-SUFFIX,imgix.com,PROXY
 DOMAIN-SUFFIX,imgix.net,PROXY
 DOMAIN-SUFFIX,imgmega.com,PROXY
+DOMAIN-SUFFIX,imgschan.xyz,PROXY
 DOMAIN-SUFFIX,imgsmail.ru,PROXY
 DOMAIN-SUFFIX,imgur.com,PROXY
 DOMAIN-SUFFIX,imgur.io,PROXY
