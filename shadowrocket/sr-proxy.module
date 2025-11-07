@@ -701,6 +701,7 @@ DOMAIN-SUFFIX,aboutamazon.pl,PROXY
 DOMAIN-SUFFIX,aboutfacebook.com,PROXY
 DOMAIN-SUFFIX,aboutmcdonalds.com,PROXY
 DOMAIN-SUFFIX,aboutporno.net,PROXY
+DOMAIN-SUFFIX,aboutschwab.com,PROXY
 DOMAIN-SUFFIX,aboutyourmini.com,PROXY
 DOMAIN-SUFFIX,abow.jp,PROXY
 DOMAIN-SUFFIX,abplive.com,PROXY
@@ -6260,6 +6261,7 @@ DOMAIN-SUFFIX,ciattackers.com,PROXY
 DOMAIN-SUFFIX,cib.ac.uk,PROXY
 DOMAIN-SUFFIX,cici.com,PROXY
 DOMAIN-SUFFIX,ciciai.com,PROXY
+DOMAIN-SUFFIX,ciciaicdn.com,PROXY
 DOMAIN-SUFFIX,cicl.ac.uk,PROXY
 DOMAIN-SUFFIX,cied.ac.uk,PROXY
 DOMAIN-SUFFIX,ciemap.ac.uk,PROXY
@@ -8234,6 +8236,7 @@ DOMAIN-SUFFIX,dojindb.net,PROXY
 DOMAIN-SUFFIX,dojinmanga.net,PROXY
 DOMAIN-SUFFIX,dojinwatch.com,PROXY
 DOMAIN-SUFFIX,dokusho-ojikan.jp,PROXY
+DOMAIN-SUFFIX,dola.com,PROXY
 DOMAIN-SUFFIX,dolc.de,PROXY
 DOMAIN-SUFFIX,dolf.org.hk,PROXY
 DOMAIN-SUFFIX,dollarfotoclub.com,PROXY
@@ -9140,6 +9143,8 @@ DOMAIN-SUFFIX,elephantlist.com,PROXY
 DOMAIN-SUFFIX,elephantsdream.org,PROXY
 DOMAIN-SUFFIX,elephanttube.com,PROXY
 DOMAIN-SUFFIX,elephanttubenew.com,PROXY
+DOMAIN-SUFFIX,elevenlabs.com,PROXY
+DOMAIN-SUFFIX,elevenlabs.io,PROXY
 DOMAIN-SUFFIX,elgaronline.com,PROXY
 DOMAIN-SUFFIX,elgoog.im,PROXY
 DOMAIN-SUFFIX,elib.ac.uk,PROXY
@@ -10556,6 +10561,7 @@ DOMAIN-SUFFIX,flecheinthepeche.fr,PROXY
 DOMAIN-SUFFIX,fleshbot.com,PROXY
 DOMAIN-SUFFIX,fleshlyx.com,PROXY
 DOMAIN-SUFFIX,fleursdeslettres.com,PROXY
+DOMAIN-SUFFIX,flexclip.com,PROXY
 DOMAIN-SUFFIX,flexpool.io,PROXY
 DOMAIN-SUFFIX,flexsig.com,PROXY
 DOMAIN-SUFFIX,flgjustice.org,PROXY
@@ -11184,7 +11190,14 @@ DOMAIN-SUFFIX,fusker.xxx,PROXY
 DOMAIN-SUFFIX,futanarihq.com,PROXY
 DOMAIN-SUFFIX,futhead.com,PROXY
 DOMAIN-SUFFIX,futpromos.com,PROXY
+DOMAIN-SUFFIX,futuesop.com,PROXY
+DOMAIN-SUFFIX,futufin.com,PROXY
+DOMAIN-SUFFIX,futuhk.com,PROXY
+DOMAIN-SUFFIX,futuhn.com,PROXY
+DOMAIN-SUFFIX,futuholdings.com,PROXY
 DOMAIN-SUFFIX,futunited.com,PROXY
+DOMAIN-SUFFIX,futuniuniu.com,PROXY
+DOMAIN-SUFFIX,futunn.com,PROXY
 DOMAIN-SUFFIX,future-media.ac.uk,PROXY
 DOMAIN-SUFFIX,future-reserves-research.ac.uk,PROXY
 DOMAIN-SUFFIX,futurearmedforces.ac.uk,PROXY
@@ -11200,6 +11213,7 @@ DOMAIN-SUFFIX,futureshop.ca,PROXY
 DOMAIN-SUFFIX,futuretrack.ac.uk,PROXY
 DOMAIN-SUFFIX,futurevehicles.ac.uk,PROXY
 DOMAIN-SUFFIX,futureworks.ac.uk,PROXY
+DOMAIN-SUFFIX,futustatic.com,PROXY
 DOMAIN-SUFFIX,fux.com,PROXY
 DOMAIN-SUFFIX,fuxporn.com,PROXY
 DOMAIN-SUFFIX,fuyindiantai.org,PROXY
@@ -15033,6 +15047,9 @@ DOMAIN-SUFFIX,itemfix.com,PROXY
 DOMAIN-SUFFIX,itfromtheinside.com,PROXY
 DOMAIN-SUFFIX,ithelp.ithome.com.tw,PROXY
 DOMAIN-SUFFIX,itiger.com,PROXY
+DOMAIN-SUFFIX,itigergrowth.com,PROXY
+DOMAIN-SUFFIX,itigergrowtha.com,PROXY
+DOMAIN-SUFFIX,itigerup.com,PROXY
 DOMAIN-SUFFIX,itlearningspace-scot.ac.uk,PROXY
 DOMAIN-SUFFIX,itnel.com,PROXY
 DOMAIN-SUFFIX,itnow.ac.uk,PROXY
@@ -18441,6 +18458,9 @@ DOMAIN-SUFFIX,monthlyav.com,PROXY
 DOMAIN-SUFFIX,moodleshare-hw.ac.uk,PROXY
 DOMAIN-SUFFIX,moodstocks.com,PROXY
 DOMAIN-SUFFIX,moodyz.com,PROXY
+DOMAIN-SUFFIX,moomoo.com,PROXY
+DOMAIN-SUFFIX,moomooequity.com,PROXY
+DOMAIN-SUFFIX,moomootrustee.com,PROXY
 DOMAIN-SUFFIX,moon.fm,PROXY
 DOMAIN-SUFFIX,moonbbs.com,PROXY
 DOMAIN-SUFFIX,moonbingo.com,PROXY
@@ -22149,6 +22169,7 @@ DOMAIN-SUFFIX,prastitutki.ru,PROXY
 DOMAIN-SUFFIX,prayforchina.net,PROXY
 DOMAIN-SUFFIX,prcleader.org,PROXY
 DOMAIN-SUFFIX,pre-bmwgroup.jobs,PROXY
+DOMAIN-SUFFIX,predb.me,PROXY
 DOMAIN-SUFFIX,predictivetechnologies.com,PROXY
 DOMAIN-SUFFIX,premia.ac.uk,PROXY
 DOMAIN-SUFFIX,premium-beauty.com,PROXY
@@ -23622,6 +23643,12 @@ DOMAIN-SUFFIX,scholarsschool.ac.uk,PROXY
 DOMAIN-SUFFIX,schome.ac.uk,PROXY
 DOMAIN-SUFFIX,schoms.ac.uk,PROXY
 DOMAIN-SUFFIX,school-economic-science.ac.uk,PROXY
+DOMAIN-SUFFIX,schwab.co.uk,PROXY
+DOMAIN-SUFFIX,schwab.com,PROXY
+DOMAIN-SUFFIX,schwab.com.hk,PROXY
+DOMAIN-SUFFIX,schwab.com.sg,PROXY
+DOMAIN-SUFFIX,schwabassetmanagement.com,PROXY
+DOMAIN-SUFFIX,schwabplan.com,PROXY
 DOMAIN-SUFFIX,sci-hub.ee,PROXY
 DOMAIN-SUFFIX,sci-hub.it.nf,PROXY
 DOMAIN-SUFFIX,sci-hub.mksa.top,PROXY
