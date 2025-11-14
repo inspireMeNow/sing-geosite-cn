@@ -31163,9 +31163,13 @@ DOMAIN,d1k2us671qcoau.cloudfront.net,PROXY
 DOMAIN,d1m7jfoe9zdc1j.cloudfront.net,PROXY
 DOMAIN,d1mhjrowxxagfy.cloudfront.net,PROXY
 DOMAIN,d1oca24q5dwo6d.cloudfront.net,PROXY
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,PROXY
 DOMAIN,d1w2poirtb3as9.cloudfront.net,PROXY
 DOMAIN,d1xhnb4ptk05mw.cloudfront.net,PROXY
 DOMAIN,d1ymi26ma8va5x.cloudfront.net,PROXY
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,PROXY
+DOMAIN,d25xi40x97liuc.cloudfront.net,PROXY
+DOMAIN,d27xxe7juh1us6.cloudfront.net,PROXY
 DOMAIN,d29vzk4ow07wi7.cloudfront.net,PROXY
 DOMAIN,d2aba1wr3818hz.cloudfront.net,PROXY
 DOMAIN,d2anahhhmp1ffz.cloudfront.net,PROXY
@@ -31199,6 +31203,7 @@ DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com,PROXY
 DOMAIN,dl.begellhouse.com,PROXY
 DOMAIN,dlgarenanow-a.akamaihd.net,PROXY
 DOMAIN,dlmobilegarena-a.akamaihd.net,PROXY
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,PROXY
 DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,PROXY
 DOMAIN,docker-pinata-support.s3.amazonaws.com,PROXY
 DOMAIN,download.visualstudio.microsoft.com,PROXY
@@ -31269,6 +31274,9 @@ DOMAIN,hpstore.corpmerchandise.com,PROXY
 DOMAIN,hub.slarker.me,PROXY
 DOMAIN,hulu.playback.edge.bamgrid.com,PROXY
 DOMAIN,i.jeded.com,PROXY
+DOMAIN,images-eu.ssl-images-amazon.com,PROXY
+DOMAIN,images-fe.ssl-images-amazon.com,PROXY
+DOMAIN,images-na.ssl-images-amazon.com,PROXY
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
 DOMAIN,img-s-msn-com.akamaized.net,PROXY
 DOMAIN,impala-media-production.s3.amazonaws.com,PROXY
@@ -31293,6 +31301,7 @@ DOMAIN,medone-education.thieme.com,PROXY
 DOMAIN,misa-prod.s3.ap-northeast-1.amazonaws.com,PROXY
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net,PROXY
 DOMAIN,mscrl.microsoft.com,PROXY
+DOMAIN,msh.amazon.co.uk,PROXY
 DOMAIN,mtalk-dev.google.com,PROXY
 DOMAIN,mtalk-staging.google.com,PROXY
 DOMAIN,mtalk.google.com,PROXY
@@ -31462,6 +31471,7 @@ DOMAIN,spotify.map.fastly.net,PROXY
 DOMAIN,spotify.map.fastlylb.net,PROXY
 DOMAIN,ssl-lvlt.cdn.ea.com,PROXY
 DOMAIN,static-hamivideo.cdn.hinet.net,PROXY
+DOMAIN,static.siege-amazon.com,PROXY
 DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net,PROXY
 DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net,PROXY
 DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net,PROXY
