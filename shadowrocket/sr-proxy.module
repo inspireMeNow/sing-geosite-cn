@@ -773,6 +773,7 @@ DOMAIN-SUFFIX,addtoany.com,PROXY
 DOMAIN-SUFFIX,addyoutube.com,PROXY
 DOMAIN-SUFFIX,adelaidebbs.com,PROXY
 DOMAIN-SUFFIX,adelaidenow.com.au,PROXY
+DOMAIN-SUFFIX,adfox.ru,PROXY
 DOMAIN-SUFFIX,adgoogle.net,PROXY
 DOMAIN-SUFFIX,adguard-dns.com,PROXY
 DOMAIN-SUFFIX,adguard-dns.io,PROXY
@@ -807,6 +808,7 @@ DOMAIN-SUFFIX,adidas.ru,PROXY
 DOMAIN-SUFFIX,adidas.se,PROXY
 DOMAIN-SUFFIX,adinst.com,PROXY
 DOMAIN-SUFFIX,admeld.com,PROXY
+DOMAIN-SUFFIX,admetrica.ru,PROXY
 DOMAIN-SUFFIX,admob-cn.com,PROXY
 DOMAIN-SUFFIX,admob.com,PROXY
 DOMAIN-SUFFIX,adobe-aemassets-value.com,PROXY
@@ -10813,6 +10815,7 @@ DOMAIN-SUFFIX,heywire.com,PROXY
 DOMAIN-SUFFIX,heyzo.com,PROXY
 DOMAIN-SUFFIX,hf-iphone.com,PROXY
 DOMAIN-SUFFIX,hf.co,PROXY
+DOMAIN-SUFFIX,hf.space,PROXY
 DOMAIN-SUFFIX,hg.cool,PROXY
 DOMAIN-SUFFIX,hgamer.pro,PROXY
 DOMAIN-SUFFIX,hgseav.com,PROXY
@@ -13398,6 +13401,7 @@ DOMAIN-SUFFIX,kinkypeepz.com,PROXY
 DOMAIN-SUFFIX,kinmen.org.tw,PROXY
 DOMAIN-SUFFIX,kinmen.travel,PROXY
 DOMAIN-SUFFIX,kinokuniya.com,PROXY
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net,PROXY
 DOMAIN-SUFFIX,kinopoisk.ru,PROXY
 DOMAIN-SUFFIX,kir.jp,PROXY
 DOMAIN-SUFFIX,kir2kos.net,PROXY
@@ -15907,6 +15911,7 @@ DOMAIN-SUFFIX,namethatporn.com,PROXY
 DOMAIN-SUFFIX,namethatpornad.com,PROXY
 DOMAIN-SUFFIX,namgyal.org,PROXY
 DOMAIN-SUFFIX,namgyalmonastery.org,PROXY
+DOMAIN-SUFFIX,namu.wiki,PROXY
 DOMAIN-SUFFIX,nan-net.com,PROXY
 DOMAIN-SUFFIX,nanopool.org,PROXY
 DOMAIN-SUFFIX,nantobank.co.jp,PROXY
@@ -17723,6 +17728,7 @@ DOMAIN-SUFFIX,picnik.com,PROXY
 DOMAIN-SUFFIX,picpost.com,PROXY
 DOMAIN-SUFFIX,pics.ee,PROXY
 DOMAIN-SUFFIX,pics.vc,PROXY
+DOMAIN-SUFFIX,picsart.com,PROXY
 DOMAIN-SUFFIX,picsee.co,PROXY
 DOMAIN-SUFFIX,picsee.pro,PROXY
 DOMAIN-SUFFIX,pictoa.com,PROXY
@@ -23790,6 +23796,8 @@ DOMAIN-SUFFIX,websitepulse.com,PROXY
 DOMAIN-SUFFIX,webtoons.com,PROXY
 DOMAIN-SUFFIX,webtoonscorp.com,PROXY
 DOMAIN-SUFFIX,webtype.com,PROXY
+DOMAIN-SUFFIX,webvisor.com,PROXY
+DOMAIN-SUFFIX,webvisor.org,PROXY
 DOMAIN-SUFFIX,webwarper.net,PROXY
 DOMAIN-SUFFIX,webworkerdaily.com,PROXY
 DOMAIN-SUFFIX,wechatlawsuit.com,PROXY
@@ -24784,6 +24792,7 @@ DOMAIN-SUFFIX,ya.ru,PROXY
 DOMAIN-SUFFIX,yaddal.tv,PROXY
 DOMAIN-SUFFIX,yadi.sk,PROXY
 DOMAIN-SUFFIX,yadori.club,PROXY
+DOMAIN-SUFFIX,yads.tech,PROXY
 DOMAIN-SUFFIX,yaeby.info,PROXY
 DOMAIN-SUFFIX,yaeby.pro,PROXY
 DOMAIN-SUFFIX,yahoo,PROXY
@@ -24957,6 +24966,7 @@ DOMAIN-SUFFIX,yande.re,PROXY
 DOMAIN-SUFFIX,yandex,PROXY
 DOMAIN-SUFFIX,yandex-bank.net,PROXY
 DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
+DOMAIN-SUFFIX,yandex-team.ru,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
@@ -24992,6 +25002,7 @@ DOMAIN-SUFFIX,yandex.uz,PROXY
 DOMAIN-SUFFIX,yandexadexchange.net,PROXY
 DOMAIN-SUFFIX,yandexcloud.net,PROXY
 DOMAIN-SUFFIX,yandexcom.net,PROXY
+DOMAIN-SUFFIX,yandexmetrica.com,PROXY
 DOMAIN-SUFFIX,yandexwebcache.org,PROXY
 DOMAIN-SUFFIX,yanghengjun.com,PROXY
 DOMAIN-SUFFIX,yangzhi.org,PROXY
@@ -25007,6 +25018,7 @@ DOMAIN-SUFFIX,yarininsuyu.com,PROXY
 DOMAIN-SUFFIX,yarnpkg.com,PROXY
 DOMAIN-SUFFIX,yasarang.net,PROXY
 DOMAIN-SUFFIX,yasni.co.uk,PROXY
+DOMAIN-SUFFIX,yastat.net,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
 DOMAIN-SUFFIX,yasukuni.or.jp,PROXY
 DOMAIN-SUFFIX,yavtube.com,PROXY
