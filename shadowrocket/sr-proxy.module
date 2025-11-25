@@ -1570,8 +1570,8 @@ DOMAIN-SUFFIX,ancensored.com,PROXY
 DOMAIN-SUFFIX,anchor.fm,PROXY
 DOMAIN-SUFFIX,anchorfree.com,PROXY
 DOMAIN-SUFFIX,ancsconf.org,PROXY
-DOMAIN-SUFFIX,and,PROXY
 DOMAIN-SUFFIX,andfaraway.net,PROXY
+DOMAIN-SUFFIX,android,PROXY
 DOMAIN-SUFFIX,android-x86.org,PROXY
 DOMAIN-SUFFIX,android.com,PROXY
 DOMAIN-SUFFIX,androidapksfree.com,PROXY
@@ -4902,7 +4902,6 @@ DOMAIN-SUFFIX,cbbank.com.mm,PROXY
 DOMAIN-SUFFIX,cbc.ca,PROXY
 DOMAIN-SUFFIX,cbi.ir,PROXY
 DOMAIN-SUFFIX,cbm.com.mm,PROXY
-DOMAIN-SUFFIX,cbs,PROXY
 DOMAIN-SUFFIX,cbs.com,PROXY
 DOMAIN-SUFFIX,cbs.ntu.edu.tw,PROXY
 DOMAIN-SUFFIX,cbsaavideo.com,PROXY
@@ -14501,7 +14500,6 @@ DOMAIN-SUFFIX,mcadforums.com,PROXY
 DOMAIN-SUFFIX,mcaf.ee,PROXY
 DOMAIN-SUFFIX,mcafee.com,PROXY
 DOMAIN-SUFFIX,mcb.com.mm,PROXY
-DOMAIN-SUFFIX,mcd,PROXY
 DOMAIN-SUFFIX,mcd-holdings.co.jp,PROXY
 DOMAIN-SUFFIX,mcd.com,PROXY
 DOMAIN-SUFFIX,mcdelivery.co.id,PROXY
@@ -14514,7 +14512,6 @@ DOMAIN-SUFFIX,mcdelivery.com.sg,PROXY
 DOMAIN-SUFFIX,mcdelivery.com.tw,PROXY
 DOMAIN-SUFFIX,mcdindia.com,PROXY
 DOMAIN-SUFFIX,mcdindonesia.com,PROXY
-DOMAIN-SUFFIX,mcdonalds,PROXY
 DOMAIN-SUFFIX,mcdonalds-online.com,PROXY
 DOMAIN-SUFFIX,mcdonalds.be,PROXY
 DOMAIN-SUFFIX,mcdonalds.ca,PROXY
@@ -20044,7 +20041,6 @@ DOMAIN-SUFFIX,shotgunvfx.com,PROXY
 DOMAIN-SUFFIX,shotwithgeforce.com,PROXY
 DOMAIN-SUFFIX,showhaotu.com,PROXY
 DOMAIN-SUFFIX,shownote.com,PROXY
-DOMAIN-SUFFIX,showtime,PROXY
 DOMAIN-SUFFIX,showtime.com,PROXY
 DOMAIN-SUFFIX,showtime.jp,PROXY
 DOMAIN-SUFFIX,showtimeanytime.com,PROXY
@@ -21535,7 +21531,6 @@ DOMAIN-SUFFIX,thegioitinhoc.vn,PROXY
 DOMAIN-SUFFIX,thegithubshop.com,PROXY
 DOMAIN-SUFFIX,thegly.com,PROXY
 DOMAIN-SUFFIX,thegooglestore.com,PROXY
-DOMAIN-SUFFIX,theguardian,PROXY
 DOMAIN-SUFFIX,theguardian.com,PROXY
 DOMAIN-SUFFIX,theguardiandns.com,PROXY
 DOMAIN-SUFFIX,thehabibshow.com,PROXY
