@@ -3479,7 +3479,6 @@ DOMAIN-SUFFIX,bing,PROXY
 DOMAIN-SUFFIX,bing.com,PROXY
 DOMAIN-SUFFIX,bing.net,PROXY
 DOMAIN-SUFFIX,bing123.com,PROXY
-DOMAIN-SUFFIX,bingads.com,PROXY
 DOMAIN-SUFFIX,bingagencyawards.com,PROXY
 DOMAIN-SUFFIX,bingapis.com,PROXY
 DOMAIN-SUFFIX,bingapistatistics.com,PROXY
@@ -8116,7 +8115,6 @@ DOMAIN-SUFFIX,facebook30.com,PROXY
 DOMAIN-SUFFIX,facebook30.net,PROXY
 DOMAIN-SUFFIX,facebook30.org,PROXY
 DOMAIN-SUFFIX,facebook4business.com,PROXY
-DOMAIN-SUFFIX,facebookads.com,PROXY
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com,PROXY
 DOMAIN-SUFFIX,facebookappcenter.info,PROXY
 DOMAIN-SUFFIX,facebookappcenter.net,PROXY
@@ -14767,7 +14765,6 @@ DOMAIN-SUFFIX,microsoft.vn,PROXY
 DOMAIN-SUFFIX,microsoft365.com,PROXY
 DOMAIN-SUFFIX,microsoftaccountguard.com,PROXY
 DOMAIN-SUFFIX,microsoftadc.com,PROXY
-DOMAIN-SUFFIX,microsoftads.com,PROXY
 DOMAIN-SUFFIX,microsoftadvertising.com,PROXY
 DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com,PROXY
 DOMAIN-SUFFIX,microsoftaffiliates.com,PROXY
@@ -15517,7 +15514,6 @@ DOMAIN-SUFFIX,ms-studiosmedia.com,PROXY
 DOMAIN-SUFFIX,ms365surfaceoffer.com,PROXY
 DOMAIN-SUFFIX,ms4dre.com,PROXY
 DOMAIN-SUFFIX,msa-it.org,PROXY
-DOMAIN-SUFFIX,msads.net,PROXY
 DOMAIN-SUFFIX,msauth.net,PROXY
 DOMAIN-SUFFIX,mschallenge2018.com,PROXY
 DOMAIN-SUFFIX,msdn.com,PROXY
@@ -19633,6 +19629,7 @@ DOMAIN-SUFFIX,sensorynetworks.com,PROXY
 DOMAIN-SUFFIX,sensualgirls.org,PROXY
 DOMAIN-SUFFIX,sensualmothers.com,PROXY
 DOMAIN-SUFFIX,sensueel.net,PROXY
+DOMAIN-SUFFIX,sentry-cdn.com,PROXY
 DOMAIN-SUFFIX,sentry.io,PROXY
 DOMAIN-SUFFIX,senzuritv.net,PROXY
 DOMAIN-SUFFIX,seqing.one,PROXY
