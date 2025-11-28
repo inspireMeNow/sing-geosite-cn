@@ -936,6 +936,7 @@ DOMAIN-SUFFIX,advertfan.com,PROXY
 DOMAIN-SUFFIX,advertisercommunity.com,PROXY
 DOMAIN-SUFFIX,adx.promo,PROXY
 DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com,PROXY
+DOMAIN-SUFFIX,ae-rus.net,PROXY
 DOMAIN-SUFFIX,ae.hao123.com,PROXY
 DOMAIN-SUFFIX,ae.org,PROXY
 DOMAIN-SUFFIX,aeasyshop.com,PROXY
@@ -947,6 +948,7 @@ DOMAIN-SUFFIX,aerogard.com.au,PROXY
 DOMAIN-SUFFIX,aerogardcn.com,PROXY
 DOMAIN-SUFFIX,aerospace-cadcam.com,PROXY
 DOMAIN-SUFFIX,aerospace-design.com,PROXY
+DOMAIN-SUFFIX,aestatic.net,PROXY
 DOMAIN-SUFFIX,aesworkshops.com,PROXY
 DOMAIN-SUFFIX,aex.com,PROXY
 DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com,PROXY
@@ -5641,6 +5643,9 @@ DOMAIN-SUFFIX,comdotgame.com,PROXY
 DOMAIN-SUFFIX,come29.xyz,PROXY
 DOMAIN-SUFFIX,comefromchina.com,PROXY
 DOMAIN-SUFFIX,cometotheduckside.com,PROXY
+DOMAIN-SUFFIX,comfy.org,PROXY
+DOMAIN-SUFFIX,comfyci.org,PROXY
+DOMAIN-SUFFIX,comfyregistry.org,PROXY
 DOMAIN-SUFFIX,comic-mega.me,PROXY
 DOMAIN-SUFFIX,comicbox.xyz,PROXY
 DOMAIN-SUFFIX,comicscartoonporn.com,PROXY
@@ -17239,6 +17244,7 @@ DOMAIN-SUFFIX,oxlife.co,PROXY
 DOMAIN-SUFFIX,oyax.com,PROXY
 DOMAIN-SUFFIX,oyeloca.com,PROXY
 DOMAIN-SUFFIX,oyghan.com,PROXY
+DOMAIN-SUFFIX,oystermercury.top,PROXY
 DOMAIN-SUFFIX,ozchinese.com,PROXY
 DOMAIN-SUFFIX,ozeex.com,PROXY
 DOMAIN-SUFFIX,ozodi.org,PROXY
@@ -18904,12 +18910,15 @@ DOMAIN-SUFFIX,rbeopp.com,PROXY
 DOMAIN-SUFFIX,rbeuroinfo.com,PROXY
 DOMAIN-SUFFIX,rbgrads.com,PROXY
 DOMAIN-SUFFIX,rbgraduates.com,PROXY
+DOMAIN-SUFFIX,rblx.org,PROXY
 DOMAIN-SUFFIX,rbmavericks.com,PROXY
 DOMAIN-SUFFIX,rbnainternational.com,PROXY
 DOMAIN-SUFFIX,rbplc.com,PROXY
 DOMAIN-SUFFIX,rbrandlibrary.com,PROXY
 DOMAIN-SUFFIX,rbsgr.com,PROXY
 DOMAIN-SUFFIX,rbspeakup.com,PROXY
+DOMAIN-SUFFIX,rbx.com,PROXY
+DOMAIN-SUFFIX,rbxcdn.com,PROXY
 DOMAIN-SUFFIX,rcinet.ca,PROXY
 DOMAIN-SUFFIX,rcl07.xyz,PROXY
 DOMAIN-SUFFIX,rclon.com,PROXY
@@ -19181,6 +19190,9 @@ DOMAIN-SUFFIX,rmjdw.com,PROXY
 DOMAIN-SUFFIX,ro89.com,PROXY
 DOMAIN-SUFFIX,road-crew.com,PROXY
 DOMAIN-SUFFIX,roadshow.hk,PROXY
+DOMAIN-SUFFIX,roblox-api.arkoselabs.co,PROXY
+DOMAIN-SUFFIX,roblox.com,PROXY
+DOMAIN-SUFFIX,robloxlabs.com,PROXY
 DOMAIN-SUFFIX,robobat.com,PROXY
 DOMAIN-SUFFIX,roboforex.com,PROXY
 DOMAIN-SUFFIX,roboform.com,PROXY
@@ -25698,6 +25710,7 @@ DOMAIN,d1k2us671qcoau.cloudfront.net,PROXY
 DOMAIN,d1m7jfoe9zdc1j.cloudfront.net,PROXY
 DOMAIN,d1mhjrowxxagfy.cloudfront.net,PROXY
 DOMAIN,d1oca24q5dwo6d.cloudfront.net,PROXY
+DOMAIN,d1unuk07s6td74.cloudfront.net,PROXY
 DOMAIN,d1v5ir2lpwr8os.cloudfront.net,PROXY
 DOMAIN,d1w2poirtb3as9.cloudfront.net,PROXY
 DOMAIN,d1xhnb4ptk05mw.cloudfront.net,PROXY
@@ -25902,6 +25915,9 @@ DOMAIN,push-apple.com.akadns.net,PROXY
 DOMAIN,pvr-hamivideo.cdn.hinet.net,PROXY
 DOMAIN,qualcomm.sc.omtrdc.net,PROXY
 DOMAIN,rink.hockeyapp.net,PROXY
+DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,PROXY
+DOMAIN,roblox-poc.global.ssl.fastly.net,PROXY
+DOMAIN,robloxcorp.s.llnwi.net,PROXY
 DOMAIN,rss.4040940.xyz,PROXY
 DOMAIN,rss.datuan.dev,PROXY
 DOMAIN,rss.littlebaby.life,PROXY
