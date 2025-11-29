@@ -16891,6 +16891,7 @@ DOMAIN-SUFFIX,offresspecialesbmw.ca,PROXY
 DOMAIN-SUFFIX,offrezdesipods.com,PROXY
 DOMAIN-SUFFIX,offworldindustries.com,PROXY
 DOMAIN-SUFFIX,offworldindustries.net,PROXY
+DOMAIN-SUFFIX,ofiii.com,PROXY
 DOMAIN-SUFFIX,ofile.org,PROXY
 DOMAIN-SUFFIX,ogakikyoritsu.co.jp,PROXY
 DOMAIN-SUFFIX,ogameblog.com,PROXY
@@ -25864,6 +25865,8 @@ DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
 DOMAIN,notify.ppy.sh,PROXY
 DOMAIN,np-edge.itunes.apple.com,PROXY
+DOMAIN,ntdofifreepc-tgc.cdn.hinet.net,PROXY
+DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net,PROXY
 DOMAIN,ntp-b.nist.gov,PROXY
 DOMAIN,ntp-c.colorado.edu,PROXY
 DOMAIN,ntp-d.nist.gov,PROXY
