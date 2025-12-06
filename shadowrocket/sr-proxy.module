@@ -21859,6 +21859,7 @@ DOMAIN-SUFFIX,tiffany-towers.com,PROXY
 DOMAIN-SUFFIX,tig-ol-bitties.live,PROXY
 DOMAIN-SUFFIX,tigervpn.com,PROXY
 DOMAIN-SUFFIX,tik-tokapi.com,PROXY
+DOMAIN-SUFFIX,tiktok-row.net,PROXY
 DOMAIN-SUFFIX,tiktok.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn-eu.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
@@ -21866,6 +21867,8 @@ DOMAIN-SUFFIX,tiktokcdn.com,PROXY
 DOMAIN-SUFFIX,tiktokd.net,PROXY
 DOMAIN-SUFFIX,tiktokd.org,PROXY
 DOMAIN-SUFFIX,tiktokeu-cdn.com,PROXY
+DOMAIN-SUFFIX,tiktokglobalshopv.com,PROXY
+DOMAIN-SUFFIX,tiktokminis.us,PROXY
 DOMAIN-SUFFIX,tiktokrow-cdn.com,PROXY
 DOMAIN-SUFFIX,tiktokv.com,PROXY
 DOMAIN-SUFFIX,tiktokv.eu,PROXY
@@ -25636,6 +25639,7 @@ DOMAIN-SUFFIX,zophar.net,PROXY
 DOMAIN-SUFFIX,zopim.com,PROXY
 DOMAIN-SUFFIX,zorglist.com,PROXY
 DOMAIN-SUFFIX,zorrovpn.com,PROXY
+DOMAIN-SUFFIX,zotero.org,PROXY
 DOMAIN-SUFFIX,zozotown.com,PROXY
 DOMAIN-SUFFIX,zpn.im,PROXY
 DOMAIN-SUFFIX,zqqpwz.com,PROXY
