@@ -17975,7 +17975,10 @@ DOMAIN-SUFFIX,poe.com,PROXY
 DOMAIN-SUFFIX,poecdn.net,PROXY
 DOMAIN-SUFFIX,pogo.com,PROXY
 DOMAIN-SUFFIX,pogobeta.com,PROXY
+DOMAIN-SUFFIX,poi.icu,PROXY
 DOMAIN-SUFFIX,poi.moe,PROXY
+DOMAIN-SUFFIX,poi6.net,PROXY
+DOMAIN-SUFFIX,poihub.com,PROXY
 DOMAIN-SUFFIX,points-media.com,PROXY
 DOMAIN-SUFFIX,poisontube.com,PROXY
 DOMAIN-SUFFIX,pojapp.cfd,PROXY
@@ -18529,6 +18532,7 @@ DOMAIN-SUFFIX,prodrive-japan.com,PROXY
 DOMAIN-SUFFIX,product.co.jp,PROXY
 DOMAIN-SUFFIX,profilemaster.com,PROXY
 DOMAIN-SUFFIX,profreeporno.com,PROXY
+DOMAIN-SUFFIX,project-poi.com,PROXY
 DOMAIN-SUFFIX,project-syndicate.org,PROXY
 DOMAIN-SUFFIX,projectapex.com,PROXY
 DOMAIN-SUFFIX,projectara.com,PROXY
