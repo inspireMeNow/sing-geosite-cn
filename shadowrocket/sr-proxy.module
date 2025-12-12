@@ -4610,6 +4610,7 @@ DOMAIN-SUFFIX,bynet.co.il,PROXY
 DOMAIN-SUFFIX,bypasscensorship.org,PROXY
 DOMAIN-SUFFIX,byrut.org,PROXY
 DOMAIN-SUFFIX,byspotify.com,PROXY
+DOMAIN-SUFFIX,bytedapm.com,PROXY
 DOMAIN-SUFFIX,byteglb.com,PROXY
 DOMAIN-SUFFIX,byteoversea.com,PROXY
 DOMAIN-SUFFIX,byteoversea.net,PROXY
@@ -16248,6 +16249,7 @@ DOMAIN-SUFFIX,nextwork.com.tw,PROXY
 DOMAIN-SUFFIX,nextwork.hk,PROXY
 DOMAIN-SUFFIX,nextwork.tw,PROXY
 DOMAIN-SUFFIX,nexus,PROXY
+DOMAIN-SUFFIX,nexus-cdn.com,PROXY
 DOMAIN-SUFFIX,nexusmods.com,PROXY
 DOMAIN-SUFFIX,nf.id.au,PROXY
 DOMAIN-SUFFIX,nfjtyd.com,PROXY
@@ -21872,6 +21874,7 @@ DOMAIN-SUFFIX,tiffany-towers.com,PROXY
 DOMAIN-SUFFIX,tig-ol-bitties.live,PROXY
 DOMAIN-SUFFIX,tigervpn.com,PROXY
 DOMAIN-SUFFIX,tik-tokapi.com,PROXY
+DOMAIN-SUFFIX,tiktok-minis.com,PROXY
 DOMAIN-SUFFIX,tiktok-row.net,PROXY
 DOMAIN-SUFFIX,tiktok.com,PROXY
 DOMAIN-SUFFIX,tiktokcdn-eu.com,PROXY
@@ -25996,6 +25999,10 @@ DOMAIN,rink.hockeyapp.net,PROXY
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,PROXY
 DOMAIN,roblox-poc.global.ssl.fastly.net,PROXY
 DOMAIN,robloxcorp.s.llnwi.net,PROXY
+DOMAIN,roovza-launches.appsflyersdk.com,PROXY
+DOMAIN,roovza.inapps.appsflyersdk.com,PROXY
+DOMAIN,roovza.launches.appsflyersdk.com,PROXY
+DOMAIN,roovza.skadsdk.appsflyersdk.com,PROXY
 DOMAIN,rss.4040940.xyz,PROXY
 DOMAIN,rss.datuan.dev,PROXY
 DOMAIN,rss.littlebaby.life,PROXY
