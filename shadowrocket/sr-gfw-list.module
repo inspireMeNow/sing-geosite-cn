@@ -299,6 +299,7 @@ DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,antichristendom.com,PROXY
 DOMAIN-SUFFIX,antiwave.net,PROXY
 DOMAIN-SUFFIX,antpool.com,PROXY
+DOMAIN-SUFFIX,anuneko.com,PROXY
 DOMAIN-SUFFIX,anyporn.com,PROXY
 DOMAIN-SUFFIX,anysex.com,PROXY
 DOMAIN-SUFFIX,ao3.org,PROXY
@@ -2845,6 +2846,7 @@ DOMAIN-SUFFIX,jeanyim.com,PROXY
 DOMAIN-SUFFIX,jetos.com,PROXY
 DOMAIN-SUFFIX,jex.com,PROXY
 DOMAIN-SUFFIX,jgoodies.com,PROXY
+DOMAIN-SUFFIX,jhelab.org,PROXY
 DOMAIN-SUFFIX,jiangweiping.com,PROXY
 DOMAIN-SUFFIX,jiaoyou8.com,PROXY
 DOMAIN-SUFFIX,jiehua.cz,PROXY
@@ -3949,6 +3951,7 @@ DOMAIN-SUFFIX,pobieramy.top,PROXY
 DOMAIN-SUFFIX,podbean.com,PROXY
 DOMAIN-SUFFIX,podcast.co,PROXY
 DOMAIN-SUFFIX,podictionary.com,PROXY
+DOMAIN-SUFFIX,podwise.ai,PROXY
 DOMAIN-SUFFIX,poe.com,PROXY
 DOMAIN-SUFFIX,points-media.com,PROXY
 DOMAIN-SUFFIX,pokerstars.com,PROXY
@@ -4115,9 +4118,11 @@ DOMAIN-SUFFIX,radicalparty.org,PROXY
 DOMAIN-SUFFIX,radiko.jp,PROXY
 DOMAIN-SUFFIX,radio-canada.ca,PROXY
 DOMAIN-SUFFIX,radio-en-ligne.fr,PROXY
+DOMAIN-SUFFIX,radio.co,PROXY
 DOMAIN-SUFFIX,radio.garden,PROXY
 DOMAIN-SUFFIX,radioaustralia.net.au,PROXY
 DOMAIN-SUFFIX,radiohilight.net,PROXY
+DOMAIN-SUFFIX,radiojar.com,PROXY
 DOMAIN-SUFFIX,radioline.co,PROXY
 DOMAIN-SUFFIX,radiovaticana.org,PROXY
 DOMAIN-SUFFIX,radiovncr.com,PROXY
