@@ -17462,6 +17462,7 @@ DOMAIN-SUFFIX,parstream.com,PROXY
 DOMAIN-SUFFIX,parstream.net,PROXY
 DOMAIN-SUFFIX,parstream.org,PROXY
 DOMAIN-SUFFIX,partmaker.com,PROXY
+DOMAIN-SUFFIX,partnerstack.xyz,PROXY
 DOMAIN-SUFFIX,partycasino.com,PROXY
 DOMAIN-SUFFIX,partylikeits1986.org,PROXY
 DOMAIN-SUFFIX,partypoker.com,PROXY
@@ -26045,7 +26046,13 @@ DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
 DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
 DOMAIN,notify.ppy.sh,PROXY
 DOMAIN,np-edge.itunes.apple.com,PROXY
+DOMAIN,ntdfreemobile-tgc.cdn.hinet.net,PROXY
+DOMAIN,ntdfreepc-tgc.cdn.hinet.net,PROXY
+DOMAIN,ntdfreetv-tgc.cdn.hinet.net,PROXY
+DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net,PROXY
+DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net,PROXY
 DOMAIN,ntdofifreepc-tgc.cdn.hinet.net,PROXY
+DOMAIN,ntdofifreetv-tgc.cdn.hinet.net,PROXY
 DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net,PROXY
 DOMAIN,ntp-b.nist.gov,PROXY
 DOMAIN,ntp-c.colorado.edu,PROXY
