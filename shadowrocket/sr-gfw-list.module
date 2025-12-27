@@ -1023,7 +1023,6 @@ DOMAIN-SUFFIX,chrome.com,PROXY
 DOMAIN-SUFFIX,chromecast.com,PROXY
 DOMAIN-SUFFIX,chromeexperiments.com,PROXY
 DOMAIN-SUFFIX,chromestatus.com,PROXY
-DOMAIN-SUFFIX,chromium.org,PROXY
 DOMAIN-SUFFIX,chuang-yen.org,PROXY
 DOMAIN-SUFFIX,chubold.com,PROXY
 DOMAIN-SUFFIX,chubun.com,PROXY
@@ -3130,6 +3129,7 @@ DOMAIN-SUFFIX,lookpic.com,PROXY
 DOMAIN-SUFFIX,looktoronto.com,PROXY
 DOMAIN-SUFFIX,lotsawahouse.org,PROXY
 DOMAIN-SUFFIX,lotuslight.org.tw,PROXY
+DOMAIN-SUFFIX,lovart.ai,PROXY
 DOMAIN-SUFFIX,lovetvshow.com,PROXY
 DOMAIN-SUFFIX,lpsg.com,PROXY
 DOMAIN-SUFFIX,lrfz.com,PROXY
