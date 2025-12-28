@@ -6425,7 +6425,6 @@ DOMAIN-SUFFIX,dengeamerika.com,PROXY
 DOMAIN-SUFFIX,dengekionline.com,PROXY
 DOMAIN-SUFFIX,dengiamerika.com,PROXY
 DOMAIN-SUFFIX,deno.com,PROXY
-DOMAIN-SUFFIX,deno.dev,PROXY
 DOMAIN-SUFFIX,deno.land,PROXY
 DOMAIN-SUFFIX,dentalhypotheses.com,PROXY
 DOMAIN-SUFFIX,dependabot.com,PROXY
@@ -9750,6 +9749,7 @@ DOMAIN-SUFFIX,gfsale.com,PROXY
 DOMAIN-SUFFIX,gfw.press,PROXY
 DOMAIN-SUFFIX,gfw.report,PROXY
 DOMAIN-SUFFIX,gfwatch.org,PROXY
+DOMAIN-SUFFIX,gfwbao.com,PROXY
 DOMAIN-SUFFIX,gfx.ms,PROXY
 DOMAIN-SUFFIX,gfycat.com,PROXY
 DOMAIN-SUFFIX,gfysex.com,PROXY
@@ -21021,6 +21021,7 @@ DOMAIN-SUFFIX,steamcontent.com,PROXY
 DOMAIN-SUFFIX,steamdb.info,PROXY
 DOMAIN-SUFFIX,steamdeck.com,PROXY
 DOMAIN-SUFFIX,steamgames.com,PROXY
+DOMAIN-SUFFIX,steamladder.com,PROXY
 DOMAIN-SUFFIX,steamofporn.com,PROXY
 DOMAIN-SUFFIX,steampowered.com,PROXY
 DOMAIN-SUFFIX,steamserver.net,PROXY

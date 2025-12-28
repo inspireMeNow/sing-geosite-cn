@@ -227,6 +227,7 @@ DOMAIN-SUFFIX,alicejapan.co.jp,PROXY
 DOMAIN-SUFFIX,aliengu.com,PROXY
 DOMAIN-SUFFIX,alive.bar,PROXY
 DOMAIN-SUFFIX,aljazeera.com,PROXY
+DOMAIN-SUFFIX,aljazeera.net,PROXY
 DOMAIN-SUFFIX,alkasir.com,PROXY
 DOMAIN-SUFFIX,all4mom.org,PROXY
 DOMAIN-SUFFIX,allcoin.com,PROXY
@@ -1293,7 +1294,6 @@ DOMAIN-SUFFIX,deja.com,PROXY
 DOMAIN-SUFFIX,delcamp.net,PROXY
 DOMAIN-SUFFIX,demo.unlock-music.dev,PROXY
 DOMAIN-SUFFIX,demosisto.hk,PROXY
-DOMAIN-SUFFIX,deno.dev,PROXY
 DOMAIN-SUFFIX,depositphotos.com,PROXY
 DOMAIN-SUFFIX,desc.se,PROXY
 DOMAIN-SUFFIX,desipro.de,PROXY
@@ -1363,7 +1363,6 @@ DOMAIN-SUFFIX,doc.new,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
 DOMAIN-SUFFIX,dockerstatus.com,PROXY
-DOMAIN-SUFFIX,docs.deno.com,PROXY
 DOMAIN-SUFFIX,docs.new,PROXY
 DOMAIN-SUFFIX,doctorvoice.org,PROXY
 DOMAIN-SUFFIX,documentingreality.com,PROXY
@@ -1989,6 +1988,7 @@ DOMAIN-SUFFIX,gfsale.com,PROXY
 DOMAIN-SUFFIX,gfw.press,PROXY
 DOMAIN-SUFFIX,gfw.report,PROXY
 DOMAIN-SUFFIX,gfwatch.org,PROXY
+DOMAIN-SUFFIX,gfwbao.com,PROXY
 DOMAIN-SUFFIX,ggpht.com,PROXY
 DOMAIN-SUFFIX,ggssl.com,PROXY
 DOMAIN-SUFFIX,ghidra-sre.org,PROXY
@@ -2777,6 +2777,7 @@ DOMAIN-SUFFIX,ismalltits.com,PROXY
 DOMAIN-SUFFIX,ismprofessional.net,PROXY
 DOMAIN-SUFFIX,isohunt.com,PROXY
 DOMAIN-SUFFIX,israbox.com,PROXY
+DOMAIN-SUFFIX,issues.chromium.org,PROXY
 DOMAIN-SUFFIX,issuu.com,PROXY
 DOMAIN-SUFFIX,istars.co.nz,PROXY
 DOMAIN-SUFFIX,istockphoto.com,PROXY
@@ -4615,6 +4616,7 @@ DOMAIN-SUFFIX,staticflickr.com,PROXY
 DOMAIN-SUFFIX,stboy.net,PROXY
 DOMAIN-SUFFIX,stc.com.sa,PROXY
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
+DOMAIN-SUFFIX,steamladder.com,PROXY
 DOMAIN-SUFFIX,steamstatic.com,PROXY
 DOMAIN-SUFFIX,steel-storm.com,PROXY
 DOMAIN-SUFFIX,steemit.com,PROXY
