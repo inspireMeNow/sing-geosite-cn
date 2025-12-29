@@ -2154,6 +2154,7 @@ DOMAIN-SUFFIX,archives.gov,PROXY
 DOMAIN-SUFFIX,archivx.to,PROXY
 DOMAIN-SUFFIX,archlinux.org,PROXY
 DOMAIN-SUFFIX,archlinuxarm.org,PROXY
+DOMAIN-SUFFIX,archlinuxcn.org,PROXY
 DOMAIN-SUFFIX,arcraiders.com,PROXY
 DOMAIN-SUFFIX,arctosia.com,PROXY
 DOMAIN-SUFFIX,area120.com,PROXY
@@ -9932,6 +9933,7 @@ DOMAIN-SUFFIX,gobuyonlinestore.net,PROXY
 DOMAIN-SUFFIX,gockhuatviet.com,PROXY
 DOMAIN-SUFFIX,godaddy,PROXY
 DOMAIN-SUFFIX,godaddy.com,PROXY
+DOMAIN-SUFFIX,godbolt.org,PROXY
 DOMAIN-SUFFIX,godfootsteps.org,PROXY
 DOMAIN-SUFFIX,godoc.org,PROXY
 DOMAIN-SUFFIX,godsdirectcontact.co.uk,PROXY
