@@ -2711,6 +2711,7 @@ DOMAIN-SUFFIX,azureserviceprofiler.com,PROXY
 DOMAIN-SUFFIX,azuresmartspaces.net,PROXY
 DOMAIN-SUFFIX,azurestackvalidation.com,PROXY
 DOMAIN-SUFFIX,azurewebsites.net,PROXY
+DOMAIN-SUFFIX,b-cdn.net,PROXY
 DOMAIN-SUFFIX,b-eroland.net,PROXY
 DOMAIN-SUFFIX,b-ok.africa,PROXY
 DOMAIN-SUFFIX,b-ok.asia,PROXY
@@ -4514,6 +4515,8 @@ DOMAIN-SUFFIX,bumptop.org,PROXY
 DOMAIN-SUFFIX,bumptunes.com,PROXY
 DOMAIN-SUFFIX,bunbunhk.com,PROXY
 DOMAIN-SUFFIX,bunka.go.jp,PROXY
+DOMAIN-SUFFIX,bunny.net,PROXY
+DOMAIN-SUFFIX,bunnycdn.com,PROXY
 DOMAIN-SUFFIX,bunnylust.com,PROXY
 DOMAIN-SUFFIX,burningcamel.com,PROXY
 DOMAIN-SUFFIX,burstly.net,PROXY
@@ -10851,6 +10854,7 @@ DOMAIN-SUFFIX,herokucharge.com,PROXY
 DOMAIN-SUFFIX,herokussl.com,PROXY
 DOMAIN-SUFFIX,herominers.com,PROXY
 DOMAIN-SUFFIX,herringnetwork.com,PROXY
+DOMAIN-SUFFIX,hetzner-cloud.de,PROXY
 DOMAIN-SUFFIX,hetzner.cloud,PROXY
 DOMAIN-SUFFIX,hetzner.com,PROXY
 DOMAIN-SUFFIX,hetzner.company,PROXY
