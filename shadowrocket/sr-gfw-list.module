@@ -1025,6 +1025,7 @@ DOMAIN-SUFFIX,chrome.com,PROXY
 DOMAIN-SUFFIX,chromecast.com,PROXY
 DOMAIN-SUFFIX,chromeexperiments.com,PROXY
 DOMAIN-SUFFIX,chromestatus.com,PROXY
+DOMAIN-SUFFIX,chromium.org,PROXY
 DOMAIN-SUFFIX,chuang-yen.org,PROXY
 DOMAIN-SUFFIX,chubold.com,PROXY
 DOMAIN-SUFFIX,chubun.com,PROXY
@@ -2779,7 +2780,6 @@ DOMAIN-SUFFIX,ismalltits.com,PROXY
 DOMAIN-SUFFIX,ismprofessional.net,PROXY
 DOMAIN-SUFFIX,isohunt.com,PROXY
 DOMAIN-SUFFIX,israbox.com,PROXY
-DOMAIN-SUFFIX,issues.chromium.org,PROXY
 DOMAIN-SUFFIX,issuu.com,PROXY
 DOMAIN-SUFFIX,istars.co.nz,PROXY
 DOMAIN-SUFFIX,istockphoto.com,PROXY
