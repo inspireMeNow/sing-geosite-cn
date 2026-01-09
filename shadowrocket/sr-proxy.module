@@ -2439,6 +2439,7 @@ DOMAIN-SUFFIX,auth0.com,PROXY
 DOMAIN-SUFFIX,authorizeddns.net,PROXY
 DOMAIN-SUFFIX,authorizeddns.org,PROXY
 DOMAIN-SUFFIX,authorxml.com,PROXY
+DOMAIN-SUFFIX,authpass.app,PROXY
 DOMAIN-SUFFIX,authy.com,PROXY
 DOMAIN-SUFFIX,autocad-schulungen.com,PROXY
 DOMAIN-SUFFIX,autocad.com,PROXY
@@ -3577,6 +3578,7 @@ DOMAIN-SUFFIX,bingparachute.com,PROXY
 DOMAIN-SUFFIX,bingsandbox.com,PROXY
 DOMAIN-SUFFIX,bingvisualsearch.com,PROXY
 DOMAIN-SUFFIX,bingworld.com,PROXY
+DOMAIN-SUFFIX,bingx.com,PROXY
 DOMAIN-SUFFIX,binoculus.com,PROXY
 DOMAIN-SUFFIX,bintray.com,PROXY
 DOMAIN-SUFFIX,binux.me,PROXY
@@ -9746,6 +9748,7 @@ DOMAIN-SUFFIX,genshin-porn.com,PROXY
 DOMAIN-SUFFIX,genshinh.com,PROXY
 DOMAIN-SUFFIX,genshinimpact.com,PROXY
 DOMAIN-SUFFIX,gentoo.org,PROXY
+DOMAIN-SUFFIX,geobasket.ru,PROXY
 DOMAIN-SUFFIX,geocities.co.jp,PROXY
 DOMAIN-SUFFIX,geocities.com,PROXY
 DOMAIN-SUFFIX,geocities.jp,PROXY
@@ -13921,6 +13924,7 @@ DOMAIN-SUFFIX,letsencrypt.com,PROXY
 DOMAIN-SUFFIX,letsencrypt.org,PROXY
 DOMAIN-SUFFIX,letsfuckme.net,PROXY
 DOMAIN-SUFFIX,letsjerk.cc,PROXY
+DOMAIN-SUFFIX,letsmoveforabetterworld.com,PROXY
 DOMAIN-SUFFIX,lettherebeporn.com,PROXY
 DOMAIN-SUFFIX,levelsex.com,PROXY
 DOMAIN-SUFFIX,lewdthots.com,PROXY
@@ -16312,6 +16316,7 @@ DOMAIN-SUFFIX,netcup.de,PROXY
 DOMAIN-SUFFIX,netcup.eu,PROXY
 DOMAIN-SUFFIX,netcup.net,PROXY
 DOMAIN-SUFFIX,netfapx.com,PROXY
+DOMAIN-SUFFIX,netfilter.org,PROXY
 DOMAIN-SUFFIX,netflav.com,PROXY
 DOMAIN-SUFFIX,netflav1.com,PROXY
 DOMAIN-SUFFIX,netflav5.com,PROXY
@@ -16499,9 +16504,11 @@ DOMAIN-SUFFIX,nfsc.global,PROXY
 DOMAIN-SUFFIX,nfscdict.com,PROXY
 DOMAIN-SUFFIX,nfscofficial.com,PROXY
 DOMAIN-SUFFIX,nfsworld.com,PROXY
+DOMAIN-SUFFIX,nftables.org,PROXY
 DOMAIN-SUFFIX,nftstatic.com,PROXY
 DOMAIN-SUFFIX,nftstorage.link,PROXY
 DOMAIN-SUFFIX,nga.mil,PROXY
+DOMAIN-SUFFIX,ngenix.net,PROXY
 DOMAIN-SUFFIX,ngensis.com,PROXY
 DOMAIN-SUFFIX,ngeo.com,PROXY
 DOMAIN-SUFFIX,nginx.com,PROXY
@@ -17803,6 +17810,7 @@ DOMAIN-SUFFIX,payppal.com,PROXY
 DOMAIN-SUFFIX,payroll.com,PROXY
 DOMAIN-SUFFIX,payserve.com,PROXY
 DOMAIN-SUFFIX,paysitesreviews.net,PROXY
+DOMAIN-SUFFIX,paywb.com,PROXY
 DOMAIN-SUFFIX,payypal.com,PROXY
 DOMAIN-SUFFIX,pbabes.com,PROXY
 DOMAIN-SUFFIX,pbjar1205.pro,PROXY
@@ -19413,6 +19421,7 @@ DOMAIN-SUFFIX,resonabank.co.jp,PROXY
 DOMAIN-SUFFIX,resoubanana.buzz,PROXY
 DOMAIN-SUFFIX,resoubang.buzz,PROXY
 DOMAIN-SUFFIX,respawnbyrazer.com,PROXY
+DOMAIN-SUFFIX,restream-media.net,PROXY
 DOMAIN-SUFFIX,rethink.net,PROXY
 DOMAIN-SUFFIX,retimer.com,PROXY
 DOMAIN-SUFFIX,retroclassicporn.com,PROXY
@@ -19639,6 +19648,7 @@ DOMAIN-SUFFIX,rutrk.org,PROXY
 DOMAIN-SUFFIX,rutube.ru,PROXY
 DOMAIN-SUFFIX,rutubelist.ru,PROXY
 DOMAIN-SUFFIX,ruvideos.net,PROXY
+DOMAIN-SUFFIX,rwb.ru,PROXY
 DOMAIN-SUFFIX,rxhj.net,PROXY
 DOMAIN-SUFFIX,ryokoyomiuri.co.jp,PROXY
 DOMAIN-SUFFIX,ryukyubank.co.jp,PROXY
@@ -21577,6 +21587,7 @@ DOMAIN-SUFFIX,talkcc.com,PROXY
 DOMAIN-SUFFIX,talkonly.net,PROXY
 DOMAIN-SUFFIX,talksport.com,PROXY
 DOMAIN-SUFFIX,tamilsexvideos.cc,PROXY
+DOMAIN-SUFFIX,tamtam.chat,PROXY
 DOMAIN-SUFFIX,tanc.org,PROXY
 DOMAIN-SUFFIX,tandberg-china.com,PROXY
 DOMAIN-SUFFIX,tandberg.com,PROXY
@@ -21655,6 +21666,12 @@ DOMAIN-SUFFIX,techhub.ms,PROXY
 DOMAIN-SUFFIX,techliquidators.com,PROXY
 DOMAIN-SUFFIX,technews.tw,PROXY
 DOMAIN-SUFFIX,technics.com,PROXY
+DOMAIN-SUFFIX,technogym.bg,PROXY
+DOMAIN-SUFFIX,technogym.ch,PROXY
+DOMAIN-SUFFIX,technogym.com,PROXY
+DOMAIN-SUFFIX,technogym.com.br,PROXY
+DOMAIN-SUFFIX,technogym.ru,PROXY
+DOMAIN-SUFFIX,technogym.su,PROXY
 DOMAIN-SUFFIX,technologyandsociety.org,PROXY
 DOMAIN-SUFFIX,techradar.com,PROXY
 DOMAIN-SUFFIX,techspot.com,PROXY
@@ -24079,12 +24096,16 @@ DOMAIN-SUFFIX,waveprotocol.org,PROXY
 DOMAIN-SUFFIX,waybig.com,PROXY
 DOMAIN-SUFFIX,waymo.com,PROXY
 DOMAIN-SUFFIX,waze.com,PROXY
+DOMAIN-SUFFIX,wb-basket.ru,PROXY
+DOMAIN-SUFFIX,wb.ru,PROXY
 DOMAIN-SUFFIX,wbagora.com,PROXY
 DOMAIN-SUFFIX,wballiance.com,PROXY
+DOMAIN-SUFFIX,wbbasket.ru,PROXY
 DOMAIN-SUFFIX,wbd.ms,PROXY
 DOMAIN-SUFFIX,wbdnbo.net,PROXY
 DOMAIN-SUFFIX,wbgames.com,PROXY
 DOMAIN-SUFFIX,wbinsights.com,PROXY
+DOMAIN-SUFFIX,wbpay.ru,PROXY
 DOMAIN-SUFFIX,wbrks.com,PROXY
 DOMAIN-SUFFIX,wbvm4s.com,PROXY
 DOMAIN-SUFFIX,wd.bible,PROXY
@@ -24184,6 +24205,7 @@ DOMAIN-SUFFIX,welcometobestbuy.ca,PROXY
 DOMAIN-SUFFIX,welcomix.com,PROXY
 DOMAIN-SUFFIX,wellfuckedwife.com,PROXY
 DOMAIN-SUFFIX,wellmaturetube.com,PROXY
+DOMAIN-SUFFIX,wellnessinstitute.com,PROXY
 DOMAIN-SUFFIX,welovecock.com,PROXY
 DOMAIN-SUFFIX,welt.de,PROXY
 DOMAIN-SUFFIX,weltweitwachsen.de,PROXY
@@ -24282,6 +24304,7 @@ DOMAIN-SUFFIX,whylover.com,PROXY
 DOMAIN-SUFFIX,whynotbi.com,PROXY
 DOMAIN-SUFFIX,whyx.org,PROXY
 DOMAIN-SUFFIX,wi-fi.org,PROXY
+DOMAIN-SUFFIX,wibes.ru,PROXY
 DOMAIN-SUFFIX,widevine.com,PROXY
 DOMAIN-SUFFIX,wife-home-videos.com,PROXY
 DOMAIN-SUFFIX,wifehomeporn.com,PROXY
@@ -24343,6 +24366,7 @@ DOMAIN-SUFFIX,wikiversity.org,PROXY
 DOMAIN-SUFFIX,wikivoyage.org,PROXY
 DOMAIN-SUFFIX,wikiwand.com,PROXY
 DOMAIN-SUFFIX,wiktionary.org,PROXY
+DOMAIN-SUFFIX,wildberries.ru,PROXY
 DOMAIN-SUFFIX,wildcamporn.com,PROXY
 DOMAIN-SUFFIX,wildfanny.com,PROXY
 DOMAIN-SUFFIX,wildfreevideos.com,PROXY
@@ -24373,6 +24397,7 @@ DOMAIN-SUFFIX,wingamestore.com,PROXY
 DOMAIN-SUFFIX,wingy.site,PROXY
 DOMAIN-SUFFIX,winhec.com,PROXY
 DOMAIN-SUFFIX,winhec.net,PROXY
+DOMAIN-SUFFIX,wink.ru,PROXY
 DOMAIN-SUFFIX,winning11.com,PROXY
 DOMAIN-SUFFIX,wintermute.com,PROXY
 DOMAIN-SUFFIX,winticket.jp,PROXY
