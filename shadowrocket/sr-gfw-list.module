@@ -147,7 +147,6 @@ DOMAIN-SUFFIX,abematv.akamaized.net,PROXY
 DOMAIN-SUFFIX,abitno.linpie.com,PROXY
 DOMAIN-SUFFIX,ablwang.com,PROXY
 DOMAIN-SUFFIX,aboluowang.com,PROXY
-DOMAIN-SUFFIX,about.gitlab.com,PROXY
 DOMAIN-SUFFIX,about.me,PROXY
 DOMAIN-SUFFIX,abplive.com,PROXY
 DOMAIN-SUFFIX,abs.edu,PROXY
@@ -2010,6 +2009,7 @@ DOMAIN-SUFFIX,github.io,PROXY
 DOMAIN-SUFFIX,githubassets.com,PROXY
 DOMAIN-SUFFIX,githubcopilot.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,gitlab.com,PROXY
 DOMAIN-SUFFIX,gitlab.net,PROXY
 DOMAIN-SUFFIX,gizlen.net,PROXY
 DOMAIN-SUFFIX,gjczz.com,PROXY
