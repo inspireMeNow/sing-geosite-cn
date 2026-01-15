@@ -20462,6 +20462,8 @@ DOMAIN-SUFFIX,signalr.net,PROXY
 DOMAIN-SUFFIX,signalusers.org,PROXY
 DOMAIN-SUFFIX,sigops.org,PROXY
 DOMAIN-SUFFIX,sigopt.com,PROXY
+DOMAIN-SUFFIX,sih-db.com,PROXY
+DOMAIN-SUFFIX,sih.app,PROXY
 DOMAIN-SUFFIX,sijihuisuo.club,PROXY
 DOMAIN-SUFFIX,sijihuisuo.com,PROXY
 DOMAIN-SUFFIX,sikiswap.com,PROXY
@@ -21218,6 +21220,7 @@ DOMAIN-SUFFIX,steamcontent.com,PROXY
 DOMAIN-SUFFIX,steamdb.info,PROXY
 DOMAIN-SUFFIX,steamdeck.com,PROXY
 DOMAIN-SUFFIX,steamgames.com,PROXY
+DOMAIN-SUFFIX,steaminventoryhelper.com,PROXY
 DOMAIN-SUFFIX,steamladder.com,PROXY
 DOMAIN-SUFFIX,steamofporn.com,PROXY
 DOMAIN-SUFFIX,steampowered.com,PROXY
