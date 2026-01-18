@@ -1698,7 +1698,10 @@ DOMAIN-SUFFIX,anistreaming.xyz,PROXY
 DOMAIN-SUFFIX,ankarazirvesi2018.com,PROXY
 DOMAIN-SUFFIX,anm.co.uk,PROXY
 DOMAIN-SUFFIX,annamilk.com,PROXY
+DOMAIN-SUFFIX,annas-archive.in,PROXY
+DOMAIN-SUFFIX,annas-archive.li,PROXY
 DOMAIN-SUFFIX,annas-archive.org,PROXY
+DOMAIN-SUFFIX,annas-archive.pm,PROXY
 DOMAIN-SUFFIX,annas-archive.se,PROXY
 DOMAIN-SUFFIX,annatam.com,PROXY
 DOMAIN-SUFFIX,annstores.net,PROXY
@@ -13731,6 +13734,7 @@ DOMAIN-SUFFIX,kpinsurances.com,PROXY
 DOMAIN-SUFFIX,kpkuang.org,PROXY
 DOMAIN-SUFFIX,kpptoto.info,PROXY
 DOMAIN-SUFFIX,kqes.net,PROXY
+DOMAIN-SUFFIX,kraftonde.com,PROXY
 DOMAIN-SUFFIX,kraken.com,PROXY
 DOMAIN-SUFFIX,kraken.onl,PROXY
 DOMAIN-SUFFIX,krakenjs.com,PROXY
@@ -18194,6 +18198,7 @@ DOMAIN-SUFFIX,play4free.com,PROXY
 DOMAIN-SUFFIX,playapex.com,PROXY
 DOMAIN-SUFFIX,playartifact.com,PROXY
 DOMAIN-SUFFIX,playbar.biz,PROXY
+DOMAIN-SUFFIX,playbattlegrounds.com,PROXY
 DOMAIN-SUFFIX,playboy.com,PROXY
 DOMAIN-SUFFIX,playboy.com.uk,PROXY
 DOMAIN-SUFFIX,playboyplus.com,PROXY
@@ -18902,6 +18907,7 @@ DOMAIN-SUFFIX,ptwxz.com,PROXY
 DOMAIN-SUFFIX,ptzwx.com,PROXY
 DOMAIN-SUFFIX,pu82.vip,PROXY
 DOMAIN-SUFFIX,pub.dev,PROXY
+DOMAIN-SUFFIX,pubg.com,PROXY
 DOMAIN-SUFFIX,public-sex-porn.com,PROXY
 DOMAIN-SUFFIX,public-trust.com,PROXY
 DOMAIN-SUFFIX,publicagentxxx.com,PROXY
@@ -26352,6 +26358,7 @@ DOMAIN,prodforza.blob.core.windows.net,PROXY
 DOMAIN,production-openaicom-storage.azureedge.net,PROXY
 DOMAIN,psg-int-centralus.cloudapp.net,PROXY
 DOMAIN,psg-int-eastus.cloudapp.net,PROXY
+DOMAIN,pubg1.battleye.com,PROXY
 DOMAIN,public-us-pingsx.api.clonoth.com,PROXY
 DOMAIN,publicca.googleapis.com,PROXY
 DOMAIN,push-apple.com.akadns.net,PROXY
