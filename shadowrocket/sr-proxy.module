@@ -2186,6 +2186,8 @@ DOMAIN-SUFFIX,argotunnel.com,PROXY
 DOMAIN-SUFFIX,aria.ms,PROXY
 DOMAIN-SUFFIX,ark.to,PROXY
 DOMAIN-SUFFIX,arlingtoncemetery.mil,PROXY
+DOMAIN-SUFFIX,arma3.com,PROXY
+DOMAIN-SUFFIX,armaplatform.com,PROXY
 DOMAIN-SUFFIX,armovs.com,PROXY
 DOMAIN-SUFFIX,arnoldrenderer.com,PROXY
 DOMAIN-SUFFIX,arphic.com,PROXY
@@ -2861,6 +2863,7 @@ DOMAIN-SUFFIX,battleforcecomix.com,PROXY
 DOMAIN-SUFFIX,battlefront2.com,PROXY
 DOMAIN-SUFFIX,battlefrontii.com,PROXY
 DOMAIN-SUFFIX,battlelog.com,PROXY
+DOMAIN-SUFFIX,battleye.com,PROXY
 DOMAIN-SUFFIX,baxsound.com,PROXY
 DOMAIN-SUFFIX,bayareabmw.com,PROXY
 DOMAIN-SUFFIX,bayvoice.net,PROXY
@@ -3539,6 +3542,7 @@ DOMAIN-SUFFIX,biqle.ru,PROXY
 DOMAIN-SUFFIX,bird.so,PROXY
 DOMAIN-SUFFIX,bisq.io,PROXY
 DOMAIN-SUFFIX,bisq.network,PROXY
+DOMAIN-SUFFIX,bistudio.com,PROXY
 DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp,PROXY
 DOMAIN-SUFFIX,bit-z.com,PROXY
 DOMAIN-SUFFIX,bit.do,PROXY
@@ -4221,6 +4225,7 @@ DOMAIN-SUFFIX,bodgirls.com,PROXY
 DOMAIN-SUFFIX,bodog88.com,PROXY
 DOMAIN-SUFFIX,bodyandsoul.com.au,PROXY
 DOMAIN-SUFFIX,bodyfluids-jav.com,PROXY
+DOMAIN-SUFFIX,bohemia.net,PROXY
 DOMAIN-SUFFIX,boj.or.jp,PROXY
 DOMAIN-SUFFIX,bokep.net,PROXY
 DOMAIN-SUFFIX,bokepseks.org,PROXY
@@ -5898,6 +5903,7 @@ DOMAIN-SUFFIX,cricketcountry.com,PROXY
 DOMAIN-SUFFIX,cristyli.com,PROXY
 DOMAIN-SUFFIX,crit-staging.com,PROXY
 DOMAIN-SUFFIX,critiquebrainz.org,PROXY
+DOMAIN-SUFFIX,crixet.com,PROXY
 DOMAIN-SUFFIX,crmdynint-gcc.com,PROXY
 DOMAIN-SUFFIX,crmdynint.com,PROXY
 DOMAIN-SUFFIX,crocotube.com,PROXY
@@ -6181,6 +6187,7 @@ DOMAIN-SUFFIX,daylenerio.com,PROXY
 DOMAIN-SUFFIX,daylife.com,PROXY
 DOMAIN-SUFFIX,daytonbmw.com,PROXY
 DOMAIN-SUFFIX,daytontrucktires.com,PROXY
+DOMAIN-SUFFIX,dayz.com,PROXY
 DOMAIN-SUFFIX,dazn-api.com,PROXY
 DOMAIN-SUFFIX,dazn.com,PROXY
 DOMAIN-SUFFIX,dazndn.com,PROXY
@@ -14299,6 +14306,7 @@ DOMAIN-SUFFIX,mairbeats.com,PROXY
 DOMAIN-SUFFIX,maizhong.org,PROXY
 DOMAIN-SUFFIX,makaan.com,PROXY
 DOMAIN-SUFFIX,makeanything.com,PROXY
+DOMAIN-SUFFIX,makearmanotwar.com,PROXY
 DOMAIN-SUFFIX,makebettercode.com,PROXY
 DOMAIN-SUFFIX,makecode.org,PROXY
 DOMAIN-SUFFIX,makeeu.com,PROXY
@@ -20259,6 +20267,7 @@ DOMAIN-SUFFIX,sih.app,PROXY
 DOMAIN-SUFFIX,sijihuisuo.club,PROXY
 DOMAIN-SUFFIX,sijihuisuo.com,PROXY
 DOMAIN-SUFFIX,sikiswap.com,PROXY
+DOMAIN-SUFFIX,silicagame.com,PROXY
 DOMAIN-SUFFIX,silicon-mobility.com,PROXY
 DOMAIN-SUFFIX,siliconmobility.com,PROXY
 DOMAIN-SUFFIX,silkbook.com,PROXY
@@ -23198,6 +23207,7 @@ DOMAIN-SUFFIX,vietdaikynguyen.com,PROXY
 DOMAIN-SUFFIX,viewerswives.net,PROXY
 DOMAIN-SUFFIX,viewgals.com,PROXY
 DOMAIN-SUFFIX,viewpointsfromfacebook.com,PROXY
+DOMAIN-SUFFIX,vigorgame.com,PROXY
 DOMAIN-SUFFIX,vijayatemple.org,PROXY
 DOMAIN-SUFFIX,vikiporn.com,PROXY
 DOMAIN-SUFFIX,vilanet.me,PROXY
@@ -25287,6 +25297,7 @@ DOMAIN-SUFFIX,yipub.com,PROXY
 DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org,PROXY
 DOMAIN-SUFFIX,yizhihongxing.com,PROXY
 DOMAIN-SUFFIX,yjcontentdelivery.com,PROXY
+DOMAIN-SUFFIX,ylands.com,PROXY
 DOMAIN-SUFFIX,ymail.com,PROXY
 DOMAIN-SUFFIX,ymhsf.top,PROXY
 DOMAIN-SUFFIX,ymhsf1.top,PROXY
@@ -26109,6 +26120,7 @@ DOMAIN,oneocsp.microsoft.com,PROXY
 DOMAIN,ood.opsource.net,PROXY
 DOMAIN,openaiapi-site.azureedge.net,PROXY
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
+DOMAIN,openaicom.imgix.net,PROXY
 DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
 DOMAIN,opgg-static.akamaized.net,PROXY
 DOMAIN,origin-a.akamaihd.net,PROXY
