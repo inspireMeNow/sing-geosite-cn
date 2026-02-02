@@ -4476,6 +4476,7 @@ DOMAIN-SUFFIX,brutalfetish.com,PROXY
 DOMAIN-SUFFIX,brutaltgp.com,PROXY
 DOMAIN-SUFFIX,bs-adreview.com,PROXY
 DOMAIN-SUFFIX,bs-awh.ne.jp,PROXY
+DOMAIN-SUFFIX,bsappapi.com,PROXY
 DOMAIN-SUFFIX,bsi.ir,PROXY
 DOMAIN-SUFFIX,bsky.app,PROXY
 DOMAIN-SUFFIX,bsky.network,PROXY
@@ -17984,6 +17985,7 @@ DOMAIN-SUFFIX,pixtronix.com,PROXY
 DOMAIN-SUFFIX,pjbyj.top,PROXY
 DOMAIN-SUFFIX,pjful-app.lol,PROXY
 DOMAIN-SUFFIX,pjgirls.com,PROXY
+DOMAIN-SUFFIX,pjsekai.sega.jp,PROXY
 DOMAIN-SUFFIX,pk.com,PROXY
 DOMAIN-SUFFIX,pki-post.ch,PROXY
 DOMAIN-SUFFIX,pki-posta.ch,PROXY
@@ -21388,6 +21390,7 @@ DOMAIN-SUFFIX,tahr.org.tw,PROXY
 DOMAIN-SUFFIX,taiav.com,PROXY
 DOMAIN-SUFFIX,tail-f.com,PROXY
 DOMAIN-SUFFIX,tailf.com,PROXY
+DOMAIN-SUFFIX,tails.net,PROXY
 DOMAIN-SUFFIX,tailscale.com,PROXY
 DOMAIN-SUFFIX,tailscale.io,PROXY
 DOMAIN-SUFFIX,tailwindtraders.com,PROXY
@@ -26137,6 +26140,7 @@ DOMAIN,origin-a.akamaihd.net,PROXY
 DOMAIN,osu.ppy.sh,PROXY
 DOMAIN,p-events-delivery.akamaized.net,PROXY
 DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
+DOMAIN,packages.microsoft.com,PROXY
 DOMAIN,paper-attachments.s3.amazonaws.com,PROXY
 DOMAIN,pchomeonline.com.tw,PROXY
 DOMAIN,pki.google.com,PROXY
