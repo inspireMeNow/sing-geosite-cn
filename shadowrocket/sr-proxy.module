@@ -3582,6 +3582,7 @@ DOMAIN-SUFFIX,bitsquare.io,PROXY
 DOMAIN-SUFFIX,bitstamp.net,PROXY
 DOMAIN-SUFFIX,bitstream.com,PROXY
 DOMAIN-SUFFIX,bitterwinter.org,PROXY
+DOMAIN-SUFFIX,bittorrent.com,PROXY
 DOMAIN-SUFFIX,bittrex.com,PROXY
 DOMAIN-SUFFIX,bitvise.com,PROXY
 DOMAIN-SUFFIX,bitwarden.com,PROXY
@@ -10738,6 +10739,7 @@ DOMAIN-SUFFIX,hellven.net,PROXY
 DOMAIN-SUFFIX,helpeachpeople.com,PROXY
 DOMAIN-SUFFIX,helpster.de,PROXY
 DOMAIN-SUFFIX,helpzhuling.org,PROXY
+DOMAIN-SUFFIX,hembed.com,PROXY
 DOMAIN-SUFFIX,hentai-ani.me,PROXY
 DOMAIN-SUFFIX,hentai-archive.com,PROXY
 DOMAIN-SUFFIX,hentai-books.com,PROXY
@@ -14386,6 +14388,8 @@ DOMAIN-SUFFIX,manta.com,PROXY
 DOMAIN-SUFFIX,mantan-web.jp,PROXY
 DOMAIN-SUFFIX,mantochichi.com,PROXY
 DOMAIN-SUFFIX,manurefetish.com,PROXY
+DOMAIN-SUFFIX,manus.im,PROXY
+DOMAIN-SUFFIX,manuscdn.com,PROXY
 DOMAIN-SUFFIX,manytoon.com,PROXY
 DOMAIN-SUFFIX,manyvids.com,PROXY
 DOMAIN-SUFFIX,manyvoices.news,PROXY
@@ -20382,6 +20386,7 @@ DOMAIN-SUFFIX,sketchbookmobile.com,PROXY
 DOMAIN-SUFFIX,sketchbooknews.com,PROXY
 DOMAIN-SUFFIX,sketchbookpro.com,PROXY
 DOMAIN-SUFFIX,sketchfab.com,PROXY
+DOMAIN-SUFFIX,skills.sh,PROXY
 DOMAIN-SUFFIX,skillshare.com,PROXY
 DOMAIN-SUFFIX,skimtube.com,PROXY
 DOMAIN-SUFFIX,skinstrip.net,PROXY
@@ -22887,6 +22892,7 @@ DOMAIN-SUFFIX,v-av.com,PROXY
 DOMAIN-SUFFIX,v-has.com,PROXY
 DOMAIN-SUFFIX,v.gd,PROXY
 DOMAIN-SUFFIX,v2.help,PROXY
+DOMAIN-SUFFIX,v2.hysteria.network,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY
 DOMAIN-SUFFIX,v2fly.org,PROXY
 DOMAIN-SUFFIX,v2ph.com,PROXY

@@ -581,6 +581,7 @@ DOMAIN-SUFFIX,bitmex.com,PROXY
 DOMAIN-SUFFIX,bitshare.com,PROXY
 DOMAIN-SUFFIX,bitsnoop.com,PROXY
 DOMAIN-SUFFIX,bitterwinter.org,PROXY
+DOMAIN-SUFFIX,bittorrent.com,PROXY
 DOMAIN-SUFFIX,bitvise.com,PROXY
 DOMAIN-SUFFIX,bitz.ai,PROXY
 DOMAIN-SUFFIX,bizhat.com,PROXY
@@ -2415,6 +2416,7 @@ DOMAIN-SUFFIX,help.byspotify.com,PROXY
 DOMAIN-SUFFIX,helpeachpeople.com,PROXY
 DOMAIN-SUFFIX,helpster.de,PROXY
 DOMAIN-SUFFIX,helpzhuling.org,PROXY
+DOMAIN-SUFFIX,hembed.com,PROXY
 DOMAIN-SUFFIX,hentai.to,PROXY
 DOMAIN-SUFFIX,hentaitube.tv,PROXY
 DOMAIN-SUFFIX,hentaivideoworld.com,PROXY
@@ -5359,6 +5361,7 @@ DOMAIN-SUFFIX,uygur.fc2web.com,PROXY
 DOMAIN-SUFFIX,uygur.org,PROXY
 DOMAIN-SUFFIX,uymaarip.com,PROXY
 DOMAIN-SUFFIX,v2.help,PROXY
+DOMAIN-SUFFIX,v2.hysteria.network,PROXY
 DOMAIN-SUFFIX,v2ex.com,PROXY
 DOMAIN-SUFFIX,v2fly.org,PROXY
 DOMAIN-SUFFIX,v2ray.com,PROXY
