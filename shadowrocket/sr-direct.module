@@ -116940,6 +116940,7 @@ DOMAIN,alibaba.cdn.steampipe.steamcontent.com,DIRECT
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net,DIRECT
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net,DIRECT
 DOMAIN,amp-api-edge.apps.apple.com,DIRECT
+DOMAIN,amp-api-edge.music.apple.com,DIRECT
 DOMAIN,amp-api-search-edge.apps.apple.com,DIRECT
 DOMAIN,amp-api-updates.apps.apple.com,DIRECT
 DOMAIN,amp-api.apps.apple.com,DIRECT
@@ -117254,6 +117255,8 @@ DOMAIN,ml.cdn-apple.com,DIRECT
 DOMAIN,monitoring.qpdp1.net,DIRECT
 DOMAIN,moocs.unipus.cn,DIRECT
 DOMAIN,music.apple.com,DIRECT
+DOMAIN,musicstatus.music.apple.com,DIRECT
+DOMAIN,mvod.itunes.apple.com,DIRECT
 DOMAIN,myapp.itunes.apple.com,DIRECT
 DOMAIN,myvs.download.prss.microsoft.com,DIRECT
 DOMAIN,nexus.dell.com,DIRECT
@@ -117410,6 +117413,7 @@ DOMAIN,snp.cdn.dell.com,DIRECT
 DOMAIN,snpi.dell.com,DIRECT
 DOMAIN,software.download.prss.microsoft.com,DIRECT
 DOMAIN,sp.itunes.apple.com,DIRECT
+DOMAIN,speedysub.music.apple.com,DIRECT
 DOMAIN,ss.bjmu.edu.cn,DIRECT
 DOMAIN,ssl-google-analytics.l.google.com,DIRECT
 DOMAIN,ssl.gstatic.com,DIRECT
