@@ -255,12 +255,14 @@ DOMAIN-SUFFIX,archiveofourown.org,PROXY
 DOMAIN-SUFFIX,archives.gov,PROXY
 DOMAIN-SUFFIX,arctosia.com,PROXY
 DOMAIN-SUFFIX,areca-backup.org,PROXY
+DOMAIN-SUFFIX,arena.ai,PROXY
 DOMAIN-SUFFIX,arena.taipei,PROXY
 DOMAIN-SUFFIX,arethusa.su,PROXY
 DOMAIN-SUFFIX,arlingtoncemetery.mil,PROXY
 DOMAIN-SUFFIX,arte.tv,PROXY
 DOMAIN-SUFFIX,artstation.com,PROXY
 DOMAIN-SUFFIX,arvanstorage.ir,PROXY
+DOMAIN-SUFFIX,arweave.org,PROXY
 DOMAIN-SUFFIX,asacp.org,PROXY
 DOMAIN-SUFFIX,asiaharvest.org,PROXY
 DOMAIN-SUFFIX,asianage.com,PROXY
@@ -3933,6 +3935,7 @@ DOMAIN-SUFFIX,wiredbytes.com,PROXY
 DOMAIN-SUFFIX,wiredpen.com,PROXY
 DOMAIN-SUFFIX,wireguard.com,PROXY
 DOMAIN-SUFFIX,wisevid.com,PROXY
+DOMAIN-SUFFIX,wispbyte.com,PROXY
 DOMAIN-SUFFIX,withgoogle.com,PROXY
 DOMAIN-SUFFIX,withyoutube.com,PROXY
 DOMAIN-SUFFIX,witopia.net,PROXY

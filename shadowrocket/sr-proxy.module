@@ -2196,6 +2196,7 @@ DOMAIN-SUFFIX,arctosia.com,PROXY
 DOMAIN-SUFFIX,area120.com,PROXY
 DOMAIN-SUFFIX,area51.to,PROXY
 DOMAIN-SUFFIX,areca-backup.org,PROXY
+DOMAIN-SUFFIX,arena.ai,PROXY
 DOMAIN-SUFFIX,arena.taipei,PROXY
 DOMAIN-SUFFIX,arethusa.su,PROXY
 DOMAIN-SUFFIX,arewereadyyet.com,PROXY
@@ -2227,6 +2228,7 @@ DOMAIN-SUFFIX,artstationmedia.com,PROXY
 DOMAIN-SUFFIX,artstor.org,PROXY
 DOMAIN-SUFFIX,artstorm.com,PROXY
 DOMAIN-SUFFIX,arvanstorage.ir,PROXY
+DOMAIN-SUFFIX,arweave.org,PROXY
 DOMAIN-SUFFIX,arxiv.org,PROXY
 DOMAIN-SUFFIX,arzon.jp,PROXY
 DOMAIN-SUFFIX,as-hp.ca,PROXY
@@ -6358,6 +6360,7 @@ DOMAIN-SUFFIX,dhlestudio.com.co,PROXY
 DOMAIN-SUFFIX,diablo3.com,PROXY
 DOMAIN-SUFFIX,diabloimmortal.com,PROXY
 DOMAIN-SUFFIX,diabrowser.com,PROXY
+DOMAIN-SUFFIX,diabrowser.engineering,PROXY
 DOMAIN-SUFFIX,dialga.com,PROXY
 DOMAIN-SUFFIX,dialogflow.com,PROXY
 DOMAIN-SUFFIX,diamantewebcam.com,PROXY
@@ -6616,6 +6619,7 @@ DOMAIN-SUFFIX,dkrecttv.com,PROXY
 DOMAIN-SUFFIX,dl-iphone.com,PROXY
 DOMAIN-SUFFIX,dl-laby.jp,PROXY
 DOMAIN-SUFFIX,dl.box.net,PROXY
+DOMAIN-SUFFIX,dlaf.jp,PROXY
 DOMAIN-SUFFIX,dlap001.xyz,PROXY
 DOMAIN-SUFFIX,dlap301.com,PROXY
 DOMAIN-SUFFIX,dldlinks.com,PROXY
@@ -11462,9 +11466,8 @@ DOMAIN-SUFFIX,ilife.eu,PROXY
 DOMAIN-SUFFIX,ilife.gr,PROXY
 DOMAIN-SUFFIX,ilife.wang,PROXY
 DOMAIN-SUFFIX,illawarramercury.com.au,PROXY
+DOMAIN-SUFFIX,illgames.jp,PROXY
 DOMAIN-SUFFIX,illianacomputerrecycling.com,PROXY
-DOMAIN-SUFFIX,illusion.co.jp,PROXY
-DOMAIN-SUFFIX,illusion.jp,PROXY
 DOMAIN-SUFFIX,illusion111.com,PROXY
 DOMAIN-SUFFIX,illusionas.com,PROXY
 DOMAIN-SUFFIX,illusionchn.com,PROXY
@@ -12261,6 +12264,7 @@ DOMAIN-SUFFIX,jamyangnorbu.com,PROXY
 DOMAIN-SUFFIX,jan.ai,PROXY
 DOMAIN-SUFFIX,janor6.net,PROXY
 DOMAIN-SUFFIX,japan-forward.com,PROXY
+DOMAIN-SUFFIX,japan-illgames.com,PROXY
 DOMAIN-SUFFIX,japan-whores.com,PROXY
 DOMAIN-SUFFIX,japan18tube.com,PROXY
 DOMAIN-SUFFIX,japanbeast.com,PROXY
@@ -21194,6 +21198,7 @@ DOMAIN-SUFFIX,tsundora.com,PROXY
 DOMAIN-SUFFIX,tsuradou.noonvob.com,PROXY
 DOMAIN-SUFFIX,tsyum.com,PROXY
 DOMAIN-SUFFIX,tt1069.com,PROXY
+DOMAIN-SUFFIX,ttcdn-us.com,PROXY
 DOMAIN-SUFFIX,tteshop.com,PROXY
 DOMAIN-SUFFIX,ttlivecdn.com,PROXY
 DOMAIN-SUFFIX,ttoverseaus.net,PROXY
@@ -22964,6 +22969,7 @@ DOMAIN-SUFFIX,wisekey.com,PROXY
 DOMAIN-SUFFIX,wisekey.com.hk,PROXY
 DOMAIN-SUFFIX,wisevid.com,PROXY
 DOMAIN-SUFFIX,wish.com,PROXY
+DOMAIN-SUFFIX,wispbyte.com,PROXY
 DOMAIN-SUFFIX,wistia.com,PROXY
 DOMAIN-SUFFIX,wistia.net,PROXY
 DOMAIN-SUFFIX,withgoogle.com,PROXY
