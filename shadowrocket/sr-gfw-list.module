@@ -982,6 +982,7 @@ DOMAIN-SUFFIX,dmc.nico,PROXY
 DOMAIN-SUFFIX,dmcdn.net,PROXY
 DOMAIN-SUFFIX,dmhy.org,PROXY
 DOMAIN-SUFFIX,dmm.co.jp,PROXY
+DOMAIN-SUFFIX,dns.cloudflare.com,PROXY
 DOMAIN-SUFFIX,dns2go.com,PROXY
 DOMAIN-SUFFIX,dnscrypt.org,PROXY
 DOMAIN-SUFFIX,dnssec.net,PROXY
@@ -1569,6 +1570,7 @@ DOMAIN-SUFFIX,google.com.vn,PROXY
 DOMAIN-SUFFIX,google.cv,PROXY
 DOMAIN-SUFFIX,google.cz,PROXY
 DOMAIN-SUFFIX,google.de,PROXY
+DOMAIN-SUFFIX,google.dev,PROXY
 DOMAIN-SUFFIX,google.dj,PROXY
 DOMAIN-SUFFIX,google.dk,PROXY
 DOMAIN-SUFFIX,google.dm,PROXY
@@ -1984,6 +1986,7 @@ DOMAIN-SUFFIX,internetpopculture.com,PROXY
 DOMAIN-SUFFIX,interseclab.org,PROXY
 DOMAIN-SUFFIX,inthenameofconfuciusmovie.com,PROXY
 DOMAIN-SUFFIX,investigating.wordpress.com,PROXY
+DOMAIN-SUFFIX,investing.com,PROXY
 DOMAIN-SUFFIX,invidio.us,PROXY
 DOMAIN-SUFFIX,inxian.com,PROXY
 DOMAIN-SUFFIX,ipdefenseforum.com,PROXY
