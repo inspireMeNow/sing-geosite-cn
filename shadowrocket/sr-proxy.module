@@ -1801,6 +1801,7 @@ DOMAIN-SUFFIX,app-analytics-services.com,PROXY
 DOMAIN-SUFFIX,app-dynamics.com,PROXY
 DOMAIN-SUFFIX,app-measurement-cn.com,PROXY
 DOMAIN-SUFFIX,app-measurement.com,PROXY
+DOMAIN-SUFFIX,app-pay.jp,PROXY
 DOMAIN-SUFFIX,app-store.wang,PROXY
 DOMAIN-SUFFIX,app.box.com,PROXY
 DOMAIN-SUFFIX,app.smartmailcloud.com,PROXY
@@ -18633,6 +18634,7 @@ DOMAIN-SUFFIX,samsungdm.com,PROXY
 DOMAIN-SUFFIX,samsunggalaxyfriends.com,PROXY
 DOMAIN-SUFFIX,samsunghealth.com,PROXY
 DOMAIN-SUFFIX,samsungiotcloud.com,PROXY
+DOMAIN-SUFFIX,samsungiots.com,PROXY
 DOMAIN-SUFFIX,samsungknox.com,PROXY
 DOMAIN-SUFFIX,samsungosp.com,PROXY
 DOMAIN-SUFFIX,samsungqbe.com,PROXY
@@ -19478,6 +19480,7 @@ DOMAIN-SUFFIX,smartonerobotics.com,PROXY
 DOMAIN-SUFFIX,smartonesolutions.com.hk,PROXY
 DOMAIN-SUFFIX,smartonesolutions.hk,PROXY
 DOMAIN-SUFFIX,smartstream.ne.jp,PROXY
+DOMAIN-SUFFIX,smartthings.com,PROXY
 DOMAIN-SUFFIX,smashed.xxx,PROXY
 DOMAIN-SUFFIX,smbc.co.jp,PROXY
 DOMAIN-SUFFIX,smbctb.co.jp,PROXY
