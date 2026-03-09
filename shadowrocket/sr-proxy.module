@@ -7050,6 +7050,7 @@ DOMAIN-SUFFIX,dynamics.com,PROXY
 DOMAIN-SUFFIX,dynamobuilds.com,PROXY
 DOMAIN-SUFFIX,dynamopackages.com,PROXY
 DOMAIN-SUFFIX,dynamoreach.com,PROXY
+DOMAIN-SUFFIX,dynatrace.com,PROXY
 DOMAIN-SUFFIX,dynawebinc.com,PROXY
 DOMAIN-SUFFIX,dyncdn.me,PROXY
 DOMAIN-SUFFIX,dynu.com,PROXY
@@ -8098,6 +8099,7 @@ DOMAIN-SUFFIX,familymart.com.ph,PROXY
 DOMAIN-SUFFIX,familypies.net,PROXY
 DOMAIN-SUFFIX,familyporn.tv,PROXY
 DOMAIN-SUFFIX,familypornhd.com,PROXY
+DOMAIN-SUFFIX,familysearch.org,PROXY
 DOMAIN-SUFFIX,familysexsimulator.com,PROXY
 DOMAIN-SUFFIX,familysimulator.com,PROXY
 DOMAIN-SUFFIX,familysimulator.io,PROXY
@@ -19191,6 +19193,7 @@ DOMAIN-SUFFIX,shishijump001.com,PROXY
 DOMAIN-SUFFIX,shit-porn.net,PROXY
 DOMAIN-SUFFIX,shithd.com,PROXY
 DOMAIN-SUFFIX,shitjav.com,PROXY
+DOMAIN-SUFFIX,shitjournal.org,PROXY
 DOMAIN-SUFFIX,shittytube.com,PROXY
 DOMAIN-SUFFIX,shixiao.org,PROXY
 DOMAIN-SUFFIX,shizhao.org,PROXY
@@ -24596,7 +24599,6 @@ DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
 DOMAIN,cbsservice.aws.syncbak.com,PROXY
 DOMAIN,cdn-spotify-experiments.conductrics.com,PROXY
 DOMAIN,cdn.js7k.com,PROXY
-DOMAIN,cdn.jsdelivr.net,PROXY
 DOMAIN,cdngarenanow-a.akamaihd.net,PROXY
 DOMAIN,chinapower.csis.org,PROXY
 DOMAIN,cisco.evergage.com,PROXY
