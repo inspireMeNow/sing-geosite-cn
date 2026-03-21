@@ -751,6 +751,7 @@ DOMAIN-SUFFIX,chromeexperiments.com,PROXY
 DOMAIN-SUFFIX,chromestatus.com,PROXY
 DOMAIN-SUFFIX,chromium.org,PROXY
 DOMAIN-SUFFIX,ci-en.jp,PROXY
+DOMAIN-SUFFIX,cia.gov,PROXY
 DOMAIN-SUFFIX,cici.com,PROXY
 DOMAIN-SUFFIX,ciciai.com,PROXY
 DOMAIN-SUFFIX,cirosantilli.com,PROXY
