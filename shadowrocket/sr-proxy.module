@@ -7702,6 +7702,7 @@ DOMAIN-SUFFIX,esg.t91y.com,PROXY
 DOMAIN-SUFFIX,eskimotube.com,PROXY
 DOMAIN-SUFFIX,eslite.com,PROXY
 DOMAIN-SUFFIX,esm.run,PROXY
+DOMAIN-SUFFIX,esm.sh,PROXY
 DOMAIN-SUFFIX,esmarthealth.com,PROXY
 DOMAIN-SUFFIX,esmatube.com,PROXY
 DOMAIN-SUFFIX,esopworld.com,PROXY
@@ -17275,6 +17276,7 @@ DOMAIN-SUFFIX,pjbyj.top,PROXY
 DOMAIN-SUFFIX,pjful-app.lol,PROXY
 DOMAIN-SUFFIX,pjgirls.com,PROXY
 DOMAIN-SUFFIX,pjsekai.sega.jp,PROXY
+DOMAIN-SUFFIX,pkgbuild.com,PROXY
 DOMAIN-SUFFIX,pki-post.ch,PROXY
 DOMAIN-SUFFIX,pki-posta.ch,PROXY
 DOMAIN-SUFFIX,pki-poste.ch,PROXY
@@ -25298,6 +25300,7 @@ DOMAIN,wip2.adobe.com,PROXY
 DOMAIN,wip3.adobe.com,PROXY
 DOMAIN,wip4.adobe.com,PROXY
 DOMAIN,wrds-www.wharton.upenn.edu,PROXY
+DOMAIN,ws.audioscrobbler.com,PROXY
 DOMAIN,wwis-dubc1-vip100.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip101.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip102.adobe.com,PROXY
