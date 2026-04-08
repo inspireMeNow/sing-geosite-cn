@@ -5744,6 +5744,7 @@ DOMAIN-SUFFIX,crabporn.com,PROXY
 DOMAIN-SUFFIX,crackle.com,PROXY
 DOMAIN-SUFFIX,craigslist.org,PROXY
 DOMAIN-SUFFIX,crankplayer.com,PROXY
+DOMAIN-SUFFIX,crashlytics.com,PROXY
 DOMAIN-SUFFIX,crates.io,PROXY
 DOMAIN-SUFFIX,crazy-amateurs.com,PROXY
 DOMAIN-SUFFIX,crazyav.xyz,PROXY
@@ -8496,7 +8497,6 @@ DOMAIN-SUFFIX,finlitsummit.org,PROXY
 DOMAIN-SUFFIX,fiotolia.com,PROXY
 DOMAIN-SUFFIX,fire-emblem-heroes.com,PROXY
 DOMAIN-SUFFIX,firearmsworld.net,PROXY
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com,PROXY
 DOMAIN-SUFFIX,firebase.com,PROXY
 DOMAIN-SUFFIX,firebase.io,PROXY
 DOMAIN-SUFFIX,firebaseapp.com,PROXY
@@ -21823,7 +21823,6 @@ DOMAIN-SUFFIX,uoherald.com,PROXY
 DOMAIN-SUFFIX,up.audio,PROXY
 DOMAIN-SUFFIX,up01.cc,PROXY
 DOMAIN-SUFFIX,upbit.com,PROXY
-DOMAIN-SUFFIX,update.crashlytics.com,PROXY
 DOMAIN-SUFFIX,updatetube.com,PROXY
 DOMAIN-SUFFIX,upfrontcfd.com,PROXY
 DOMAIN-SUFFIX,upfrontfea.com,PROXY
