@@ -759,6 +759,7 @@ DOMAIN-SUFFIX,adguard.info,PROXY
 DOMAIN-SUFFIX,adguard.io,PROXY
 DOMAIN-SUFFIX,adguard.org,PROXY
 DOMAIN-SUFFIX,adguardaccount.com,PROXY
+DOMAIN-SUFFIX,adguardcdn.com,PROXY
 DOMAIN-SUFFIX,adguardvpn.com,PROXY
 DOMAIN-SUFFIX,adhelpnews.com,PROXY
 DOMAIN-SUFFIX,adidas-archive.org,PROXY
