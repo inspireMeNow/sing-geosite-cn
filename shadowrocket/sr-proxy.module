@@ -14844,6 +14844,7 @@ DOMAIN-SUFFIX,minilondon.ca,PROXY
 DOMAIN-SUFFIX,minilondon.co,PROXY
 DOMAIN-SUFFIX,minimarkham.ca,PROXY
 DOMAIN-SUFFIX,minimarkham.com,PROXY
+DOMAIN-SUFFIX,minimax.io,PROXY
 DOMAIN-SUFFIX,minimoncton.ca,PROXY
 DOMAIN-SUFFIX,minimoncton.com,PROXY
 DOMAIN-SUFFIX,minimontrealcentre.ca,PROXY
@@ -19278,6 +19279,7 @@ DOMAIN-SUFFIX,scnsrc.me,PROXY
 DOMAIN-SUFFIX,scolle.net,PROXY
 DOMAIN-SUFFIX,scoop.sh,PROXY
 DOMAIN-SUFFIX,scopus.com,PROXY
+DOMAIN-SUFFIX,scorecardresearch.com,PROXY
 DOMAIN-SUFFIX,scoreclassics.com,PROXY
 DOMAIN-SUFFIX,scorediscounts.club,PROXY
 DOMAIN-SUFFIX,scoregroup.com,PROXY
