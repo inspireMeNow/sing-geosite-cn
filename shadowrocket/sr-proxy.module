@@ -25851,6 +25851,7 @@ DOMAIN,time4.facebook.com,PROXY
 DOMAIN,time4.google.com,PROXY
 DOMAIN,time5.facebook.com,PROXY
 DOMAIN,tmdb-image-prod.b-cdn.net,PROXY
+DOMAIN,tmdb-web-image-prod.b-cdn.net,PROXY
 DOMAIN,tv.applemusic.com,PROXY
 DOMAIN,tvcastlive-hamivideo.cdn.hinet.net,PROXY
 DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com,PROXY
