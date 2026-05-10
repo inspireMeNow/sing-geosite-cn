@@ -38,6 +38,7 @@ DOMAIN,certs.apple.com,DIRECT
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,cl1.apple.com,DIRECT
 DOMAIN,cl2-cn.apple.com,DIRECT
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN,cl2.apple.com,DIRECT
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,cl3.apple.com,DIRECT
@@ -63,6 +64,7 @@ DOMAIN,experiments.apple.com,DIRECT
 DOMAIN,gs-loc-cn.apple.com,DIRECT
 DOMAIN,gs-loc.apple.com,DIRECT
 DOMAIN,gsp10-ssl-cn.ls.apple.com,DIRECT
+DOMAIN,gsp11-cn.ls.apple.com,DIRECT
 DOMAIN,gsp12-cn.ls.apple.com,DIRECT
 DOMAIN,gsp13-cn.ls.apple.com,DIRECT
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
@@ -81,8 +83,6 @@ DOMAIN,guzzoni-apple-com.v.aaplimg.com,DIRECT
 DOMAIN,guzzoni.apple.com,DIRECT
 DOMAIN,guzzoni.smoot.apple.com,DIRECT
 DOMAIN,iadsdk.apple.com,DIRECT
-DOMAIN,icloud-cdn.icloud.com.akadns.net,DIRECT
-DOMAIN,icloud.cdn-apple.com,DIRECT
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN,init-kt.apple.com,DIRECT
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net,DIRECT
@@ -115,20 +115,16 @@ DOMAIN,mesu-china.apple.com.akadns.net,DIRECT
 DOMAIN,mesu.apple.com,DIRECT
 DOMAIN,ml.cdn-apple.com,DIRECT
 DOMAIN,music.apple.com,DIRECT
-DOMAIN,ocsp-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp.apple.com,DIRECT
-DOMAIN,ocsp2-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp2.apple.com,DIRECT
 DOMAIN,oscdn.apple.com,DIRECT
 DOMAIN,oscdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,osxapps.itunes.g.aaplimg.com,DIRECT
 DOMAIN,pancake.apple.com,DIRECT
-DOMAIN,pancake.cdn-apple.com.akadns.net,DIRECT
 DOMAIN,pba0.apple.com,DIRECT
 DOMAIN,probe.siri.apple.com,DIRECT
 DOMAIN,prod-support.apple-support.akadns.net,DIRECT
 DOMAIN,publicassets.cdn-apple.com,DIRECT
-DOMAIN,reserve-prime.apple.com,DIRECT
 DOMAIN,s.mzstatic.com,DIRECT
 DOMAIN,seed-sequoia.siri.apple.com,DIRECT
 DOMAIN,seed-swallow.siri.apple.com,DIRECT
