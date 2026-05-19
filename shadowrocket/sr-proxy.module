@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,54647.org,PROXY
 DOMAIN-SUFFIX,55dndn.com,PROXY
 DOMAIN-SUFFIX,567321.online,PROXY
 DOMAIN-SUFFIX,568xe.com,PROXY
+DOMAIN-SUFFIX,573.jp,PROXY
 DOMAIN-SUFFIX,58avgo.com,PROXY
 DOMAIN-SUFFIX,592r.com,PROXY
 DOMAIN-SUFFIX,59mvmv.com,PROXY
@@ -13252,6 +13253,7 @@ DOMAIN-SUFFIX,keytransparency.com,PROXY
 DOMAIN-SUFFIX,keytransparency.foo,PROXY
 DOMAIN-SUFFIX,keytransparency.org,PROXY
 DOMAIN-SUFFIX,kfs.io,PROXY
+DOMAIN-SUFFIX,kgisystems.com,PROXY
 DOMAIN-SUFFIX,kgslb.com,PROXY
 DOMAIN-SUFFIX,khanacademy.org,PROXY
 DOMAIN-SUFFIX,khatrimaza.org,PROXY
@@ -13345,6 +13347,7 @@ DOMAIN-SUFFIX,kisscos.net,PROXY
 DOMAIN-SUFFIX,kissjav.com,PROXY
 DOMAIN-SUFFIX,kissjav.li,PROXY
 DOMAIN-SUFFIX,kitakyushubank.co.jp,PROXY
+DOMAIN-SUFFIX,kiwi.jp,PROXY
 DOMAIN-SUFFIX,kiwi.kz,PROXY
 DOMAIN-SUFFIX,kiwibrowser.com,PROXY
 DOMAIN-SUFFIX,kiyobank.co.jp,PROXY
@@ -13382,6 +13385,20 @@ DOMAIN-SUFFIX,kompozer.net,PROXY
 DOMAIN-SUFFIX,konachan.com,PROXY
 DOMAIN-SUFFIX,konachan.net,PROXY
 DOMAIN-SUFFIX,konachan.wjcodes.com,PROXY
+DOMAIN-SUFFIX,konami,PROXY
+DOMAIN-SUFFIX,konami-igaming.online,PROXY
+DOMAIN-SUFFIX,konami.co.jp,PROXY
+DOMAIN-SUFFIX,konami.com,PROXY
+DOMAIN-SUFFIX,konami.net,PROXY
+DOMAIN-SUFFIX,konami.org,PROXY
+DOMAIN-SUFFIX,konamicrossmedia.com,PROXY
+DOMAIN-SUFFIX,konamigaming.com,PROXY
+DOMAIN-SUFFIX,konamigaming.net,PROXY
+DOMAIN-SUFFIX,konamigaming.online,PROXY
+DOMAIN-SUFFIX,konamionline.com,PROXY
+DOMAIN-SUFFIX,konamiopen.jp,PROXY
+DOMAIN-SUFFIX,konamisportsclub.jp,PROXY
+DOMAIN-SUFFIX,konamistyle.jp,PROXY
 DOMAIN-SUFFIX,koolsolutions.com,PROXY
 DOMAIN-SUFFIX,koornk.com,PROXY
 DOMAIN-SUFFIX,kopfhorergunstigshop.com,PROXY
@@ -18963,6 +18980,8 @@ DOMAIN-SUFFIX,researchkit.hk,PROXY
 DOMAIN-SUFFIX,researchkit.net,PROXY
 DOMAIN-SUFFIX,researchkit.org,PROXY
 DOMAIN-SUFFIX,researchkit.tv,PROXY
+DOMAIN-SUFFIX,resella.jp,PROXY
+DOMAIN-SUFFIX,resellablue.com,PROXY
 DOMAIN-SUFFIX,resilio.com,PROXY
 DOMAIN-SUFFIX,resistchina.org,PROXY
 DOMAIN-SUFFIX,resonabank.co.jp,PROXY
@@ -25329,6 +25348,7 @@ DOMAIN-SUFFIX,ytn.co.kr,PROXY
 DOMAIN-SUFFIX,yuanming.net,PROXY
 DOMAIN-SUFFIX,yuenuge113.xyz,PROXY
 DOMAIN-SUFFIX,yuenuge18.cc,PROXY
+DOMAIN-SUFFIX,yugioh-card.com,PROXY
 DOMAIN-SUFFIX,yulghun.com,PROXY
 DOMAIN-SUFFIX,yuming.qxbbs.org,PROXY
 DOMAIN-SUFFIX,yunchao.net,PROXY
