@@ -1293,6 +1293,7 @@ DOMAIN-SUFFIX,alchemysynth.com,PROXY
 DOMAIN-SUFFIX,alefbank.com,PROXY
 DOMAIN-SUFFIX,alexa.com,PROXY
 DOMAIN-SUFFIX,alexanderstreet.com,PROXY
+DOMAIN-SUFFIX,alfa.me,PROXY
 DOMAIN-SUFFIX,alfabank.oavdo.amc,PROXY
 DOMAIN-SUFFIX,alfabank.ru,PROXY
 DOMAIN-SUFFIX,alfabank.st,PROXY
@@ -15729,6 +15730,7 @@ DOMAIN-SUFFIX,mysocialworklab.com,PROXY
 DOMAIN-SUFFIX,myspacecdn.com,PROXY
 DOMAIN-SUFFIX,mysql.com,PROXY
 DOMAIN-SUFFIX,mystrikingly.com,PROXY
+DOMAIN-SUFFIX,myteamspeak.com,PROXY
 DOMAIN-SUFFIX,myteenwebcam.com,PROXY
 DOMAIN-SUFFIX,mythicentertainment.com,PROXY
 DOMAIN-SUFFIX,mythicentertainment.net,PROXY
@@ -21226,6 +21228,8 @@ DOMAIN-SUFFIX,teachmyass.com,PROXY
 DOMAIN-SUFFIX,teachparentstech.org,PROXY
 DOMAIN-SUFFIX,teamneedforspeed.com,PROXY
 DOMAIN-SUFFIX,teamskeet.com,PROXY
+DOMAIN-SUFFIX,teamspeak-services.com,PROXY
+DOMAIN-SUFFIX,teamspeak.com,PROXY
 DOMAIN-SUFFIX,teamviewer.com,PROXY
 DOMAIN-SUFFIX,teamviewer.us,PROXY
 DOMAIN-SUFFIX,tearapeak.com,PROXY
@@ -25778,6 +25782,7 @@ DOMAIN,espndotcom.tt.omtrdc.net,PROXY
 DOMAIN,f3b7q2p3.ssl.hwcdn.net,PROXY
 DOMAIN,fandom.zendesk.com,PROXY
 DOMAIN,faronics.kayako.com,PROXY
+DOMAIN,favoritescc-hamivideo2.cdn.hinet.net,PROXY
 DOMAIN,fbcdn-a.akamaihd.net,PROXY
 DOMAIN,firebase.google.com,PROXY
 DOMAIN,firebase.googleapis.com,PROXY
@@ -25834,6 +25839,7 @@ DOMAIN,imperial.insendi.com,PROXY
 DOMAIN,ingest.apple-studies.com,PROXY
 DOMAIN,lastfm.freetls.fastly.net,PROXY
 DOMAIN,lazer.ppy.sh,PROXY
+DOMAIN,lgcscc-hamivideo2.cdn.hinet.net,PROXY
 DOMAIN,lgelectronics.122.2o7.net,PROXY
 DOMAIN,licdn.cn.cdn20.com,PROXY
 DOMAIN,linear-abematv.akamaized.net,PROXY
@@ -26095,6 +26101,7 @@ DOMAIN,t21.nikkei.co.jp,PROXY
 DOMAIN,t21ipau.nikkei.co.jp,PROXY
 DOMAIN,teamviewer.com.cdn.cloudflare.net,PROXY
 DOMAIN,tesla-cdn.thron.com,PROXY
+DOMAIN,thumbnail-hamivideo.cdn.hinet.net,PROXY
 DOMAIN,time-a-b.nist.gov,PROXY
 DOMAIN,time-a-g.nist.gov,PROXY
 DOMAIN,time-a-wwv.nist.gov,PROXY
@@ -26128,6 +26135,7 @@ DOMAIN,time3.google.com,PROXY
 DOMAIN,time4.facebook.com,PROXY
 DOMAIN,time4.google.com,PROXY
 DOMAIN,time5.facebook.com,PROXY
+DOMAIN,tlmr-hamivideo2.cdn.hinet.net,PROXY
 DOMAIN,tmdb-image-prod.b-cdn.net,PROXY
 DOMAIN,tmdb-web-image-prod.b-cdn.net,PROXY
 DOMAIN,tv.applemusic.com,PROXY
@@ -26190,6 +26198,7 @@ DOMAIN,vsmarketplacebadge.apphb.com,PROXY
 DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com,PROXY
 DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
 DOMAIN,weblive-hamivideo.cdn.hinet.net,PROXY
+DOMAIN,webvodad-hamivideo.cdn.hinet.net,PROXY
 DOMAIN,widgets.stripst.com,PROXY
 DOMAIN,wip.adobe.com,PROXY
 DOMAIN,wip1.adobe.com,PROXY
