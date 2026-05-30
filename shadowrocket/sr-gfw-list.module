@@ -266,6 +266,7 @@ DOMAIN-SUFFIX,arte.tv,PROXY
 DOMAIN-SUFFIX,artstation.com,PROXY
 DOMAIN-SUFFIX,arvanstorage.ir,PROXY
 DOMAIN-SUFFIX,arweave.org,PROXY
+DOMAIN-SUFFIX,as.mr,PROXY
 DOMAIN-SUFFIX,asacp.org,PROXY
 DOMAIN-SUFFIX,asiaharvest.org,PROXY
 DOMAIN-SUFFIX,asianage.com,PROXY
@@ -330,6 +331,7 @@ DOMAIN-SUFFIX,bangchen.net,PROXY
 DOMAIN-SUFFIX,bangdream.space,PROXY
 DOMAIN-SUFFIX,bangkokpost.com,PROXY
 DOMAIN-SUFFIX,bangumi.moe,PROXY
+DOMAIN-SUFFIX,bangumi.tv,PROXY
 DOMAIN-SUFFIX,bangyoulater.com,PROXY
 DOMAIN-SUFFIX,bankmobilevibe.com,PROXY
 DOMAIN-SUFFIX,bannedbook.org,PROXY
@@ -385,6 +387,7 @@ DOMAIN-SUFFIX,bettween.com,PROXY
 DOMAIN-SUFFIX,betvictor.com,PROXY
 DOMAIN-SUFFIX,bfnn.org,PROXY
 DOMAIN-SUFFIX,bfsh.hk,PROXY
+DOMAIN-SUFFIX,bgm.tv,PROXY
 DOMAIN-SUFFIX,bgme.me,PROXY
 DOMAIN-SUFFIX,bgvpn.com,PROXY
 DOMAIN-SUFFIX,biblesforamerica.org,PROXY
@@ -703,6 +706,7 @@ DOMAIN-SUFFIX,chenpokongvip.com,PROXY
 DOMAIN-SUFFIX,chenshan20042005.wordpress.com,PROXY
 DOMAIN-SUFFIX,cherrysave.com,PROXY
 DOMAIN-SUFFIX,chhongbi.org,PROXY
+DOMAIN-SUFFIX,chii.in,PROXY
 DOMAIN-SUFFIX,china-mmm.net,PROXY
 DOMAIN-SUFFIX,china-review.com.ua,PROXY
 DOMAIN-SUFFIX,china-week.com,PROXY
@@ -804,7 +808,6 @@ DOMAIN-SUFFIX,cn.theaustralian.com.au,PROXY
 DOMAIN-SUFFIX,cn.uptodown.com,PROXY
 DOMAIN-SUFFIX,cna.com.tw,PROXY
 DOMAIN-SUFFIX,cnbbnews.wordpress.com,PROXY
-DOMAIN-SUFFIX,cnbc.com,PROXY
 DOMAIN-SUFFIX,cnbeta.com.tw,PROXY
 DOMAIN-SUFFIX,cnd.org,PROXY
 DOMAIN-SUFFIX,cnnews.chosun.com,PROXY
@@ -1381,6 +1384,7 @@ DOMAIN-SUFFIX,gdaily.org,PROXY
 DOMAIN-SUFFIX,geek-art.net,PROXY
 DOMAIN-SUFFIX,gekikame.com,PROXY
 DOMAIN-SUFFIX,gelbooru.com,PROXY
+DOMAIN-SUFFIX,gencraft.com,PROXY
 DOMAIN-SUFFIX,generated.photos,PROXY
 DOMAIN-SUFFIX,genius.com,PROXY
 DOMAIN-SUFFIX,geph.io,PROXY
@@ -1795,6 +1799,7 @@ DOMAIN-SUFFIX,heyuedi.com,PROXY
 DOMAIN-SUFFIX,hicairo.com,PROXY
 DOMAIN-SUFFIX,hiccears.com,PROXY
 DOMAIN-SUFFIX,hidden-advent.org,PROXY
+DOMAIN-SUFFIX,hiddify.com,PROXY
 DOMAIN-SUFFIX,hide.me,PROXY
 DOMAIN-SUFFIX,hideipvpn.com,PROXY
 DOMAIN-SUFFIX,hideman.net,PROXY
@@ -3206,7 +3211,6 @@ DOMAIN-SUFFIX,socialblade.com,PROXY
 DOMAIN-SUFFIX,socks-proxy.net,PROXY
 DOMAIN-SUFFIX,sockslist.net,PROXY
 DOMAIN-SUFFIX,socrec.org,PROXY
-DOMAIN-SUFFIX,softether-download.com,PROXY
 DOMAIN-SUFFIX,softether.co.jp,PROXY
 DOMAIN-SUFFIX,softether.org,PROXY
 DOMAIN-SUFFIX,softfamous.com,PROXY
@@ -3784,6 +3788,7 @@ DOMAIN-SUFFIX,vaticannews.va,PROXY
 DOMAIN-SUFFIX,vatn.org,PROXY
 DOMAIN-SUFFIX,vcf-online.org,PROXY
 DOMAIN-SUFFIX,vcfbuilder.org,PROXY
+DOMAIN-SUFFIX,veed.io,PROXY
 DOMAIN-SUFFIX,vegas.williamhill.com,PROXY
 DOMAIN-SUFFIX,vegasred.com,PROXY
 DOMAIN-SUFFIX,venetianmacao.com,PROXY
@@ -4152,7 +4157,6 @@ DOMAIN-SUFFIX,yeyeclub.com,PROXY
 DOMAIN-SUFFIX,yfsp.tv,PROXY
 DOMAIN-SUFFIX,yhcw.net,PROXY
 DOMAIN-SUFFIX,yibaochina.com,PROXY
-DOMAIN-SUFFIX,yidio.com,PROXY
 DOMAIN-SUFFIX,yigeni.com,PROXY
 DOMAIN-SUFFIX,yipub.com,PROXY
 DOMAIN-SUFFIX,yizhihongxing.com,PROXY
