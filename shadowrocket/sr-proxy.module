@@ -6761,6 +6761,7 @@ DOMAIN-SUFFIX,disneyturkiye.com.tr,PROXY
 DOMAIN-SUFFIX,disneytvajobs.com,PROXY
 DOMAIN-SUFFIX,disneyworld-go.com,PROXY
 DOMAIN-SUFFIX,disp.cc,PROXY
+DOMAIN-SUFFIX,disq.us,PROXY
 DOMAIN-SUFFIX,disqus.com,PROXY
 DOMAIN-SUFFIX,disquscdn.com,PROXY
 DOMAIN-SUFFIX,disqusservice.com,PROXY
@@ -24362,11 +24363,15 @@ DOMAIN-SUFFIX,xhamster.xxx,PROXY
 DOMAIN-SUFFIX,xhamster18.com,PROXY
 DOMAIN-SUFFIX,xhamster18.desi,PROXY
 DOMAIN-SUFFIX,xhamster19.com,PROXY
+DOMAIN-SUFFIX,xhamster2.com,PROXY
 DOMAIN-SUFFIX,xhamster3.com,PROXY
 DOMAIN-SUFFIX,xhamsterlive.com,PROXY
 DOMAIN-SUFFIX,xhcdn.com,PROXY
+DOMAIN-SUFFIX,xhnews.live,PROXY
 DOMAIN-SUFFIX,xhot.pro,PROXY
+DOMAIN-SUFFIX,xhpingcdn.com,PROXY
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,xhreal5.com,PROXY
 DOMAIN-SUFFIX,xhub.tv,PROXY
 DOMAIN-SUFFIX,xiangrikui-app.com,PROXY
 DOMAIN-SUFFIX,xianir.xyz,PROXY
@@ -25906,6 +25911,7 @@ DOMAIN,media-rockstargames-com.akamaized.net,PROXY
 DOMAIN,medone-education.thieme.com,PROXY
 DOMAIN,misa-prod.s3.ap-northeast-1.amazonaws.com,PROXY
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net,PROXY
+DOMAIN,mozilla-ohttp.fastly-edge.com,PROXY
 DOMAIN,mscrl.microsoft.com,PROXY
 DOMAIN,msh.amazon.co.uk,PROXY
 DOMAIN,mtalk-dev.google.com,PROXY
