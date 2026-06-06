@@ -5462,6 +5462,7 @@ DOMAIN-SUFFIX,clau.de,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
 DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,claudemcpclient.com,PROXY
+DOMAIN-SUFFIX,claudemcpcontent.com,PROXY
 DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 DOMAIN-SUFFIX,clawhub.ai,PROXY
 DOMAIN-SUFFIX,clck.ru,PROXY
@@ -21205,6 +21206,7 @@ DOMAIN-SUFFIX,sustainabledesigncouncil.net,PROXY
 DOMAIN-SUFFIX,sustainthesound.com,PROXY
 DOMAIN-SUFFIX,suxib.com,PROXY
 DOMAIN-SUFFIX,suxiebu.com,PROXY
+DOMAIN-SUFFIX,suyingtv.com,PROXY
 DOMAIN-SUFFIX,suzuri.jp,PROXY
 DOMAIN-SUFFIX,svaboda.org,PROXY
 DOMAIN-SUFFIX,svc.ms,PROXY
@@ -24334,6 +24336,7 @@ DOMAIN-SUFFIX,woyaolian.org,PROXY
 DOMAIN-SUFFIX,wp-themes.com,PROXY
 DOMAIN-SUFFIX,wp.com,PROXY
 DOMAIN-SUFFIX,wpewebkit.org,PROXY
+DOMAIN-SUFFIX,wplace.live,PROXY
 DOMAIN-SUFFIX,wpoforum.com,PROXY
 DOMAIN-SUFFIX,wpvip.com,PROXY
 DOMAIN-SUFFIX,wrenchead.com,PROXY
@@ -26539,6 +26542,7 @@ DOMAIN,wwis-dubc1-vip97.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip98.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip99.adobe.com,PROXY
 DOMAIN,www-cdn.icloud.com.akadns.net,PROXY
+DOMAIN,www.quora.com.cdn.cloudflare.net,PROXY
 DOMAIN,yangzhi.app,PROXY
 DOMAIN,yt3.googleusercontent.com,PROXY
 DOMAIN,zeenews-fonts.s3.amazonaws.com,PROXY
