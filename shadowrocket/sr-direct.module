@@ -112550,6 +112550,7 @@ DOMAIN,cl1.apple.com,DIRECT
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,cl2-cn.apple.com,DIRECT
 DOMAIN,cl2.apple.com,DIRECT
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net,DIRECT
 DOMAIN,cl3.apple.com,DIRECT
 DOMAIN,cl4-cdn.origin-apple.com.akadns.net,DIRECT
@@ -112690,6 +112691,7 @@ DOMAIN,googlevads-cn.com,DIRECT
 DOMAIN,gs-loc-cn.apple.com,DIRECT
 DOMAIN,gs-loc.apple.com,DIRECT
 DOMAIN,gsp10-ssl-cn.ls.apple.com,DIRECT
+DOMAIN,gsp11-cn.ls.apple.com,DIRECT
 DOMAIN,gsp12-cn.ls.apple.com,DIRECT
 DOMAIN,gsp13-cn.ls.apple.com,DIRECT
 DOMAIN,gsp4-cn.ls.apple.com,DIRECT
@@ -112718,8 +112720,6 @@ DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com,DIRECT
 DOMAIN,hospital.pku.edu.cn,DIRECT
 DOMAIN,i.dell.com,DIRECT
 DOMAIN,i.pki.goog,DIRECT
-DOMAIN,icloud-cdn.icloud.com.akadns.net,DIRECT
-DOMAIN,icloud.cdn-apple.com,DIRECT
 DOMAIN,images-cn-8.ssl-images-amazon.com,DIRECT
 DOMAIN,images-cn.ssl-images-amazon.com,DIRECT
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net,DIRECT
@@ -112817,10 +112817,8 @@ DOMAIN,ntp5.tencent.com,DIRECT
 DOMAIN,ntp6.aliyun.com,DIRECT
 DOMAIN,ntp7.aliyun.com,DIRECT
 DOMAIN,o.pki.goog,DIRECT
-DOMAIN,ocsp-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp.apple.com,DIRECT
 DOMAIN,ocsp.pki.goog,DIRECT
-DOMAIN,ocsp2-lb.apple.com.akadns.net,DIRECT
 DOMAIN,ocsp2.apple.com,DIRECT
 DOMAIN,oemsoc.download.prss.microsoft.com,DIRECT
 DOMAIN,officecdn.microsoft.com,DIRECT
@@ -112863,7 +112861,6 @@ DOMAIN,p8-juejin.byteimg.com,DIRECT
 DOMAIN,p9-juejin.byteimg.com,DIRECT
 DOMAIN,pagead-googlehosted.l.google.com,DIRECT
 DOMAIN,pancake.apple.com,DIRECT
-DOMAIN,pancake.cdn-apple.com.akadns.net,DIRECT
 DOMAIN,pba0.apple.com,DIRECT
 DOMAIN,pd-nk.itunes.apple.com,DIRECT
 DOMAIN,pd.itunes.apple.com,DIRECT
@@ -112896,7 +112893,6 @@ DOMAIN,redirector.xn--ngstr-lra8j.com,DIRECT
 DOMAIN,refresh-bkg.activation-v2.kaspersky.com,DIRECT
 DOMAIN,res-1.cdn.office.net,DIRECT
 DOMAIN,res.cdn.office.net,DIRECT
-DOMAIN,reserve-prime.apple.com,DIRECT
 DOMAIN,s.mzstatic.com,DIRECT
 DOMAIN,s00.upd.kaspersky.com,DIRECT
 DOMAIN,s01.upd.kaspersky.com,DIRECT
