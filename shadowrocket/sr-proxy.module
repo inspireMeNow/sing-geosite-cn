@@ -9983,8 +9983,10 @@ DOMAIN-SUFFIX,gofile.me,PROXY
 DOMAIN-SUFFIX,gofucker.com,PROXY
 DOMAIN-SUFFIX,gofuckmenow.com,PROXY
 DOMAIN-SUFFIX,gofundme.com,PROXY
+DOMAIN-SUFFIX,gog-services.com,PROXY
 DOMAIN-SUFFIX,gog-statics.com,PROXY
 DOMAIN-SUFFIX,gog.com,PROXY
+DOMAIN-SUFFIX,gogalaxy.com,PROXY
 DOMAIN-SUFFIX,gogettaxi.org,PROXY
 DOMAIN-SUFFIX,gogle.com,PROXY
 DOMAIN-SUFFIX,gogo-load.com,PROXY
@@ -26767,6 +26769,7 @@ DOMAIN,wwis-dubc1-vip97.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip98.adobe.com,PROXY
 DOMAIN,wwis-dubc1-vip99.adobe.com,PROXY
 DOMAIN,www-cdn.icloud.com.akadns.net,PROXY
+DOMAIN,www.microsoft.com,PROXY
 DOMAIN,www.quora.com.cdn.cloudflare.net,PROXY
 DOMAIN,yangzhi.app,PROXY
 DOMAIN,yt3.googleusercontent.com,PROXY
