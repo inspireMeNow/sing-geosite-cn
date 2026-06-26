@@ -111888,6 +111888,7 @@ DOMAIN,a2.mzstatic.com,DIRECT
 DOMAIN,a3.mzstatic.com,DIRECT
 DOMAIN,a4.mzstatic.com,DIRECT
 DOMAIN,a5.mzstatic.com,DIRECT
+DOMAIN,account-cn.alibabacloud.com,DIRECT
 DOMAIN,activate.activation-v2.kaspersky.com,DIRECT
 DOMAIN,activation-v2.geo.kaspersky.com,DIRECT
 DOMAIN,activation-v2.kaspersky.com,DIRECT
@@ -111910,6 +111911,7 @@ DOMAIN,amp-api.music.apple.com,DIRECT
 DOMAIN,aod-ssl.itunes.apple.com,DIRECT
 DOMAIN,aod.itunes.apple.com,DIRECT
 DOMAIN,api-edge.apps.apple.com,DIRECT
+DOMAIN,api.alibabacloud.com,DIRECT
 DOMAIN,app-analytics-services.com,DIRECT
 DOMAIN,app-measurement-cn.com,DIRECT
 DOMAIN,app-measurement.com,DIRECT
@@ -111983,6 +111985,7 @@ DOMAIN,clientperipherals.dell.com,DIRECT
 DOMAIN,clientservices.googleapis.com,DIRECT
 DOMAIN,cma.itunes.apple.com,DIRECT
 DOMAIN,cn-smp-paymentservices.apple.com,DIRECT
+DOMAIN,cn.alibabacloud.com,DIRECT
 DOMAIN,cn.download.nvidia.com,DIRECT
 DOMAIN,cn.widevine.com,DIRECT
 DOMAIN,cn.windowssearch.com,DIRECT
@@ -112376,6 +112379,7 @@ DOMAIN,staging-databe.floonet.goog,DIRECT
 DOMAIN,staging.databe.floonet.goog,DIRECT
 DOMAIN,static.gc.apple.com,DIRECT
 DOMAIN,statics.teams.cdn.office.net,DIRECT
+DOMAIN,status.alibabacloud.com,DIRECT
 DOMAIN,stocks-sparkline-lb.apple.com.akadns.net,DIRECT
 DOMAIN,stocks-sparkline.apple.com,DIRECT
 DOMAIN,store.apple.com,DIRECT
