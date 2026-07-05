@@ -12260,6 +12260,7 @@ DOMAIN-SUFFIX,anqingonline.com,DIRECT
 DOMAIN-SUFFIX,anqingzhiyun.com,DIRECT
 DOMAIN-SUFFIX,anqn.com,DIRECT
 DOMAIN-SUFFIX,anqu.com,DIRECT
+DOMAIN-SUFFIX,anquan,DIRECT
 DOMAIN-SUFFIX,anquan.info,DIRECT
 DOMAIN-SUFFIX,anquan.org,DIRECT
 DOMAIN-SUFFIX,anquanbao.com,DIRECT
@@ -32483,7 +32484,6 @@ DOMAIN-SUFFIX,embryform.com,DIRECT
 DOMAIN-SUFFIX,embryochina.com,DIRECT
 DOMAIN-SUFFIX,embsky.com,DIRECT
 DOMAIN-SUFFIX,emby.men,DIRECT
-DOMAIN-SUFFIX,emby.yun,DIRECT
 DOMAIN-SUFFIX,embyvip.org,DIRECT
 DOMAIN-SUFFIX,emcbj.com,DIRECT
 DOMAIN-SUFFIX,emcdir.com,DIRECT
@@ -81787,6 +81787,7 @@ DOMAIN-SUFFIX,shouhuigroup.com,DIRECT
 DOMAIN-SUFFIX,shouhuisoft.com,DIRECT
 DOMAIN-SUFFIX,shouhuojiyun.com,DIRECT
 DOMAIN-SUFFIX,shouhuola.com,DIRECT
+DOMAIN-SUFFIX,shouji,DIRECT
 DOMAIN-SUFFIX,shouji.com,DIRECT
 DOMAIN-SUFFIX,shouji.racing,DIRECT
 DOMAIN-SUFFIX,shouji10086.com,DIRECT
@@ -82694,6 +82695,7 @@ DOMAIN-SUFFIX,simuwang.com,DIRECT
 DOMAIN-SUFFIX,simwe.com,DIRECT
 DOMAIN-SUFFIX,simxhs.com,DIRECT
 DOMAIN-SUFFIX,sin0sites.com,DIRECT
+DOMAIN-SUFFIX,sina,DIRECT
 DOMAIN-SUFFIX,sina-cf.com,DIRECT
 DOMAIN-SUFFIX,sina.com,DIRECT
 DOMAIN-SUFFIX,sina.lt,DIRECT
@@ -94569,6 +94571,7 @@ DOMAIN-SUFFIX,weibanan.com,DIRECT
 DOMAIN-SUFFIX,weibang.vip,DIRECT
 DOMAIN-SUFFIX,weibangong.com,DIRECT
 DOMAIN-SUFFIX,weibanzhushou.com,DIRECT
+DOMAIN-SUFFIX,weibo,DIRECT
 DOMAIN-SUFFIX,weibo.com,DIRECT
 DOMAIN-SUFFIX,weibo.tv,DIRECT
 DOMAIN-SUFFIX,weibocdn.com,DIRECT
@@ -99289,6 +99292,7 @@ DOMAIN-SUFFIX,xihaxueche.com,DIRECT
 DOMAIN-SUFFIX,xihazsww.com,DIRECT
 DOMAIN-SUFFIX,xihegp.com,DIRECT
 DOMAIN-SUFFIX,xiherencai.com,DIRECT
+DOMAIN-SUFFIX,xihuan,DIRECT
 DOMAIN-SUFFIX,xihuan.me,DIRECT
 DOMAIN-SUFFIX,xihusgh.com,DIRECT
 DOMAIN-SUFFIX,xiimoon.com,DIRECT
@@ -100582,6 +100586,7 @@ DOMAIN-SUFFIX,xn--8y0a063a,DIRECT
 DOMAIN-SUFFIX,xn--91-y60d638c.xyz,DIRECT
 DOMAIN-SUFFIX,xn--9et52u,DIRECT
 DOMAIN-SUFFIX,xn--9kr72kqwe.com,DIRECT
+DOMAIN-SUFFIX,xn--9krt00a,DIRECT
 DOMAIN-SUFFIX,xn--9myo55bi8l.com,DIRECT
 DOMAIN-SUFFIX,xn--9pr56vfna007k.com,DIRECT
 DOMAIN-SUFFIX,xn--9pry86bq5ex68c.org,DIRECT
@@ -105889,6 +105894,7 @@ DOMAIN-SUFFIX,yumingguwen.com,DIRECT
 DOMAIN-SUFFIX,yumingyouhui.com,DIRECT
 DOMAIN-SUFFIX,yummy.tech,DIRECT
 DOMAIN-SUFFIX,yumstone.com,DIRECT
+DOMAIN-SUFFIX,yun,DIRECT
 DOMAIN-SUFFIX,yun-ac.com,DIRECT
 DOMAIN-SUFFIX,yun-dns.com,DIRECT
 DOMAIN-SUFFIX,yun-gu.com,DIRECT
@@ -111935,6 +111941,7 @@ DOMAIN,edge.geo.kaspersky.com,DIRECT
 DOMAIN,emoi-cncdn.bing.com,DIRECT
 DOMAIN,end-api.shallow.ink,DIRECT
 DOMAIN,end.shallow.ink,DIRECT
+DOMAIN,entitlements-edge.itunes.apple.com,DIRECT
 DOMAIN,experiments.apple.com,DIRECT
 DOMAIN,f.c2r.ts.cdn.office.net,DIRECT
 DOMAIN,fcs.dell.com,DIRECT
@@ -111943,6 +111950,7 @@ DOMAIN,firebase-settings.crashlytics.com,DIRECT
 DOMAIN,fontfiles.googleapis.com,DIRECT
 DOMAIN,fonts.googleapis.com,DIRECT
 DOMAIN,fonts.gstatic.com,DIRECT
+DOMAIN,fpinit.itunes.apple.com,DIRECT
 DOMAIN,fta.dell.com,DIRECT
 DOMAIN,ftaapj.dell.com,DIRECT
 DOMAIN,ftaemea.dell.com,DIRECT

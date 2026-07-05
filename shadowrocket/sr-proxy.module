@@ -1892,6 +1892,7 @@ DOMAIN-SUFFIX,apple-pay.rs,PROXY
 DOMAIN-SUFFIX,apple-pay.wang,PROXY
 DOMAIN-SUFFIX,apple-store.net,PROXY
 DOMAIN-SUFFIX,apple-store.wang,PROXY
+DOMAIN-SUFFIX,apple-studies.com,PROXY
 DOMAIN-SUFFIX,apple-usa.net,PROXY
 DOMAIN-SUFFIX,apple-watch.com.ru,PROXY
 DOMAIN-SUFFIX,apple.ae,PROXY
@@ -2394,6 +2395,7 @@ DOMAIN-SUFFIX,atlasonepoint.com,PROXY
 DOMAIN-SUFFIX,atlassian-dev.net,PROXY
 DOMAIN-SUFFIX,atlassian.com,PROXY
 DOMAIN-SUFFIX,atlassian.net,PROXY
+DOMAIN-SUFFIX,atmeta.com,PROXY
 DOMAIN-SUFFIX,atnext.com,PROXY
 DOMAIN-SUFFIX,atokara.jp,PROXY
 DOMAIN-SUFFIX,atom.io,PROXY
@@ -2773,6 +2775,7 @@ DOMAIN-SUFFIX,aziani.com,PROXY
 DOMAIN-SUFFIX,azirevpn.com,PROXY
 DOMAIN-SUFFIX,aznude.com,PROXY
 DOMAIN-SUFFIX,azure,PROXY
+DOMAIN-SUFFIX,azure-api.net,PROXY
 DOMAIN-SUFFIX,azure-devices-int.net,PROXY
 DOMAIN-SUFFIX,azure-devices.net,PROXY
 DOMAIN-SUFFIX,azure-dns.com,PROXY
@@ -2810,6 +2813,7 @@ DOMAIN-SUFFIX,azureplanetscale.net,PROXY
 DOMAIN-SUFFIX,azureserviceprofiler.com,PROXY
 DOMAIN-SUFFIX,azuresmartspaces.net,PROXY
 DOMAIN-SUFFIX,azurestackvalidation.com,PROXY
+DOMAIN-SUFFIX,azurestaticapps.net,PROXY
 DOMAIN-SUFFIX,azurewebsites.net,PROXY
 DOMAIN-SUFFIX,b-cdn.net,PROXY
 DOMAIN-SUFFIX,b-eroland.net,PROXY
@@ -26342,7 +26346,6 @@ DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
 DOMAIN,img-s-msn-com.akamaized.net,PROXY
 DOMAIN,impala-media-production.s3.amazonaws.com,PROXY
 DOMAIN,imperial.insendi.com,PROXY
-DOMAIN,ingest.apple-studies.com,PROXY
 DOMAIN,lastfm.freetls.fastly.net,PROXY
 DOMAIN,lazer.ppy.sh,PROXY
 DOMAIN,lgcscc-hamivideo2.cdn.hinet.net,PROXY
