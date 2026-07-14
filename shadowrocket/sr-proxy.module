@@ -1302,7 +1302,6 @@ DOMAIN-SUFFIX,alefbank.com,PROXY
 DOMAIN-SUFFIX,alexa.com,PROXY
 DOMAIN-SUFFIX,alexanderstreet.com,PROXY
 DOMAIN-SUFFIX,alfa.me,PROXY
-DOMAIN-SUFFIX,alfabank.oavdo.amc,PROXY
 DOMAIN-SUFFIX,alfabank.ru,PROXY
 DOMAIN-SUFFIX,alfabank.st,PROXY
 DOMAIN-SUFFIX,alfadirect.ru,PROXY
@@ -5197,6 +5196,7 @@ DOMAIN-SUFFIX,chat.lmsys.org,PROXY
 DOMAIN-SUFFIX,chatango.com,PROXY
 DOMAIN-SUFFIX,chatgpt.com,PROXY
 DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
+DOMAIN-SUFFIX,chatgpt.site,PROXY
 DOMAIN-SUFFIX,chatgptvideo.xyz,PROXY
 DOMAIN-SUFFIX,chatgptvideob.buzz,PROXY
 DOMAIN-SUFFIX,chatpdf.com,PROXY
@@ -10057,7 +10057,6 @@ DOMAIN-SUFFIX,gongyichuangyi.net,PROXY
 DOMAIN-SUFFIX,gonike.com,PROXY
 DOMAIN-SUFFIX,gonzo-movies.com,PROXY
 DOMAIN-SUFFIX,gonzo.com,PROXY
-DOMAIN-SUFFIX,goo,PROXY
 DOMAIN-SUFFIX,goo.gl,PROXY
 DOMAIN-SUFFIX,goo.ne.jp,PROXY
 DOMAIN-SUFFIX,gooblox.com,PROXY
@@ -12295,7 +12294,6 @@ DOMAIN-SUFFIX,intagram.com,PROXY
 DOMAIN-SUFFIX,intagrm.com,PROXY
 DOMAIN-SUFFIX,intc.com,PROXY
 DOMAIN-SUFFIX,integral7.com,PROXY
-DOMAIN-SUFFIX,intel,PROXY
 DOMAIN-SUFFIX,intel-research.net,PROXY
 DOMAIN-SUFFIX,intel-university-collaboration.net,PROXY
 DOMAIN-SUFFIX,intel.ac,PROXY
@@ -13470,6 +13468,7 @@ DOMAIN-SUFFIX,khatrimaza.org,PROXY
 DOMAIN-SUFFIX,khotruyentranhx.com,PROXY
 DOMAIN-SUFFIX,kichiku-doujinko.com,PROXY
 DOMAIN-SUFFIX,kichikuou.com,PROXY
+DOMAIN-SUFFIX,kick.com,PROXY
 DOMAIN-SUFFIX,kickporn.com,PROXY
 DOMAIN-SUFFIX,kickshatchannel.com,PROXY
 DOMAIN-SUFFIX,kicksnike1.com,PROXY
@@ -13596,7 +13595,6 @@ DOMAIN-SUFFIX,kompozer.net,PROXY
 DOMAIN-SUFFIX,konachan.com,PROXY
 DOMAIN-SUFFIX,konachan.net,PROXY
 DOMAIN-SUFFIX,konachan.wjcodes.com,PROXY
-DOMAIN-SUFFIX,konami,PROXY
 DOMAIN-SUFFIX,konami-igaming.online,PROXY
 DOMAIN-SUFFIX,konami.co.jp,PROXY
 DOMAIN-SUFFIX,konami.com,PROXY
@@ -26461,11 +26459,7 @@ DOMAIN,play-edge.itunes.apple.com,PROXY
 DOMAIN,poshtestgallery.cloudapp.net,PROXY
 DOMAIN,ppl-ai-file-upload.s3.amazonaws.com,PROXY
 DOMAIN,pplx-res.cloudinary.com,PROXY
-DOMAIN,practivate.adobe,PROXY
 DOMAIN,practivate.adobe.com,PROXY
-DOMAIN,practivate.adobe.ipp,PROXY
-DOMAIN,practivate.adobe.newoa,PROXY
-DOMAIN,practivate.adobe.ntp,PROXY
 DOMAIN,prd-priconne-redive.akamaized.net,PROXY
 DOMAIN,preprod-publicca.googleapis.com,PROXY
 DOMAIN,prodforza.blob.core.windows.net,PROXY
